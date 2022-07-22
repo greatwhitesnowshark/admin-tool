@@ -1,1 +1,0 @@
-﻿select * From account where sAccountclubid = "boredjs"

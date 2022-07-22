@@ -1,1 +1,0 @@
-﻿select * from blocked where saddr = "111.65.60.25" or shwid = "abda0c02d355af502dbde565bd3f17d0"

@@ -1,9 +1,0 @@
-﻿select a.dwAccountID as AccountID, sAccountClubID as AccountName, from_unixtime(a.ftRegisterDate/1000) as RegisteredDate, i.nItemID as ItemID, SUM(i.nNumber) as ItemCount, a.nDonationPoint as DonationPoint, a.nAccountCash as AccountCash
-FROM `schema0`.`itemslotbundle` i
-INNER JOIN `schema0`.`character` c ON i.dwcharacterid = c.dwcharacterid
-INNER JOIN `schema`.`account` a ON a.dwaccountid = c.dwaccountid
-LEFT JOIN `schema0`.`trunkbundle` t ON t.dwaccountid = a.dwaccountid AND t.nitemid = i.nitemid
-WHERE i.nItemID = 4430000 AND a.nBlockReason = 0
-GROUP BY a.dwAccountID
-order by ItemCount desc, DonationPoint desc, AccountCash desc
-limit 100

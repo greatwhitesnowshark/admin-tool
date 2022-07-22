@@ -1,2 +1,0 @@
-﻿select a.dwAccountID, a.sAccountClubID, c.dwCharacterID, c.sCharacterName, i.* from schema0.itemslotequip i INNER JOIN (SELECT dwAccountID, dwCharacterID, sCharacterName FROM schema0.character) c ON i.dwCharacterID = c.dwCharacterID INNER JOIN (SELECT dwAccountID, sAccountClubID FROM schema.account) a ON a.dwAccountID = c.dwAccountID
-WHERE sAccountClubID = "Viva"
