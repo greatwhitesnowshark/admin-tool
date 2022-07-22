@@ -25,9 +25,8 @@ records with... many other things... [lucky159-Layloi.txt](https://github.com/gr
 
 Example output of an "Items-lookup", which checks all of the items that are in an account's possession [so it checks ALL users on their account, there could be up to 50 users on a single account, each with their own item inventories] - then analyzes the item properties and prints out a comprehensive list with specific details and more information - [lalaelmo123.txt](https://github.com/greatwhitesnowshark/admin-tool/files/9165347/lalaelmo123.txt)
 
+There are many SQL examples in the sql/query folder that show how tables can be joined to combine data effectively.
 
-Yeah, it's already pretty impressive. I know. Useless now but nobody could hide from me! >:D
+
 Hackers & exploiters of games can go die.
-
-
 Designed for <Specific App>, 2020-death
