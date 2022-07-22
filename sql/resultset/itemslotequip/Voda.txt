@@ -1,0 +1,1696 @@
+Total # of loaded items = 126
+
+		`liCashItemSN`           -> 1270169147141173251
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Round Glasses
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1272163556384706560
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Ice Cold Red
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1272356372897521664
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Junior GM Cap
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1276938538709114880
+		`dwCharacterID`          -> 8
+		`nItemID`                -> null
+		`nRUC`                   -> 10
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1278779975444664320
+		`dwCharacterID`          -> 8
+		`nItemID`                -> null
+		`nCUC`                   -> 4
+		`niSTR`                  -> 158
+		`niDEX`                  -> 167
+		`niINT`                  -> 158
+		`niLUK`                  -> 167
+		`niMaxHP`                -> 520
+		`niMaxMP`                -> 518
+		`niPAD`                  -> 124
+		`niMAD`                  -> 131
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> All Stats: +#incSTRr% (6)
+		`nOption5`               -> INT per 10 Character Levels: +#incINTlv (2)
+		`nOption6`               -> INT: +#incINTr% (6)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1278801331435483136
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Breath of Divinity
+		`nCUC`                   -> 3
+		`niSTR`                  -> 137
+		`niDEX`                  -> 147
+		`niINT`                  -> 139
+		`niLUK`                  -> 143
+		`niMaxHP`                -> 461
+		`niMaxMP`                -> 469
+		`niPAD`                  -> 121
+		`niMAD`                  -> 130
+		`niSpeed`                -> 30
+		`niJump`                 -> 28
+		`nLevelUpType`           -> 4
+		`nLevel`                 -> 1
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> Magic ATT: +#incMAD (15)
+		`nOption6`               -> INT: +#incINTr% (6)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1279036031773159424
+		`nExGradeOption`         -> 206136037196
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Superior Engraved Gollux Pendant
+		`nCUC`                   -> 8
+		`niSTR`                  -> 169
+		`niDEX`                  -> 169
+		`niINT`                  -> 169
+		`niLUK`                  -> 169
+		`nfiLUK`                 -> 56
+		`niMaxHP`                -> 555
+		`niMaxMP`                -> 555
+		`niPAD`                  -> 122
+		`niMAD`                  -> 122
+		`niPDD`                  -> 181
+		`nfiPDD`                 -> 48
+		`nfiSpeed`               -> 6
+		`nfiJump`                -> 6
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> All Stats: +#incSTRr% (5)
+		`nOption6`               -> All Elemental Resistances: +#incTerR% (5)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1279036036529500160
+		`nExGradeOption`         -> 87097026175
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Superior Engraved Gollux Pendant
+		`nCUC`                   -> 8
+		`niSTR`                  -> 169
+		`niDEX`                  -> 169
+		`nfiDEX`                 -> 28
+		`niINT`                  -> 169
+		`nfiINT`                 -> 76
+		`niLUK`                  -> 169
+		`nfiLUK`                 -> 56
+		`niMaxHP`                -> 555
+		`niMaxMP`                -> 555
+		`niPAD`                  -> 122
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 122
+		`niPDD`                  -> 171
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> All Stats: +#incSTRr% (6)
+		`nOption5`               -> Magic ATT: +#incMAD (13)
+		`nOption6`               -> INT per 10 Character Levels: +#incINTlv (1)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1279036130574184448
+		`nExGradeOption`         -> 177057026244
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Superior Gollux Earrings
+		`nCUC`                   -> 9
+		`niSTR`                  -> 132
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 132
+		`niINT`                  -> 159
+		`nfiINT`                 -> 76
+		`niLUK`                  -> 132
+		`niMaxHP`                -> 405
+		`niMaxMP`                -> 405
+		`niPAD`                  -> 95
+		`nfiPAD`                 -> 7
+		`niMAD`                  -> 140
+		`niPDD`                  -> 140
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> All Stats: +#incSTRr% (10)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> Magic ATT: +#incMAD (13)
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1279639801473142784
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Old School Blazer
+		`nPosition`              -> 6
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280129777696722944
+		`nExGradeOption`         -> 26137187054
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Mage Gloves
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 24
+		`niINT`                  -> 205
+		`nfiINT`                 -> 90
+		`niLUK`                  -> 205
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 101
+		`niMAD`                  -> 154
+		`nfiMAD`                 -> 7
+		`niPDD`                  -> 555
+		`nfiPDD`                 -> 77
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> Critical Damage: +#incCriticaldamage% (8)
+		`nOption2`               -> Critical Damage: +#incCriticaldamage% (8)
+		`nOption3`               -> Critical Damage: +#incCriticaldamage% (8)
+		`nOption4`               -> INT per 10 Character Levels: +#incINTlv (2)
+		`nOption5`               -> All Stats: +#incSTRr% (5)
+		`nOption6`               -> All Stats: +#incSTRr% (5)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280226811971784704
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Reinforced Gollux Ring
+		`nCUC`                   -> 6
+		`niSTR`                  -> 129
+		`niDEX`                  -> 129
+		`niINT`                  -> 129
+		`niLUK`                  -> 129
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`niPAD`                  -> 107
+		`niMAD`                  -> 107
+		`niPDD`                  -> 282
+		`niSpeed`                -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> INT: +#incINTr% (10)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> INT: +#incINT (17)
+		`nOption6`               -> All Stats: +#incSTRr% (5)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280225373237432320
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Superior Gollux Ring
+		`nCUC`                   -> 8
+		`niSTR`                  -> 155
+		`niDEX`                  -> 155
+		`niINT`                  -> 150
+		`niLUK`                  -> 155
+		`niMaxHP`                -> 508
+		`niMaxMP`                -> 509
+		`niPAD`                  -> 124
+		`niMAD`                  -> 126
+		`niPDD`                  -> 340
+		`niSpeed`                -> 17
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> INT: +#incINTr% (10)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> INT: +#incINTr% (6)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280270388173148160
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Sengoku Hakase Badge
+		`nPosition`              -> 11
+		`nCUC`                   -> 4
+		`niSTR`                  -> 46
+		`niDEX`                  -> 57
+		`niINT`                  -> 59
+		`niLUK`                  -> 47
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 26
+		`niMAD`                  -> 27
+		`nIUC`                   -> 2
+		`nItemState`             -> 4352
+		`nCHUC`                  -> 12
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280273299468906496
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Sengoku Hakase Badge
+		`nCUC`                   -> 4
+		`niSTR`                  -> 151
+		`niDEX`                  -> 162
+		`niINT`                  -> 147
+		`niLUK`                  -> 151
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 111
+		`niMAD`                  -> 125
+		`nIUC`                   -> 2
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> Max HP: +#incMHPr% (11)
+		`nOption5`               -> All Stats: +#incSTRr% (5)
+		`nOption6`               -> INT: +#incINTr% (6)
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1280289549075025920
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Transparent Gloves
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1280547526789001216
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Universal Transparent Weapon
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280928945029677056
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Dreamy Belt
+		`nPosition`              -> 9
+		`nRUC`                   -> 3
+		`niSTR`                  -> 50
+		`niDEX`                  -> 50
+		`niINT`                  -> 50
+		`niLUK`                  -> 50
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 150
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 150
+		`nAttribute`             -> 256
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280928245075836928
+		`nExGradeOption`         -> 24197114076
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Dreamy Belt
+		`nCUC`                   -> 5
+		`niSTR`                  -> 213
+		`niDEX`                  -> 207
+		`nfiDEX`                 -> 36
+		`niINT`                  -> 203
+		`nfiINT`                 -> 80
+		`niLUK`                  -> 217
+		`niMaxHP`                -> 428
+		`niMaxMP`                -> 421
+		`nfiMaxMP`               -> 2400
+		`niPAD`                  -> 132
+		`niMAD`                  -> 136
+		`niPDD`                  -> 392
+		`nfiSpeed`               -> 7
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> All Stats: +#incSTRr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> INT per 10 Character Levels: +#incINTlv (2)
+		`nOption5`               -> All Stats: +#incSTRr% (5)
+		`nOption6`               -> Jump: +#incJump (10)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280932905597698048
+		`nExGradeOption`         -> 54076094184
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Magic Eyepatch
+		`nCUC`                   -> 5
+		`niSTR`                  -> 160
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 159
+		`nfiDEX`                 -> 30
+		`niINT`                  -> 171
+		`nfiINT`                 -> 70
+		`niLUK`                  -> 163
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 109
+		`niMAD`                  -> 120
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 173
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> Magic ATT: +#incMAD (15)
+		`nOption5`               -> INT per 10 Character Levels: +#incINTlv (1)
+		`nOption6`               -> INT: +#incINTr% (6)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280932891299315712
+		`nExGradeOption`         -> 15027095117
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Berserked
+		`nCUC`                   -> 7
+		`niSTR`                  -> 168
+		`niDEX`                  -> 168
+		`nfiDEX`                 -> 45
+		`niINT`                  -> 168
+		`nfiINT`                 -> 88
+		`niLUK`                  -> 163
+		`nfiLUK`                 -> 25
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 3360
+		`niPAD`                  -> 125
+		`niMAD`                  -> 141
+		`niPDD`                  -> 337
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> INT per 10 Character Levels: +#incINTlv (2)
+		`nOption5`               -> All Stats: +#incSTRr% (5)
+		`nOption6`               -> Magic ATT: +#incMAD (13)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280984672070995968
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Deimos Sage Shield
+		`nPosition`              -> 7
+		`nCUC`                   -> 9
+		`niINT`                  -> 129
+		`niLUK`                  -> 75
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 45
+		`niMAD`                  -> 93
+		`niPDD`                  -> 264
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 20
+		`nOption1`               -> Boss Monster Damage: +#incDAMr% (40)
+		`nOption2`               -> Boss Monster Damage: +#incDAMr% (30)
+		`nOption3`               -> Boss Monster Damage: +#incDAMr% (30)
+		`nOption4`               -> Boss Monster Damage: +#incDAMr% (18)
+		`nOption5`               -> Boss Monster Damage: +#incDAMr% (12)
+		`nOption6`               -> Magic ATT: +#incMADr% (10)
+
+
+		`liSN`                   -> 1280984061099315200
+		`nExGradeOption`         -> 5027056204
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Trixter Dunwitch Pants
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 64
+		`niINT`                  -> 172
+		`nfiINT`                 -> 80
+		`niLUK`                  -> 188
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 85
+		`niMAD`                  -> 134
+		`niPDD`                  -> 365
+		`nfiJump`                -> 4
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> All Stats: +#incSTRr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> INT: +#incINT (17)
+		`nOption6`               -> Magic ATT: +#incMAD (13)
+		`nOption7`               -> Max HP: +#incMHP (60)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1280984046855458816
+		`nExGradeOption`         -> 246086026076
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Eagle Eye Dunwitch Robe
+		`nCUC`                   -> 9
+		`nfiDEX`                 -> 48
+		`niINT`                  -> 165
+		`nfiINT`                 -> 72
+		`niLUK`                  -> 180
+		`nfiLUK`                 -> 24
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 85
+		`niMAD`                  -> 132
+		`niPDD`                  -> 374
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> All Stats: +#incSTRr% (10)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> DEF: +#incPDDr% (7)
+		`nOption7`               -> INT: +#incINT (6)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281018814108209152
+		`nExGradeOption`         -> 195027135074
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Cursed Blue Spellbook
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 20
+		`nfiINT`                 -> 83
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`nfiPDD`                 -> 45
+		`nfiSpeed`               -> 5
+		`nAttribute`             -> 8
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281022782666379264
+		`nExGradeOption`         -> 86055187214
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Staff
+		`nPosition`              -> 20
+		`nCUC`                   -> 10
+		`niSTR`                  -> 30
+		`nfiSTR`                 -> 30
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 36
+		`niINT`                  -> 161
+		`nfiINT`                 -> 30
+		`niLUK`                  -> 161
+		`nfiLUK`                 -> 36
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 376
+		`niMAD`                  -> 510
+		`nfiMAD`                 -> 218
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nfiBDR`                 -> 8
+		`nIMDR`                  -> 20
+		`nfiDamR`                -> 4
+		`nAttribute`             -> 296
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> Magic ATT: +#incMADr% (13)
+		`nOption2`               -> Magic ATT: +#incMADr% (10)
+		`nOption3`               -> Magic ATT: +#incMADr% (13)
+		`nOption4`               -> Magic ATT: +#incMADr% (13)
+		`nOption5`               -> STR: +#incSTRr% (10)
+		`nOption6`               -> Magic ATT: +#incMADr% (10)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281030941191639042
+		`nExGradeOption`         -> 85027037074
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Mage Hat
+		`nPosition`              -> 3
+		`nCUC`                   -> 13
+		`nfiDEX`                 -> 54
+		`niINT`                  -> 255
+		`nfiINT`                 -> 101
+		`niLUK`                  -> 262
+		`nfiLUK`                 -> 107
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 106
+		`niMAD`                  -> 182
+		`niPDD`                  -> 1261
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 15
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> All Stats: +#incSTRr% (10)
+		`nOption4`               -> INT: +#incINT (19)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> All Stats: +#incSTRr% (5)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281047668050817024
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Mage Shoulder
+		`nCUC`                   -> 3
+		`niSTR`                  -> 43
+		`niDEX`                  -> 52
+		`niINT`                  -> 193
+		`niLUK`                  -> 191
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 137
+		`niMAD`                  -> 145
+		`niPDD`                  -> 312
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (10)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> DEF: +#incPDDr% (10)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> All Stats: +#incSTRr% (5)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281047488979202048
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Humanity's Strongest
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 16
+		`niMAD`                  -> 16
+		`niSpeed`                -> 20
+		`niJump`                 -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`nOption7`               -> null
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281045068865794048
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Crystal Maple Leaf Emblem
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nOption1`               -> Ignore Monster DEF: +#ignoreTargetDEF% (40)
+		`nOption2`               -> Boss Monster Damage: +#incDAMr% (20)
+		`nOption3`               -> Ignore Monster DEF: +#ignoreTargetDEF% (40)
+		`nOption4`               -> ATT: +#incPADr% (13)
+		`nOption5`               -> ATT: +#incPADr% (10)
+		`nOption6`               -> ATT: +#incPADr% (10)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281058107509837824
+		`nExGradeOption`         -> 57026034104
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Mage Cape
+		`nCUC`                   -> 9
+		`niSTR`                  -> 78
+		`nfiSTR`                 -> 42
+		`niDEX`                  -> 63
+		`niINT`                  -> 208
+		`nfiINT`                 -> 108
+		`niLUK`                  -> 216
+		`nfiLUK`                 -> 44
+		`niMaxHP`                -> 255
+		`nfiMaxHP`               -> 2400
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 154
+		`niMAD`                  -> 159
+		`niPDD`                  -> 1282
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> All Stats: +#incSTRr% (10)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> INT: +#incINTr% (13)
+		`nOption4`               -> All Stats: +#incSTRr% (6)
+		`nOption5`               -> Jump: +#incJump (10)
+		`nOption6`               -> INT: +#incINTr% (6)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281062785891115008
+		`nExGradeOption`         -> 245095127057
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Mage Shoes
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 42
+		`niINT`                  -> 214
+		`nfiINT`                 -> 72
+		`niLUK`                  -> 208
+		`nfiLUK`                 -> 30
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 106
+		`niMAD`                  -> 154
+		`niPDD`                  -> 387
+		`niSpeed`                -> 43
+		`niJump`                 -> 47
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 35
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> INT: +#incINTr% (13)
+		`nOption2`               -> INT: +#incINTr% (13)
+		`nOption3`               -> All Stats: +#incSTRr% (10)
+		`nOption4`               -> INT: +#incINTr% (8)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> Jump: +#incJump (10)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281071130806980608
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Outlaw Heart
+		`nPosition`              -> 30
+		`nCUC`                   -> 12
+		`niSTR`                  -> 158
+		`niDEX`                  -> 158
+		`niINT`                  -> 158
+		`niLUK`                  -> 158
+		`niMaxHP`                -> 755
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 205
+		`niMAD`                  -> 205
+		`nIUC`                   -> 2
+		`nAttribute`             -> 264
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> All Stats: +#incSTRr% (10)
+		`nOption2`               -> All Stats: +#incSTRr% (7)
+		`nOption3`               -> All Stats: +#incSTRr% (7)
+		`nOption4`               -> INT per 10 Character Levels: +#incINTlv (2)
+		`nOption5`               -> INT: +#incINTr% (6)
+		`nOption6`               -> All Stats: +#incSTRr% (5)
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281072412900855808
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Battle-Roid (M)
+		`nAttribute`             -> 40
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1281070622977429504
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Transparent Earrings
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1281070602920267776
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Transparent Shoes
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281312544136531968
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Badge
+		`nPosition`              -> 12
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281312782515605504
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Staff
+		`nPosition`              -> 21
+		`nRUC`                   -> 8
+		`niINT`                  -> 150
+		`niLUK`                  -> 150
+		`niPAD`                  -> 251
+		`niMAD`                  -> 406
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1281312135007342592
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Grin Ring
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1281312233372160000
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Hellia Necklace
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1281312324069789696
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Avenger Quiver Belt
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1281312417061703680
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Doom Shoulder
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284232354549862400
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Shining Rod
+		`nPosition`              -> 13
+		`nRUC`                   -> 8
+		`niINT`                  -> 150
+		`niLUK`                  -> 150
+		`niPAD`                  -> 237
+		`niMAD`                  -> 400
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284232621274042368
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Axe
+		`nPosition`              -> 17
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 326
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1284234371175419904
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Light of the Dawn
+		`nPosition`              -> 35
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284234911129145344
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Polearm
+		`nPosition`              -> 25
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 304
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1284234772704530432
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Reaper's Wing
+		`nPosition`              -> 34
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284232435273437184
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Desperado
+		`nPosition`              -> 14
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niMaxHP`                -> 2800
+		`niPAD`                  -> 340
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1284231639072903168
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Fluffy Bunny Outfit
+		`nPosition`              -> 1
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1284313568585584640
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Blood Oath Weapon
+		`nPosition`              -> 33
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284357620261634048
+		`dwCharacterID`          -> 8
+		`nItemID`                -> The Will to Live
+		`nPosition`              -> 10
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284494974905356288
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Hammer
+		`nPosition`              -> 18
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 326
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1284538073169924096
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Rainbow Top
+		`nPosition`              -> 5
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284671226102599680
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Claw
+		`nPosition`              -> 26
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 255
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284680211421646848
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Two-Handed Hammer
+		`nPosition`              -> 19
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 340
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`nSoulSocketID`          -> 4
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284679070331883520
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Dagger
+		`nPosition`              -> 28
+		`nRUC`                   -> 8
+		`niDEX`                  -> 150
+		`niLUK`                  -> 150
+		`niPAD`                  -> 318
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284679358983884800
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Sealed Genesis Ritual Fan
+		`nPosition`              -> 15
+		`niDEX`                  -> 150
+		`niLUK`                  -> 150
+		`niPAD`                  -> 318
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284679685229432832
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Two-Handed Sword
+		`nPosition`              -> 22
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 340
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284679862833041408
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Katana
+		`nPosition`              -> 23
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 326
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1286058632374538240
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Ritual Fan
+		`nPosition`              -> 16
+		`nRUC`                   -> 8
+		`niDEX`                  -> 150
+		`niLUK`                  -> 150
+		`niPAD`                  -> 318
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1289590567189307392
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Porong Fan
+		`nPosition`              -> 32
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1290317082587787264
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Maple Blitzer Strategist Cap
+		`nPosition`              -> 2
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1290321476196757504
+		`ftDateExpire`           -> 1604289600000
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Kitty Parachute
+		`nPosition`              -> 8
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+
+
+		`liCashItemSN`           -> 1290321270147346432
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Baseball Classic
+		`nPosition`              -> 4
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1290375176386646016
+		`nExGradeOption`         -> 117187014046
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Arcane Umbra Fan
+		`nPosition`              -> 29
+		`nCUC`                   -> 10
+		`niSTR`                  -> 30
+		`nfiSTR`                 -> 36
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 80
+		`niINT`                  -> 275
+		`niLUK`                  -> 275
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 4200
+		`niPAD`                  -> 509
+		`niMAD`                  -> 665
+		`nfiMAD`                 -> 214
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 296
+		`nItemState`             -> 4352
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> Magic ATT: +#incMADr% (13)
+		`nOption2`               -> Magic ATT: +#incMADr% (10)
+		`nOption3`               -> Magic ATT: +#incMADr% (10)
+		`nOption4`               -> LUK per 10 Character Levels: +#incLUKlv (2)
+		`nOption5`               -> Magic ATT: +#incMADr% (10)
+		`nOption6`               -> Magic ATT: +#incMADr% (10)
+		`nSoulOptionID`          -> 573
+		`nSoulSocketID`          -> 6
+		`nSoulOption`            -> 307
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1290374982232379392
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Sealed Genesis Katana
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 326
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1290760886809739267
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1299488650840657920
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Spear
+		`nPosition`              -> 24
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 340
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1299488985739055104
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Genesis Dual Bowguns
+		`nPosition`              -> 27
+		`nRUC`                   -> 8
+		`niSTR`                  -> 150
+		`niDEX`                  -> 150
+		`niPAD`                  -> 318
+		`niSpeed`                -> 19
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 32
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1301597678290997248
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Death's Scythe
+		`nPosition`              -> 31
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1303034273196085248
+		`dwCharacterID`          -> 8
+		`nItemID`                -> null
+		`nPosition`              -> 36
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1303427804314144768
+		`dwCharacterID`          -> 8
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1306775015005544448
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Novice Cane
+		`nPosition`              -> 37
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1308818245280731136
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Eunwol Fox Ears
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1308814691786690560
+		`dwCharacterID`          -> 8
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Voda
+
+
+		`liCashItemSN`           -> 1270165328831442944
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Christmas Party Friendship Ring
+		`nItemState`             -> 256
+
+
+		`liSN`                   -> 1281076344918249472
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Dark Grin Totem
+		`niINT`                  -> 36
+		`niPAD`                  -> 15
+		`niMAD`                  -> 15
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281076342896594944
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Dark Grin Totem
+		`niINT`                  -> 36
+		`niPAD`                  -> 15
+		`niMAD`                  -> 15
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1281076326685609984
+		`dwCharacterID`          -> 8
+		`nItemID`                -> Dark Grin Totem
+		`niINT`                  -> 36
+		`niPAD`                  -> 15
+		`niMAD`                  -> 15
+		`nItemState`             -> 4352
+		`sTitle`                 -> Voda
+
+
+		`liSN`                   -> 1284291486791495680
+		`dwCharacterID`          -> 150922
+		`nItemID`                -> Brown Overalls
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1284291486791495681
+		`dwCharacterID`          -> 150922
+		`nItemID`                -> Red Western Walkers
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1284291486791495682
+		`dwCharacterID`          -> 150922
+		`nItemID`                -> Sword
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1284291542395326465
+		`dwCharacterID`          -> 150922
+		`nItemID`                -> Rudimentary Charges
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1284291542395326464
+		`dwCharacterID`          -> 150922
+		`nItemID`                -> Hand Buster
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1284291542391132162
+		`dwCharacterID`          -> 150922
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551704110231552
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Ruins Explorer Hood
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551704110231553
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Ruins Explorer Jacket
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551704110231554
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Ruins Explorer Boots
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551704110231555
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Explorer's Bow
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551746988523524
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Potential Relic
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551746988523523
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Marad Ancient Bow
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290551746988523522
+		`dwCharacterID`          -> 171631
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290560592981258240
+		`dwCharacterID`          -> 171651
+		`nItemID`                -> null
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290560592981258241
+		`dwCharacterID`          -> 171651
+		`nItemID`                -> null
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290560592981258242
+		`dwCharacterID`          -> 171651
+		`nItemID`                -> null
+		`niPAD`                  -> 15
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290560639261151233
+		`dwCharacterID`          -> 171651
+		`nItemID`                -> null
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290560639261151232
+		`dwCharacterID`          -> 171651
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290705258624053248
+		`dwCharacterID`          -> 172041
+		`nItemID`                -> Shadow Knight Suit
+		`nRUC`                   -> 7
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niPDD`                  -> 150
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290705258624053249
+		`dwCharacterID`          -> 172041
+		`nItemID`                -> Shadow Knight Shoes
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 1
+		`niPDD`                  -> 60
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290705258624053250
+		`dwCharacterID`          -> 172041
+		`nItemID`                -> Massive Shadow
+		`niPAD`                  -> 97
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290705258624053251
+		`dwCharacterID`          -> 172041
+		`nItemID`                -> Sharp Shadow
+		`niPAD`                  -> 95
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290705289972224002
+		`ftDateExpire`           -> 3439843200000
+		`dwCharacterID`          -> 172041
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290867133127061504
+		`dwCharacterID`          -> 172179
+		`nItemID`                -> Aurora Robe
+		`nRUC`                   -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290867133127061505
+		`dwCharacterID`          -> 172179
+		`nItemID`                -> Aurora Shoes
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290867133127061506
+		`dwCharacterID`          -> 172179
+		`nItemID`                -> Dragon Tail Thanatos
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290867172238888963
+		`dwCharacterID`          -> 172179
+		`nItemID`                -> Plain
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290867172238888964
+		`dwCharacterID`          -> 172179
+		`nItemID`                -> Light Orb
+		`nPosition`              -> 2
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290867172238888962
+		`dwCharacterID`          -> 172179
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290869572471353344
+		`dwCharacterID`          -> 172188
+		`nItemID`                -> Classic Platinum Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290869572471353345
+		`dwCharacterID`          -> 172188
+		`nItemID`                -> Sturdy Leather Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290869572471353346
+		`dwCharacterID`          -> 172188
+		`nItemID`                -> Novice Cane
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290869610681405443
+		`dwCharacterID`          -> 172188
+		`nItemID`                -> Novice Cane
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290869610681405444
+		`dwCharacterID`          -> 172188
+		`nItemID`                -> Carte Magique
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290869610681405442
+		`dwCharacterID`          -> 172188
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880637313740800
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Brown Ears
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880637317935104
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Yellow Tamer Clothes
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880637317935105
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Brown Tamer Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880637317935106
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Beast Tamer Scepter
+		`niPAD`                  -> 15
+		`niMAD`                  -> 18
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880715772334080
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Beast Tamer Scepter
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880715772334081
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Tiny Whisper
+		`nPosition`              -> 2
+		`niINT`                  -> 2
+		`niMAD`                  -> 1
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1290880715768139778
+		`dwCharacterID`          -> 172212
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1301201736832380928
+		`dwCharacterID`          -> 193148
+		`nItemID`                -> Undershirt
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1301201736832380929
+		`dwCharacterID`          -> 193148
+		`nItemID`                -> Blue Jean Shorts
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1301201736836575232
+		`dwCharacterID`          -> 193148
+		`nItemID`                -> Yellow Rubber Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1301201736836575233
+		`dwCharacterID`          -> 193148
+		`nItemID`                -> Sword
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+		`nItemState`             -> 4352
+
+
+		`liSN`                   -> 1301201779421286402
+		`dwCharacterID`          -> 193148
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352

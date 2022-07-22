@@ -1,0 +1,4925 @@
+Total # of loaded items = 338
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #1
+
+		`liSN`                   -> 1268424956287561728
+		`nItemID`                -> Pinnacle Earring
+		`nPosition`              -> 33
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niPDD`                  -> 35
+		`nAttribute`             -> 8
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #2
+
+		`liSN`                   -> 1268425338644508672
+		`nItemID`                -> Force Shield of Extremes
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niMaxHP`                -> 600
+		`niMaxMP`                -> 110
+		`niPDD`                  -> 85
+		`nLevelUpType`           -> 3
+		`nLevel`                 -> 1
+		`nGrade`                 -> 18
+		`nOption1`               -> Damage: +7% 
+		`nOption2`               -> Damage: +4% 
+		`nOption3`               -> STR: +4% 
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #3
+
+		`liSN`                   -> 1268424941854961664
+		`nItemID`                -> Pinnacle Belt
+		`nPosition`              -> 30
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`niPDD`                  -> 86
+		`nAttribute`             -> 8
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #4
+
+		`liSN`                   -> 1268424953393491968
+		`nItemID`                -> Pinnacle Epaulette
+		`nPosition`              -> 29
+		`nRUC`                   -> 1
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 35
+		`nAttribute`             -> 8
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #5
+
+		`liSN`                   -> 1268659338143248385
+		`nItemID`                -> Utgard Axe
+		`nCUC`                   -> 10
+		`niSTR`                  -> 35
+		`niDEX`                  -> 25
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 187
+		`nIUC`                   -> 2
+		`nfiBDR`                 -> 6
+		`nfiDamR`                -> 7
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> ATT: +7% 
+		`nOption2`               -> Max HP: +125 
+		`nOption3`               -> #prop% chance to apply Lv. 5 Seal when attacking. 
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #6
+
+		`liSN`                   -> 1268760468051394560
+		`nItemID`                -> Gold Maple Leaf Emblem
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 19
+		`nOption1`               -> Damage: +10% 
+		`nOption2`               -> INT: +7% 
+		`nOption3`               -> Damage: +10% 
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #7
+
+		`liCashItemSN`           -> 1269445819816472576
+		`nItemID`                -> Neckerchief Fascinator (Red)
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #8
+
+		`liCashItemSN`           -> 1269446221328805888
+		`ftDateExpire`           -> 1599518938993
+		`nItemID`                -> Transparent Face Accessory
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #9
+
+		`liCashItemSN`           -> 1269446220586414080
+		`ftDateExpire`           -> 1599518938816
+		`nItemID`                -> Transparent Eye Accessory
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #10
+
+		`liCashItemSN`           -> 1269445499531030528
+		`nItemID`                -> Outsized Sailor Coat (White & Red)
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #11
+
+		`liCashItemSN`           -> 1269446221987311616
+		`ftDateExpire`           -> 1599518939215
+		`nItemID`                -> Transparent Shoes
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #12
+
+		`liCashItemSN`           -> 1269446221660155904
+		`ftDateExpire`           -> 1599518939072
+		`nItemID`                -> Transparent Cape
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #13
+
+		`liCashItemSN`           -> 1269445541465681920
+		`nItemID`                -> Transparent Shield
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #14
+
+		`liCashItemSN`           -> 1269445677344354304
+		`nItemID`                -> Universal Transparent Weapon
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #15
+
+		`liCashItemSN`           -> 1269445956060049408
+		`nItemID`                -> Ink-and-Wash Thought Bubble Ring
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #16
+
+		`liSN`                   -> 1269450687088095253
+		`nItemID`                -> Horntail's Ab T-Shirt
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`nfiINT`                 -> 3
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 3
+		`nfiMaxMP`               -> 1320
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 120
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #17
+
+		`liSN`                   -> 1269450687088095234
+		`nItemID`                -> Horntail Necklace
+		`nPosition`              -> 3
+		`nRUC`                   -> 3
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`nfiMaxMP`               -> 1440
+		`niPDD`                  -> 108
+		`nfiStatR`               -> 1
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #18
+
+		`liSN`                   -> 1269450687088095261
+		`nItemID`                -> Gold Body Frame
+		`nPosition`              -> 4
+		`nRUC`                   -> 3
+		`niMaxHP`                -> 200
+		`niPDD`                  -> 48
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #19
+
+		`liSN`                   -> 1269450687088095236
+		`nItemID`                -> Horntail Necklace
+		`nPosition`              -> 16
+		`nCUC`                   -> 3
+		`niSTR`                  -> 38
+		`niDEX`                  -> 32
+		`niINT`                  -> 32
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 32
+		`nfiLUK`                 -> 14
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPDD`                  -> 170
+		`nAttribute`             -> 32
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> STR: +7% 
+		`nOption2`               -> DEF: +4% 
+		`nOption3`               -> DEF: +125 
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #20
+
+		`liCashItemSN`           -> 1269451271413428224
+		`ftDateExpire`           -> 1599520143053
+		`nItemID`                -> Transparent Earrings
+		`nAttribute`             -> 32
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #21
+
+		`liSN`                   -> 1268033670338502678
+		`nItemID`                -> Amaterasu's Epaulet
+		`nPosition`              -> 6
+		`nRUC`                   -> 1
+		`niSTR`                  -> 5
+		`niDEX`                  -> 6
+		`niPAD`                  -> 7
+		`niMAD`                  -> 7
+		`niPDD`                  -> 45
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #22
+
+		`liSN`                   -> 1269111144342286341
+		`nItemID`                -> Dea Sidus Earring
+		`nPosition`              -> 8
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 53
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 37
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #23
+
+		`liSN`                   -> 1269474025135071232
+		`nItemID`                -> Amaterasu's Golden Slice
+		`nPosition`              -> 31
+		`nRUC`                   -> 8
+		`niSTR`                  -> 53
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 16
+		`nfiINT`                 -> 16
+		`nfiMaxHP`               -> 1800
+		`niPAD`                  -> 150
+		`nfiPAD`                 -> 18
+		`nfiPDD`                 -> 40
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #24
+
+		`liSN`                   -> 1269456715821285376
+		`nItemID`                -> Arcane Symbol: Vanishing Journey
+		`niSTR`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 4
+		`nArcaneLevel`           -> 1
+
+
+Character: `malibu` (269)
+Account:   `Hope` (119)
+
+	Equip Item #25
+
+		`liSN`                   -> 1290760886927179777
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #26
+
+		`liCashItemSN`           -> 1269445439145635840
+		`nItemID`                -> Steely Pink Bunny Ears
+		`nPosition`              -> 1
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #27
+
+		`liCashItemSN`           -> 1269445467054534656
+		`nItemID`                -> Crystal Dew
+		`nPosition`              -> 2
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #28
+
+		`liCashItemSN`           -> 1269445513359650816
+		`nItemID`                -> Rockin' Guitar
+		`nPosition`              -> 3
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #29
+
+		`liCashItemSN`           -> 1269445526479433728
+		`nItemID`                -> Steely Pink Kitty Ears
+		`nPosition`              -> 4
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #30
+
+		`liCashItemSN`           -> 1269445558322589696
+		`nItemID`                -> Rosemary Tea Dress
+		`nPosition`              -> 5
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #31
+
+		`liCashItemSN`           -> 1269445572285427712
+		`nItemID`                -> Devil Bear T-Shirt
+		`nPosition`              -> 6
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #32
+
+		`liCashItemSN`           -> 1269445586239877120
+		`nItemID`                -> Cozy Fur Outfit
+		`nPosition`              -> 7
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #33
+
+		`liCashItemSN`           -> 1269445599263191040
+		`nItemID`                -> Cross Wing Hair Pin
+		`nPosition`              -> 8
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #34
+
+		`liCashItemSN`           -> 1269445622818402304
+		`nItemID`                -> Rock Spirit Hat
+		`nPosition`              -> 9
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #35
+
+		`liCashItemSN`           -> 1269445636164677632
+		`nItemID`                -> Bloody Rose
+		`nPosition`              -> 10
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #36
+
+		`liCashItemSN`           -> 1269445691055534080
+		`nItemID`                -> Blossom Breeze
+		`nPosition`              -> 11
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #37
+
+		`liCashItemSN`           -> 1269445705064509440
+		`nItemID`                -> Magic Star Dress
+		`nPosition`              -> 12
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #38
+
+		`liCashItemSN`           -> 1269445718389813248
+		`nItemID`                -> Prism Wings
+		`nPosition`              -> 13
+		`nAttribute`             -> 32
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #39
+
+		`liCashItemSN`           -> 1269445753831682048
+		`nItemID`                -> Pink Cat Hood
+		`nPosition`              -> 14
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #40
+
+		`liCashItemSN`           -> 1269445766880161792
+		`nItemID`                -> Bloody Veil
+		`nPosition`              -> 15
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #41
+
+		`liCashItemSN`           -> 1269445779689566208
+		`nItemID`                -> Gray Cat Hood
+		`nPosition`              -> 16
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #42
+
+		`liCashItemSN`           -> 1269445792591245312
+		`nItemID`                -> Rock Spirit Hat
+		`nPosition`              -> 17
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #43
+
+		`liCashItemSN`           -> 1269445805618753536
+		`nItemID`                -> Iron Mace Uniform Weapon
+		`nPosition`              -> 18
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #44
+
+		`liCashItemSN`           -> 1269445860501221376
+		`nItemID`                -> Rock Spirit Hat
+		`nPosition`              -> 19
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #45
+
+		`liCashItemSN`           -> 1269445873918799872
+		`nItemID`                -> Drowsy Bunny
+		`nPosition`              -> 20
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #46
+
+		`liCashItemSN`           -> 1269445886782730240
+		`nItemID`                -> Christmas Padded Jacket
+		`nPosition`              -> 21
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #47
+
+		`liCashItemSN`           -> 1269445899403390976
+		`nItemID`                -> Succubus Dress
+		`nPosition`              -> 22
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #48
+
+		`liCashItemSN`           -> 1269445913055850496
+		`nItemID`                -> Devil Bear T-Shirt
+		`nPosition`              -> 23
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #49
+
+		`liCashItemSN`           -> 1269445926678949888
+		`nItemID`                -> Carbon Wings
+		`nPosition`              -> 24
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #50
+
+		`liCashItemSN`           -> 1269445939920367616
+		`nItemID`                -> Dark Silence
+		`nPosition`              -> 25
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #51
+
+		`liCashItemSN`           -> 1269445969687343104
+		`nItemID`                -> Gothic Girls Uniform
+		`nPosition`              -> 26
+		`nAttribute`             -> 32
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #52
+
+		`liCashItemSN`           -> 1270259496509501440
+		`nItemID`                -> Rosemary Tea Dress
+		`nPosition`              -> 27
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #53
+
+		`liCashItemSN`           -> 1270259775107756032
+		`nItemID`                -> Transparent Wand
+		`nPosition`              -> 28
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #54
+
+		`liCashItemSN`           -> 1270259787728416768
+		`nItemID`                -> Odette Tutu
+		`nPosition`              -> 29
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #55
+
+		`liCashItemSN`           -> 1270259800881754112
+		`nItemID`                -> New School Hoodie
+		`nPosition`              -> 30
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #56
+
+		`liCashItemSN`           -> 1270259820733394944
+		`nItemID`                -> Oversized Oxford
+		`nPosition`              -> 31
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #57
+
+		`liCashItemSN`           -> 1270259832632635392
+		`nItemID`                -> Transparent Katara
+		`nPosition`              -> 32
+
+
+Character: `Cancerous` (4386)
+Account:   `Hope` (119)
+
+	Equip Item #58
+
+		`liSN`                   -> 1290760888760090625
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Ecmo` (4891)
+Account:   `Hope` (119)
+
+	Equip Item #59
+
+		`liSN`                   -> 1290760889036914691
+		`nItemID`                -> Crusader Codex
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #60
+
+		`liCashItemSN`           -> 1270259844934529024
+		`nItemID`                -> Fairy Bell
+		`nPosition`              -> 1
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #61
+
+		`liCashItemSN`           -> 1270259856972181504
+		`nItemID`                -> Iron Mace Uniform Weapon
+		`nPosition`              -> 2
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #62
+
+		`liCashItemSN`           -> 1270259869366349824
+		`nItemID`                -> Carbon Wings
+		`nPosition`              -> 3
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #63
+
+		`liCashItemSN`           -> 1270259881924096000
+		`nItemID`                -> Pure Dew
+		`nPosition`              -> 4
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #64
+
+		`liCashItemSN`           -> 1270259895199068160
+		`nItemID`                -> Rose Blossom
+		`nPosition`              -> 5
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #65
+
+		`liCashItemSN`           -> 1270259946793201664
+		`nItemID`                -> Dark Silence
+		`nPosition`              -> 6
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #66
+
+		`liCashItemSN`           -> 1270259959019597824
+		`nItemID`                -> Transparent Katara
+		`nPosition`              -> 7
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #67
+
+		`liCashItemSN`           -> 1270259970755260416
+		`nItemID`                -> Raging Lotus Aura
+		`nPosition`              -> 8
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #68
+
+		`liCashItemSN`           -> 1270259996688642048
+		`nItemID`                -> Cozy Fur Outfit
+		`nPosition`              -> 9
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #69
+
+		`liCashItemSN`           -> 1270260037310476288
+		`nItemID`                -> Rose Blossom
+		`nPosition`              -> 10
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #70
+
+		`liCashItemSN`           -> 1270260058491711488
+		`nItemID`                -> Magma Wings
+		`nPosition`              -> 11
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #71
+
+		`liCashItemSN`           -> 1270260079282876416
+		`nItemID`                -> Rockin' Guitar
+		`nPosition`              -> 12
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #72
+
+		`liCashItemSN`           -> 1270260097691676672
+		`nItemID`                -> Crystal Dew
+		`nPosition`              -> 13
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #73
+
+		`liCashItemSN`           -> 1270260109091794944
+		`nItemID`                -> Silver Wolf Coat
+		`nPosition`              -> 14
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #74
+
+		`liCashItemSN`           -> 1270260151890472960
+		`nItemID`                -> Petite Diablo
+		`nPosition`              -> 15
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #75
+
+		`liCashItemSN`           -> 1270260163370283008
+		`nItemID`                -> Cozy Fur Outfit
+		`nPosition`              -> 16
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #76
+
+		`liCashItemSN`           -> 1270260187244261376
+		`nItemID`                -> Transparent Claw
+		`nPosition`              -> 17
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #77
+
+		`liCashItemSN`           -> 1270260198669545472
+		`nItemID`                -> Oceanic Requiem Weapon
+		`nPosition`              -> 18
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #78
+
+		`liCashItemSN`           -> 1270260210593951744
+		`nItemID`                -> Steely Blue Kitty Ears
+		`nPosition`              -> 19
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #79
+
+		`liCashItemSN`           -> 1270260223059423232
+		`nItemID`                -> Devil Bear T-Shirt
+		`nPosition`              -> 20
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #80
+
+		`liCashItemSN`           -> 1270260234929303552
+		`nItemID`                -> Petite Diablo
+		`nPosition`              -> 21
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #81
+
+		`liCashItemSN`           -> 1270260246954373120
+		`nItemID`                -> Neckerchief Fascinator (Black)
+		`nPosition`              -> 22
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #82
+
+		`liCashItemSN`           -> 1270260259197546496
+		`nItemID`                -> New School Hoodie
+		`nPosition`              -> 23
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #83
+
+		`liCashItemSN`           -> 1270260271633657856
+		`nItemID`                -> Starlight Outfit
+		`nPosition`              -> 24
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #84
+
+		`liCashItemSN`           -> 1270260316927946752
+		`nItemID`                -> Raging Lotus Aura
+		`nPosition`              -> 25
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #85
+
+		`liCashItemSN`           -> 1270260328953016320
+		`nItemID`                -> Angel Rose Shoes
+		`nPosition`              -> 26
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #86
+
+		`liCashItemSN`           -> 1270260342177656832
+		`nItemID`                -> Magic Star Dress
+		`nPosition`              -> 27
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #87
+
+		`liCashItemSN`           -> 1270260354072702976
+		`nItemID`                -> Lalala Earphones
+		`nPosition`              -> 28
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #88
+
+		`liCashItemSN`           -> 1270260366349430784
+		`nItemID`                -> Gear Wing
+		`nPosition`              -> 29
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #89
+
+		`liCashItemSN`           -> 1270260379095920640
+		`nItemID`                -> Steely Blue Kitty Ears
+		`nPosition`              -> 30
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #90
+
+		`liCashItemSN`           -> 1270260390542176256
+		`nItemID`                -> Rose Blossom
+		`nPosition`              -> 31
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #91
+
+		`liCashItemSN`           -> 1270260402076512256
+		`nItemID`                -> Shining Light
+		`nPosition`              -> 32
+
+
+Character: `MyFreeCams` (5662)
+Account:   `Hope` (119)
+
+	Equip Item #92
+
+		`liSN`                   -> 1290760889464733700
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Linkers` (6294)
+Account:   `Hope` (119)
+
+	Equip Item #93
+
+		`liSN`                   -> 1290760889741557761
+		`nItemID`                -> Crusader Codex
+
+
+Character: `telekinesis` (7428)
+Account:   `Hope` (119)
+
+	Equip Item #94
+
+		`liSN`                   -> 1290760890177765380
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Dogg` (12951)
+Account:   `Hope` (119)
+
+	Equip Item #95
+
+		`liSN`                   -> 1290760893063446529
+		`nItemID`                -> Crusader Codex
+
+
+Character: `2Chains` (20996)
+Account:   `Hope` (119)
+
+	Equip Item #96
+
+		`liSN`                   -> 1290760897748484099
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Joyner` (21440)
+Account:   `Hope` (119)
+
+	Equip Item #97
+
+		`liSN`                   -> 1290760898046279683
+		`nItemID`                -> Crusader Codex
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #98
+
+		`liCashItemSN`           -> 1269444944918212608
+		`nItemID`                -> Gray Cat Hood
+		`nPosition`              -> 1
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #99
+
+		`liCashItemSN`           -> 1269444962144219136
+		`nItemID`                -> Pure Dew
+		`nPosition`              -> 2
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #100
+
+		`liCashItemSN`           -> 1269444975922507776
+		`nItemID`                -> Outsized Sailor Coat (White & Purple)
+		`nPosition`              -> 3
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #101
+
+		`liCashItemSN`           -> 1269444992632614912
+		`nItemID`                -> Outsized Sailor Coat (Navy & White)
+		`nPosition`              -> 4
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #102
+
+		`liCashItemSN`           -> 1269445006977134592
+		`nItemID`                -> Neckerchief Fascinator (Red)
+		`nPosition`              -> 5
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #103
+
+		`liCashItemSN`           -> 1269445020403101696
+		`nItemID`                -> Raging Lotus Aura
+		`nPosition`              -> 6
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #104
+
+		`liCashItemSN`           -> 1269445034084921344
+		`nItemID`                -> Outsized Sailor Coat (Black & Ivory)
+		`nPosition`              -> 7
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #105
+
+		`liCashItemSN`           -> 1269445047867404288
+		`nItemID`                -> Gothic Boys Uniform
+		`nPosition`              -> 8
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #106
+
+		`liCashItemSN`           -> 1269445064757866496
+		`nItemID`                -> Transparent Shield
+		`nPosition`              -> 9
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #107
+
+		`liCashItemSN`           -> 1269445077495967744
+		`nItemID`                -> Hazy Night Tassel
+		`nPosition`              -> 10
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #108
+
+		`liCashItemSN`           -> 1269445092100534272
+		`nItemID`                -> Bloody Veil
+		`nPosition`              -> 11
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #109
+
+		`liCashItemSN`           -> 1269445113852194816
+		`nItemID`                -> Transparent Claw
+		`nPosition`              -> 12
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #110
+
+		`liCashItemSN`           -> 1269445127072641024
+		`nItemID`                -> Ribbon Headband
+		`nPosition`              -> 13
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #111
+
+		`liCashItemSN`           -> 1269445140146286592
+		`nItemID`                -> Devil Bear T-Shirt
+		`nPosition`              -> 14
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #112
+
+		`liCashItemSN`           -> 1269445159771435008
+		`nItemID`                -> Outsized Sailor Coat (White & Purple)
+		`nPosition`              -> 15
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #113
+
+		`liCashItemSN`           -> 1269445173721690112
+		`nItemID`                -> Starlight Outfit
+		`nPosition`              -> 16
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #114
+
+		`liCashItemSN`           -> 1269445187927797760
+		`nItemID`                -> Outsized Sailor Coat (White & Purple)
+		`nPosition`              -> 17
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #115
+
+		`liCashItemSN`           -> 1269445210564456448
+		`nItemID`                -> Cozy Fur Outfit
+		`nPosition`              -> 18
+		`nAttribute`             -> 32
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #116
+
+		`liCashItemSN`           -> 1269445227165511680
+		`nItemID`                -> Pink Cat Hood
+		`nPosition`              -> 19
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #117
+
+		`liCashItemSN`           -> 1269445241577140224
+		`nItemID`                -> Icicle Wings
+		`nPosition`              -> 20
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #118
+
+		`liCashItemSN`           -> 1269445255321874432
+		`nItemID`                -> Bloody Fairytale
+		`nPosition`              -> 21
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #119
+
+		`liCashItemSN`           -> 1269445270232625152
+		`nItemID`                -> Christmas Padded Jacket
+		`nPosition`              -> 22
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #120
+
+		`liCashItemSN`           -> 1269445293162885120
+		`nItemID`                -> Transparent Shield
+		`nPosition`              -> 23
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #121
+
+		`liCashItemSN`           -> 1269445308182687744
+		`nItemID`                -> Oceanic Requiem Weapon
+		`nPosition`              -> 24
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #122
+
+		`liCashItemSN`           -> 1269445325308030976
+		`nItemID`                -> New School Hoodie
+		`nPosition`              -> 25
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #123
+
+		`liCashItemSN`           -> 1269445338180349952
+		`nItemID`                -> Snowman Padded Jacket
+		`nPosition`              -> 26
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #124
+
+		`liCashItemSN`           -> 1269445350851342336
+		`nItemID`                -> 5 O'Clock Shadow
+		`nPosition`              -> 27
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #125
+
+		`liCashItemSN`           -> 1269445366609342464
+		`nItemID`                -> Fairy Bell
+		`nPosition`              -> 28
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #126
+
+		`liCashItemSN`           -> 1269445382212153344
+		`nItemID`                -> Christmas Padded Jacket
+		`nPosition`              -> 29
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #127
+
+		`liCashItemSN`           -> 1269445395277410304
+		`nItemID`                -> Drowsy Bunny
+		`nPosition`              -> 30
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #128
+
+		`liCashItemSN`           -> 1269445409739370496
+		`nItemID`                -> Drowsy Bunny
+		`nPosition`              -> 31
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #129
+
+		`liCashItemSN`           -> 1269445422477471744
+		`nItemID`                -> Succubus Dress
+		`nPosition`              -> 32
+
+
+Character: `omegaLULL` (35509)
+Account:   `Hope` (119)
+
+	Equip Item #130
+
+		`liSN`                   -> 1290760906946592768
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #131
+
+		`liSN`                   -> 1268404589414313984
+		`nItemID`                -> Classic Platinum Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #132
+
+		`liSN`                   -> 1268404589414313985
+		`nItemID`                -> Sturdy Leather Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #133
+
+		`liSN`                   -> 1268404589414313986
+		`nItemID`                -> Novice Cane
+		`nPosition`              -> 25
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #134
+
+		`liSN`                   -> 1268404627808890883
+		`nItemID`                -> Carte Magique
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #135
+
+		`liSN`                   -> 1268404627808890881
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #136
+
+		`liSN`                   -> 1268406109736185859
+		`nItemID`                -> Horned Blade
+		`nPosition`              -> 10
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 5
+		`niPAD`                  -> 28
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #137
+
+		`liSN`                   -> 1268411831861518339
+		`nItemID`                -> Dark Pireta Hat
+		`nRUC`                   -> 7
+		`niDEX`                  -> 2
+		`niLUK`                  -> 3
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 51
+		`nfiSpeed`               -> 1
+
+
+Character: `Stable` (78231)
+Account:   `Hope` (119)
+
+	Equip Item #138
+
+		`liSN`                   -> 1268411570732539920
+		`nItemID`                -> Phantom Originality
+		`nRUC`                   -> 7
+		`niPAD`                  -> 93
+		`nfiMAD`                 -> 3
+		`nfiPDD`                 -> 5
+		`nfiDamR`                -> 2
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #139
+
+		`liSN`                   -> 1268775405305921548
+		`nItemID`                -> Pensalir Battle Helm
+		`nPosition`              -> 7
+		`nCUC`                   -> 11
+		`niSTR`                  -> 74
+		`niDEX`                  -> 35
+		`niMaxHP`                -> 610
+		`nfiMaxHP`               -> 1680
+		`niMaxMP`                -> 280
+		`niPDD`                  -> 413
+		`nfiJump`                -> 3
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> STR: +7% 
+		`nOption2`               -> Max MP: +4% 
+		`nOption3`               -> DEF: +4% 
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #140
+
+		`liSN`                   -> 1267135346441859073
+		`nItemID`                -> Utgard Two-handed Sword
+		`nRUC`                   -> 1
+		`nCUC`                   -> 8
+		`niSTR`                  -> 36
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 28
+		`nfiINT`                 -> 16
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 155
+		`niMaxMP`                -> 155
+		`niPAD`                  -> 188
+		`nfiPAD`                 -> 36
+		`nIUC`                   -> 1
+		`nfiStatR`               -> 3
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 11
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> Damage: +10% 
+		`nOption6`               -> Critical Rate: +10% 
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #141
+
+		`liSN`                   -> 1269543317025239042
+		`nItemID`                -> Crusader Codex
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #142
+
+		`liSN`                   -> 1269547838904381440
+		`nItemID`                -> Gold Cygnus Emblem
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Damage: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> ATT: +13 
+		`nOption5`               -> STR: +6 
+		`nOption6`               -> LUK: +6 
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #143
+
+		`liCashItemSN`           -> 1269445732369428480
+		`nItemID`                -> Lalala Earphones
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #144
+
+		`liCashItemSN`           -> 1269544727305515008
+		`ftDateExpire`           -> 1599542424648
+		`nItemID`                -> Transparent Face Accessory
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #145
+
+		`liCashItemSN`           -> 1269544727032885248
+		`ftDateExpire`           -> 1599542424583
+		`nItemID`                -> Transparent Eye Accessory
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #146
+
+		`liCashItemSN`           -> 1269544727565561856
+		`ftDateExpire`           -> 1599542424710
+		`nItemID`                -> Transparent Earrings
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #147
+
+		`liCashItemSN`           -> 1269544727833997312
+		`ftDateExpire`           -> 1599542424773
+		`nItemID`                -> Transparent Shoes
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #148
+
+		`liCashItemSN`           -> 1269544728085655552
+		`ftDateExpire`           -> 1599542424835
+		`nItemID`                -> Transparent Gloves
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #149
+
+		`liSN`                   -> 1269548354866688004
+		`nItemID`                -> Ereve Brilliance
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +35% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> Ignore Monster DEF: +30% 
+		`nOption4`               -> Max MP: +6% 
+		`nOption5`               -> Jump: +6 
+		`nOption6`               -> ATT: +4% 
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #150
+
+		`liSN`                   -> 1268605072116453385
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 2
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 6
+		`nfiINT`                 -> 18
+		`niLUK`                  -> 6
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 4
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #151
+
+		`liSN`                   -> 1267324784874831872
+		`nItemID`                -> Ifia's Necklace
+		`nPosition`              -> 30
+		`nCUC`                   -> 2
+		`niSTR`                  -> 30
+		`niDEX`                  -> 34
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`nfiLUK`                 -> 6
+		`niMaxHP`                -> 280
+		`nfiMaxHP`               -> 990
+		`niMaxMP`                -> 280
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 170
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> Max MP: +9% 
+		`nOption3`               -> HP Recovery Items and Skills: +30% 
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #152
+
+		`liSN`                   -> 1270064101812514821
+		`nItemID`                -> Dea Sidus Earring
+		`nPosition`              -> 1
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 55
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 33
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #153
+
+		`liSN`                   -> 1270064101812514820
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 3
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #154
+
+		`liSN`                   -> 1270100205915803648
+		`nItemID`                -> Maple World Savior
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 475
+		`niMaxMP`                -> 475
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 175
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #155
+
+		`liCashItemSN`           -> 1269446008832782336
+		`nItemID`                -> Crystal Dew
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #156
+
+		`liCashItemSN`           -> 1270261102026158080
+		`nItemID`                -> Halfblood Wings
+		`nAttribute`             -> 32
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #157
+
+		`liCashItemSN`           -> 1270260492874805248
+		`nItemID`                -> Ink-and-Wash Painting Name Tag Ring
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #158
+
+		`liSN`                   -> 1270454021131550720
+		`nItemID`                -> Cheap Mask
+		`nPosition`              -> 4
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #159
+
+		`liSN`                   -> 1270455750753468416
+		`nItemID`                -> Flashy Mask
+		`nPosition`              -> 5
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #160
+
+		`liSN`                   -> 1270624517026406408
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 6
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 42
+		`niINT`                  -> 5
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 18
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #161
+
+		`liSN`                   -> 1270653774507180032
+		`nItemID`                -> Deluxe Android (F)
+		`nAttribute`             -> 40
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #162
+
+		`liSN`                   -> 1269573846227406848
+		`nItemID`                -> Arcane Symbol: Vanishing Journey
+		`niSTR`                  -> 700
+		`nArcaneForce`           -> 70
+		`nArcaneExp`             -> 14
+		`nArcaneLevel`           -> 5
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #163
+
+		`liSN`                   -> 1269736882573623296
+		`nItemID`                -> Arcane Symbol: Chu Chu Island
+		`niSTR`                  -> 700
+		`nArcaneForce`           -> 70
+		`nArcaneExp`             -> 7
+		`nArcaneLevel`           -> 5
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #164
+
+		`liSN`                   -> 1270457908458639360
+		`nItemID`                -> Arcane Symbol: Lachelein
+		`niSTR`                  -> 500
+		`nArcaneForce`           -> 50
+		`nArcaneExp`             -> 10
+		`nArcaneLevel`           -> 3
+
+
+Character: `UrzaJr` (85244)
+Account:   `Hope` (119)
+
+	Equip Item #165
+
+		`liSN`                   -> 1270463976081412096
+		`nItemID`                -> Arcane Symbol: Arcana
+		`niSTR`                  -> 600
+		`nArcaneForce`           -> 60
+		`nArcaneExp`             -> 14
+		`nArcaneLevel`           -> 4
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #166
+
+		`liSN`                   -> 1270064101812514818
+		`nItemID`                -> Chaos Horntail Necklace
+		`nCUC`                   -> 3
+		`niSTR`                  -> 56
+		`niDEX`                  -> 41
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 41
+		`niLUK`                  -> 41
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 229
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> ATT: +13 
+		`nOption5`               -> ATT: +12 
+		`nOption6`               -> STR: +5% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #167
+
+		`liSN`                   -> 1275593663401078785
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #168
+
+		`liSN`                   -> 1268436220795596800
+		`nItemID`                -> Pensalir Battle Boots
+		`nPosition`              -> 112
+		`nCUC`                   -> 8
+		`niSTR`                  -> 64
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 34
+		`nfiDEX`                 -> 20
+		`nfiINT`                 -> 8
+		`niMaxHP`                -> 370
+		`niMaxMP`                -> 130
+		`nfiMaxMP`               -> 2100
+		`niPAD`                  -> 1
+		`niPDD`                  -> 224
+		`niSpeed`                -> 8
+		`niJump`                 -> 3
+		`nIUC`                   -> 2
+		`nGrade`                 -> 19
+		`nCHUC`                  -> 10
+		`nOption1`               -> STR: +10% 
+		`nOption2`               -> LUK: +7% 
+		`nOption3`               -> All Stats: +4% 
+		`nOption4`               -> Max HP: +8% 
+		`nOption5`               -> ATT: +12 
+		`nOption6`               -> Max HP: +6% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #169
+
+		`liSN`                   -> 1268437966804660224
+		`nItemID`                -> Pensalir Battle Gloves
+		`nPosition`              -> 116
+		`nCUC`                   -> 8
+		`niSTR`                  -> 39
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 38
+		`nfiINT`                 -> 52
+		`niMaxHP`                -> 355
+		`niMaxMP`                -> 155
+		`niPAD`                  -> 14
+		`niPDD`                  -> 105
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 11
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> 2% chance to apply Auto Steal. 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> INT: +17 
+		`nOption5`               -> INT: +5% 
+		`nOption6`               -> ATT: +12 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #170
+
+		`liSN`                   -> 1273893361991987200
+		`nItemID`                -> AbsoLab Knight Gloves
+		`nCUC`                   -> 9
+		`niSTR`                  -> 86
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 86
+		`nfiDEX`                 -> 20
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 57
+		`nfiPAD`                 -> 6
+		`niMAD`                  -> 18
+		`niPDD`                  -> 319
+		`nfiSpeed`               -> 7
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 35
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> INT per 10 Character Levels: +1 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #171
+
+		`liSN`                   -> 1269755127695294464
+		`nItemID`                -> Trixter Warrior Pants
+		`nCUC`                   -> 9
+		`niSTR`                  -> 166
+		`nfiSTR`                 -> 48
+		`niDEX`                  -> 103
+		`nfiDEX`                 -> 20
+		`nfiLUK`                 -> 28
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 3150
+		`niPAD`                  -> 32
+		`niMAD`                  -> 30
+		`niPDD`                  -> 687
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 30
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 18
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> STR: +6% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #172
+
+		`liSN`                   -> 1269472961203724288
+		`nItemID`                -> Golden Clover Belt
+		`nCUC`                   -> 5
+		`niSTR`                  -> 56
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 46
+		`nfiDEX`                 -> 40
+		`niINT`                  -> 46
+		`niLUK`                  -> 46
+		`niMaxHP`                -> 330
+		`nfiMaxHP`               -> 1680
+		`niMaxMP`                -> 330
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 253
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 19
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +10% 
+		`nOption2`               -> Max MP: +7% 
+		`nOption3`               -> STR: +7% 
+		`nOption4`               -> All Stats: +3% 
+		`nOption5`               -> ATT: +11 
+		`nOption6`               -> Max HP: +3% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #173
+
+		`liSN`                   -> 1268376786161553416
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 128
+		`nCUC`                   -> 5
+		`niSTR`                  -> 45
+		`niDEX`                  -> 25
+		`niINT`                  -> 25
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 25
+		`nfiLUK`                 -> 15
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 144
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> LUK: +6% 
+		`nOption5`               -> Max HP: +6% 
+		`nOption6`               -> ATT: +12 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #174
+
+		`liSN`                   -> 1269450687088095237
+		`nItemID`                -> Silver Blossom Ring
+		`nCUC`                   -> 2
+		`niSTR`                  -> 32
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> DEF: +4% 
+		`nOption5`               -> DEF: +3% 
+		`nOption6`               -> ATT: +11 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #175
+
+		`liSN`                   -> 1270263045599440896
+		`nItemID`                -> Cracked Gollux Ring
+		`nCUC`                   -> 3
+		`niSTR`                  -> 50
+		`niDEX`                  -> 35
+		`niINT`                  -> 35
+		`niLUK`                  -> 35
+		`niMaxHP`                -> 230
+		`niMaxMP`                -> 230
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 81
+		`niSpeed`                -> 5
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> Max HP: +9% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +3% 
+		`nOption5`               -> ATT: +11 
+		`nOption6`               -> ATT: +11 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #176
+
+		`liSN`                   -> 1269764021188444160
+		`nItemID`                -> Royal Warrior Helm
+		`nCUC`                   -> 13
+		`niSTR`                  -> 193
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 102
+		`nfiINT`                 -> 12
+		`nfiLUK`                 -> 36
+		`niMaxHP`                -> 2175
+		`niMaxMP`                -> 615
+		`niPAD`                  -> 21
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 19
+		`niPDD`                  -> 1173
+		`nfiSpeed`               -> 3
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 10
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> STR: +17 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #177
+
+		`liSN`                   -> 1269763371700469760
+		`nItemID`                -> Eagle Eye Warrior Armor
+		`nCUC`                   -> 9
+		`niSTR`                  -> 155
+		`nfiSTR`                 -> 68
+		`niDEX`                  -> 92
+		`nfiDEX`                 -> 72
+		`nfiINT`                 -> 20
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 21
+		`niMAD`                  -> 19
+		`niPDD`                  -> 679
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> Max MP: +250 
+		`nOption6`               -> DEX per 10 Character Levels: +1 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #178
+
+		`liSN`                   -> 1269450687088095238
+		`nItemID`                -> Dea Sidus Earring
+		`nCUC`                   -> 6
+		`niSTR`                  -> 85
+		`nfiSTR`                 -> 21
+		`niDEX`                  -> 73
+		`niINT`                  -> 73
+		`niLUK`                  -> 73
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 1560
+		`niPAD`                  -> 36
+		`niMAD`                  -> 36
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 106
+		`nfiSpeed`               -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 19
+		`nCHUC`                  -> 19
+		`nOption1`               -> STR: +10% 
+		`nOption2`               -> STR: +7% 
+		`nOption3`               -> All Stats: +4% 
+		`nOption4`               -> ATT: +12 
+		`nOption5`               -> Max MP: +3% 
+		`nOption6`               -> Max MP: +3% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #179
+
+		`liSN`                   -> 1275595194678554624
+		`nItemID`                -> null
+		`nCUC`                   -> 10
+		`niSTR`                  -> 142
+		`nfiSTR`                 -> 68
+		`niDEX`                  -> 102
+		`nfiDEX`                 -> 20
+		`nfiINT`                 -> 28
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 2700
+		`niPAD`                  -> 374
+		`niMAD`                  -> 17
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> ATT: +10% 
+		`nOption3`               -> Boss Monster Damage: +20% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> LUK per 10 Character Levels: +1 
+		`nOption6`               -> ATT: +10% 
+		`nOption7`               -> null
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #180
+
+		`liSN`                   -> 1275694852851544064
+		`nItemID`                -> Deluxe Android (F)
+		`nAttribute`             -> 40
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #181
+
+		`liSN`                   -> 1275880987347259392
+		`nItemID`                -> null
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> ATT: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> ATT: +10% 
+		`nOption5`               -> ATT: +7% 
+		`nOption6`               -> ATT: +7% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #182
+
+		`liSN`                   -> 1275884759003869184
+		`nItemID`                -> Maple World Savior
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 475
+		`niMaxMP`                -> 475
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 175
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #183
+
+		`liSN`                   -> 1275952749766422528
+		`nItemID`                -> Gold Maple Leaf Emblem
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Ignore Monster DEF: +40% 
+		`nOption2`               -> Critical Rate: +10% 
+		`nOption3`               -> Ignore Monster DEF: +30% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> LUK: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #184
+
+		`liCashItemSN`           -> 1275991966177554432
+		`ftDateExpire`           -> 1600894800000
+		`nItemID`                -> Transparent Eye Accessory
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #185
+
+		`liCashItemSN`           -> 1275991966760562688
+		`ftDateExpire`           -> 1600894800000
+		`nItemID`                -> Transparent Earrings
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #186
+
+		`liCashItemSN`           -> 1275991967091912704
+		`ftDateExpire`           -> 1600894800000
+		`nItemID`                -> Transparent Shoes
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #187
+
+		`liCashItemSN`           -> 1275991967385513984
+		`ftDateExpire`           -> 1600894800000
+		`nItemID`                -> Transparent Gloves
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #188
+
+		`liSN`                   -> 1276412743838261250
+		`nItemID`                -> Chaos Horntail Necklace
+		`nPosition`              -> 14
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 10
+		`nfiINT`                 -> 36
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 140
+		`nfiStatR`               -> 1
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #189
+
+		`liSN`                   -> 1276411580145393671
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 121
+		`nCUC`                   -> 3
+		`niSTR`                  -> 28
+		`niDEX`                  -> 25
+		`nfiDEX`                 -> 18
+		`niINT`                  -> 25
+		`nfiINT`                 -> 18
+		`niLUK`                  -> 25
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 144
+		`nfiPDD`                 -> 18
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> DEX: +10% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #190
+
+		`liSN`                   -> 1276411580145393672
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 124
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 30
+		`niINT`                  -> 5
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 33
+		`nfiMaxMP`               -> 1320
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nGrade`                 -> 17
+		`nOption1`               -> Recover 25 MP every 4 seconds. 
+		`nOption2`               -> STR: +6 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #191
+
+		`liSN`                   -> 1276412743838261253
+		`nItemID`                -> Dea Sidus Earring
+		`nPosition`              -> 126
+		`nCUC`                   -> 6
+		`niSTR`                  -> 42
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 35
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`nfiMaxHP`               -> 1950
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 75
+		`nfiJump`                -> 4
+		`nfiReduceReq`           -> 25
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> DEF: +9% 
+		`nOption3`               -> LUK: +10% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #192
+
+		`liSN`                   -> 1276412743838261252
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 122
+		`nCUC`                   -> 2
+		`niSTR`                  -> 32
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> DEX: +10% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #193
+
+		`liSN`                   -> 1276688065057959936
+		`nItemID`                -> AbsoLab Knight Cape
+		`nCUC`                   -> 9
+		`niSTR`                  -> 144
+		`nfiSTR`                 -> 83
+		`niDEX`                  -> 81
+		`niINT`                  -> 15
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 63
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 23
+		`niMAD`                  -> 23
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 739
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> STR: +6% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #194
+
+		`liSN`                   -> 1277010820043268097
+		`nItemID`                -> Pink Holy Cup
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niMaxHP`                -> 50
+		`nfiMaxHP`               -> 2100
+		`niMaxMP`                -> 50
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`nfiPDD`                 -> 32
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #195
+
+		`liSN`                   -> 1277021126945636352
+		`nItemID`                -> Rose
+		`nPosition`              -> 3
+		`niLUK`                  -> 3
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #196
+
+		`liSN`                   -> 1277028117692776448
+		`nItemID`                -> null
+		`nPosition`              -> 120
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +35% 
+		`nOption2`               -> Boss Monster Damage: +20% 
+		`nOption3`               -> Boss Monster Damage: +20% 
+		`nOption4`               -> Boss Monster Damage: +18% 
+		`nOption5`               -> Critical Rate: +10% 
+		`nOption6`               -> Boss Monster Damage: +12% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #197
+
+		`liSN`                   -> 1277178835519086592
+		`nItemID`                -> AbsoLab Knight Shoes
+		`nCUC`                   -> 9
+		`niSTR`                  -> 149
+		`nfiSTR`                 -> 30
+		`niDEX`                  -> 86
+		`nfiDEX`                 -> 30
+		`niMaxHP`                -> 1335
+		`nfiMaxHP`               -> 1440
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 26
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 21
+		`niPDD`                  -> 534
+		`niSpeed`                -> 13
+		`nfiSpeed`               -> 3
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR per 10 Character Levels: +2 
+		`nOption5`               -> Max HP: +250 
+		`nOption6`               -> STR: +6% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #198
+
+		`liSN`                   -> 1277424227951226886
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 125
+		`nCUC`                   -> 4
+		`niSTR`                  -> 52
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 44
+		`niINT`                  -> 44
+		`niLUK`                  -> 44
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 380
+		`nfiMaxHP`               -> 1950
+		`niMaxMP`                -> 380
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 158
+		`nfiSpeed`               -> 4
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> Max HP: +9% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #199
+
+		`liSN`                   -> 1277424227951226887
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 5
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 32
+		`niINT`                  -> 10
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`nfiMaxMP`               -> 1170
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +13 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #200
+
+		`liSN`                   -> 1277424227951226885
+		`nItemID`                -> Cracked Engraved Gollux Pendant
+		`nPosition`              -> 6
+		`nRUC`                   -> 3
+		`niSTR`                  -> 15
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 15
+		`nfiDEX`                 -> 48
+		`niINT`                  -> 15
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 17
+		`nOption1`               -> DEF: +4% 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #201
+
+		`liSN`                   -> 1277798050781376519
+		`nItemID`                -> Cracked Engraved Gollux Belt
+		`nPosition`              -> 7
+		`nRUC`                   -> 3
+		`niSTR`                  -> 8
+		`nfiSTR`                 -> 21
+		`niDEX`                  -> 8
+		`niINT`                  -> 8
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 25
+		`nfiStatR`               -> 3
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #202
+
+		`liSN`                   -> 1277798050781376517
+		`nItemID`                -> Cracked Engraved Gollux Pendant
+		`nPosition`              -> 4
+		`nRUC`                   -> 3
+		`niSTR`                  -> 15
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`nfiINT`                 -> 21
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 28
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 35
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #203
+
+		`liSN`                   -> 1278867890724093959
+		`nItemID`                -> Cracked Engraved Gollux Belt
+		`nPosition`              -> 8
+		`nRUC`                   -> 3
+		`niSTR`                  -> 8
+		`niDEX`                  -> 8
+		`nfiDEX`                 -> 21
+		`niINT`                  -> 8
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 35
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`nfiMaxMP`               -> 1800
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 35
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #204
+
+		`liSN`                   -> 1278867890724093958
+		`nItemID`                -> Cracked Engraved Gollux Pendant
+		`nPosition`              -> 9
+		`nRUC`                   -> 3
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 40
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`nfiMaxMP`               -> 1800
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 100
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #205
+
+		`liSN`                   -> 1279301298482765829
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 10
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`niDEX`                  -> 19
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 19
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 19
+		`niMaxHP`                -> 250
+		`nfiMaxHP`               -> 1170
+		`niMaxMP`                -> 250
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #206
+
+		`liSN`                   -> 1279301298482765830
+		`nItemID`                -> Cracked Engraved Gollux Belt
+		`nPosition`              -> 11
+		`nRUC`                   -> 3
+		`niSTR`                  -> 8
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 8
+		`niINT`                  -> 8
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 53
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPDD`                  -> 100
+		`nfiJump`                -> 4
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #207
+
+		`liCashItemSN`           -> 1279571475204141056
+		`ftDateExpire`           -> 1601724187635
+		`nItemID`                -> Cupid Ring
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #208
+
+		`liCashItemSN`           -> 1280323176571858944
+		`nItemID`                -> Lalala Earphones
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #209
+
+		`liCashItemSN`           -> 1280323299943116800
+		`nItemID`                -> Whistle
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #210
+
+		`liCashItemSN`           -> 1280323738021392384
+		`nItemID`                -> Peach Top
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #211
+
+		`liCashItemSN`           -> 1280324084064055296
+		`nItemID`                -> Pink Jelly Bag
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #212
+
+		`liCashItemSN`           -> 1280326362250604544
+		`nItemID`                -> Cream Soda Can
+		`nAttribute`             -> 32
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #213
+
+		`liCashItemSN`           -> 1280326533881524224
+		`ftDateExpire`           -> 1601906400000
+		`nItemID`                -> White Label Ring
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #214
+
+		`liSN`                   -> 1280347843323944960
+		`nItemID`                -> AbsoLab Knight Shoulder
+		`nCUC`                   -> 3
+		`niSTR`                  -> 51
+		`niDEX`                  -> 50
+		`niINT`                  -> 19
+		`niLUK`                  -> 27
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 19
+		`niMAD`                  -> 15
+		`niPDD`                  -> 173
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> HP Recovery Items and Skills: +20% 
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #215
+
+		`liSN`                   -> 1280363553353822213
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 12
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 48
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 10
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #216
+
+		`liSN`                   -> 1280716221465124869
+		`nItemID`                -> Cracked Engraved Gollux Belt
+		`nPosition`              -> 13
+		`nRUC`                   -> 3
+		`niSTR`                  -> 8
+		`niDEX`                  -> 8
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 8
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 47
+		`niMaxHP`                -> 200
+		`nfiMaxHP`               -> 1800
+		`niMaxMP`                -> 200
+		`niPDD`                  -> 100
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #217
+
+		`liSN`                   -> 1281234971771723781
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 1
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 19
+		`niINT`                  -> 19
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 40
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 28
+		`nfiSpeed`               -> 4
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #218
+
+		`liSN`                   -> 1281234971771723783
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 15
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 28
+		`niINT`                  -> 10
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 21
+
+
+Character: `Cervix` (112757)
+Account:   `Hope` (119)
+
+	Equip Item #219
+
+		`liSN`                   -> 1281234971771723782
+		`nItemID`                -> Cracked Engraved Gollux Belt
+		`nPosition`              -> 16
+		`nRUC`                   -> 3
+		`niSTR`                  -> 8
+		`niDEX`                  -> 8
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 8
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 35
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPDD`                  -> 100
+		`nfiJump`                -> 3
+		`nfiReduceReq`           -> 15
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #220
+
+		`liSN`                   -> 1272042952155389952
+		`nItemID`                -> Pink Holy Cup
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 72
+		`niMaxHP`                -> 50
+		`niMaxMP`                -> 50
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`nfiJump`                -> 6
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #221
+
+		`liSN`                   -> 1269821343290044416
+		`nItemID`                -> Dominator Pendant
+		`nCUC`                   -> 7
+		`niSTR`                  -> 99
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 99
+		`nfiDEX`                 -> 44
+		`niINT`                  -> 99
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 99
+		`nfiLUK`                 -> 80
+		`niMaxHP`                -> 535
+		`niMaxMP`                -> 535
+		`niPAD`                  -> 41
+		`niMAD`                  -> 41
+		`niPDD`                  -> 600
+		`niSpeed`                -> 21
+		`niJump`                 -> 14
+		`nIUC`                   -> 2
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #222
+
+		`liCashItemSN`           -> 1277193300817928192
+		`nItemID`                -> Grin Ring
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #223
+
+		`liCashItemSN`           -> 1277193321915277312
+		`nItemID`                -> Hellia Necklace
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #224
+
+		`liCashItemSN`           -> 1277193379863781376
+		`nItemID`                -> Avenger Quiver Belt
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #225
+
+		`liCashItemSN`           -> 1277193360989413376
+		`nItemID`                -> Doom Shoulder
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #226
+
+		`liSN`                   -> 1277798050781376518
+		`nItemID`                -> Superior Engraved Gollux Pendant
+		`nCUC`                   -> 8
+		`niSTR`                  -> 169
+		`nfiSTR`                 -> 64
+		`niDEX`                  -> 169
+		`nfiDEX`                 -> 28
+		`niINT`                  -> 169
+		`niLUK`                  -> 169
+		`nfiLUK`                 -> 100
+		`niMaxHP`                -> 555
+		`niMaxMP`                -> 555
+		`niPAD`                  -> 122
+		`niMAD`                  -> 122
+		`niPDD`                  -> 166
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> LUK per 10 Character Levels: +1 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #227
+
+		`liSN`                   -> 1282106297281589248
+		`nItemID`                -> Royal Assassin Hood
+		`nCUC`                   -> 13
+		`niDEX`                  -> 102
+		`nfiDEX`                 -> 52
+		`nfiINT`                 -> 40
+		`niLUK`                  -> 193
+		`nfiLUK`                 -> 60
+		`niMaxHP`                -> 2175
+		`niMaxMP`                -> 615
+		`niPAD`                  -> 21
+		`niMAD`                  -> 19
+		`niPDD`                  -> 789
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 10
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> INT: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #228
+
+		`liSN`                   -> 1282106283180339200
+		`nItemID`                -> Eagle Eye Assassin Shirt
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 92
+		`nfiDEX`                 -> 44
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 155
+		`nfiLUK`                 -> 108
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 21
+		`niMAD`                  -> 19
+		`niPDD`                  -> 480
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> Max MP: +250 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #229
+
+		`liSN`                   -> 1282106312309780480
+		`nItemID`                -> Trixter Assassin Pants
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 92
+		`niLUK`                  -> 155
+		`nfiLUK`                 -> 84
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 21
+		`niMAD`                  -> 19
+		`niPDD`                  -> 468
+		`nfiSpeed`               -> 7
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 30
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #230
+
+		`liSN`                   -> 1282123496146755584
+		`nItemID`                -> AbsoLab Bandit Shoes
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 45
+		`niDEX`                  -> 86
+		`nfiDEX`                 -> 35
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 149
+		`nfiLUK`                 -> 70
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 26
+		`nfiPAD`                 -> 7
+		`niMAD`                  -> 21
+		`niPDD`                  -> 496
+		`niSpeed`                -> 13
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #231
+
+		`liSN`                   -> 1282123502710841344
+		`nItemID`                -> AbsoLab Bandit Cape
+		`nCUC`                   -> 9
+		`niSTR`                  -> 15
+		`niDEX`                  -> 81
+		`nfiDEX`                 -> 35
+		`niINT`                  -> 15
+		`nfiINT`                 -> 25
+		`niLUK`                  -> 144
+		`nfiLUK`                 -> 60
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 23
+		`nfiPAD`                 -> 6
+		`niMAD`                  -> 23
+		`niPDD`                  -> 681
+		`nfiSpeed`               -> 6
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #232
+
+		`liSN`                   -> 1282123485400948736
+		`nItemID`                -> AbsoLab Bandit Gloves
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 151
+		`nfiDEX`                 -> 20
+		`nfiINT`                 -> 50
+		`niLUK`                  -> 151
+		`nfiLUK`                 -> 84
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 117
+		`niMAD`                  -> 78
+		`niPDD`                  -> 320
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> Critical Damage: +8% 
+		`nOption4`               -> Critical Damage: +3% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> LUK per 10 Character Levels: +1 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #233
+
+		`liSN`                   -> 1282123470007853056
+		`nItemID`                -> AbsoLab Revenge Guard
+		`nCUC`                   -> 10
+		`niDEX`                  -> 191
+		`niLUK`                  -> 231
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 328
+		`nfiPAD`                 -> 53
+		`niMAD`                  -> 78
+		`nfiPDD`                 -> 45
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 25
+		`nBDR`                   -> 30
+		`nfiBDR`                 -> 10
+		`nIMDR`                  -> 10
+		`nfiDamR`                -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> ATT: +13% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> Damage: +10% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #234
+
+		`liSN`                   -> 1282120147649400838
+		`nItemID`                -> Superior Engraved Gollux Belt
+		`nCUC`                   -> 5
+		`niSTR`                  -> 137
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 137
+		`niINT`                  -> 137
+		`nfiINT`                 -> 48
+		`niLUK`                  -> 137
+		`nfiLUK`                 -> 72
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`niPAD`                  -> 74
+		`niMAD`                  -> 74
+		`niPDD`                  -> 213
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #235
+
+		`liSN`                   -> 1282125629147471872
+		`nItemID`                -> AbsoLab Thief Shoulder
+		`nCUC`                   -> 3
+		`niSTR`                  -> 16
+		`niDEX`                  -> 91
+		`niINT`                  -> 13
+		`niLUK`                  -> 90
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 34
+		`niMAD`                  -> 36
+		`niPDD`                  -> 208
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #236
+
+		`liSN`                   -> 1270646440607277056
+		`nItemID`                -> Outlaw Heart
+		`nCUC`                   -> 12
+		`niSTR`                  -> 122
+		`niDEX`                  -> 122
+		`niINT`                  -> 122
+		`niLUK`                  -> 122
+		`niMaxHP`                -> 755
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 169
+		`niMAD`                  -> 85
+		`nIUC`                   -> 2
+		`nAttribute`             -> 24
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #237
+
+		`liSN`                   -> 1273351622810066944
+		`nItemID`                -> Ghost Ship Exorcist
+		`nRUC`                   -> 2
+		`nCUC`                   -> 1
+		`niSTR`                  -> 66
+		`niDEX`                  -> 62
+		`niINT`                  -> 62
+		`niLUK`                  -> 62
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 24
+		`niMAD`                  -> 22
+		`niPDD`                  -> 138
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #238
+
+		`liSN`                   -> 1282134055164469248
+		`nItemID`                -> Superior Gollux Ring
+		`nCUC`                   -> 8
+		`niSTR`                  -> 96
+		`niDEX`                  -> 96
+		`niINT`                  -> 96
+		`niLUK`                  -> 96
+		`niMaxHP`                -> 505
+		`niMaxMP`                -> 505
+		`niPAD`                  -> 59
+		`niMAD`                  -> 59
+		`niPDD`                  -> 303
+		`niSpeed`                -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #239
+
+		`liSN`                   -> 1278868119984750592
+		`nItemID`                -> Reinforced Gollux Ring
+		`nCUC`                   -> 6
+		`niSTR`                  -> 129
+		`niDEX`                  -> 129
+		`niINT`                  -> 129
+		`niLUK`                  -> 129
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`niPAD`                  -> 107
+		`niMAD`                  -> 107
+		`niPDD`                  -> 339
+		`niSpeed`                -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #240
+
+		`liSN`                   -> 1274766423725654032
+		`nItemID`                -> Scarlet Ring
+		`nCUC`                   -> 3
+		`niSTR`                  -> 65
+		`niDEX`                  -> 70
+		`niINT`                  -> 62
+		`niLUK`                  -> 64
+		`niMaxHP`                -> 411
+		`niMaxMP`                -> 410
+		`niPAD`                  -> 28
+		`niMAD`                  -> 15
+		`niPDD`                  -> 222
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK per 10 Character Levels: +1 
+		`nOption6`               -> LUK per 10 Character Levels: +1 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #241
+
+		`liSN`                   -> 1282134047497281536
+		`nItemID`                -> Superior Gollux Earrings
+		`nCUC`                   -> 9
+		`niSTR`                  -> 104
+		`niDEX`                  -> 104
+		`nfiDEX`                 -> 48
+		`niINT`                  -> 104
+		`nfiINT`                 -> 68
+		`niLUK`                  -> 104
+		`nfiLUK`                 -> 68
+		`niMaxHP`                -> 405
+		`niMaxMP`                -> 405
+		`niPAD`                  -> 65
+		`niMAD`                  -> 65
+		`niPDD`                  -> 215
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> LUK per 10 Character Levels: +1 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #242
+
+		`liSN`                   -> 1282137705739870208
+		`nItemID`                -> Solid Gollux Ring
+		`nCUC`                   -> 4
+		`niSTR`                  -> 60
+		`niDEX`                  -> 60
+		`niINT`                  -> 60
+		`niLUK`                  -> 80
+		`niMaxHP`                -> 355
+		`niMaxMP`                -> 355
+		`niPAD`                  -> 19
+		`niMAD`                  -> 19
+		`niPDD`                  -> 208
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> All Stats: +6% 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #243
+
+		`liCashItemSN`           -> 1282245051027812352
+		`nItemID`                -> Universal Transparent Weapon
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #244
+
+		`liSN`                   -> 1282243430071840770
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #245
+
+		`liSN`                   -> 1282140443198513152
+		`nItemID`                -> Death Sender Charm
+		`niDEX`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> Boss Monster Damage: +30% 
+		`nOption4`               -> STR per 10 Character Levels: +2 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #246
+
+		`liSN`                   -> 1282250775439007744
+		`nItemID`                -> Deluxe Android (F)
+		`nAttribute`             -> 40
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #247
+
+		`liSN`                   -> 1268771131515666438
+		`nItemID`                -> Condensed Power Crystal
+		`nCUC`                   -> 7
+		`niSTR`                  -> 30
+		`nfiSTR`                 -> 33
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 58
+		`nfiLUK`                 -> 21
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 7
+		`niMAD`                  -> 5
+		`niPDD`                  -> 158
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #248
+
+		`liSN`                   -> 1271765648283983872
+		`nItemID`                -> Black Bean Mark
+		`nCUC`                   -> 7
+		`niSTR`                  -> 61
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 61
+		`niINT`                  -> 61
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 96
+		`nfiLUK`                 -> 44
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 16
+		`niMAD`                  -> 16
+		`niPDD`                  -> 260
+		`nfiPDD`                 -> 42
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> LUK per 10 Character Levels: +1 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #249
+
+		`liCashItemSN`           -> 1282259796199993344
+		`nItemID`                -> Transparent Face Accessory
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #250
+
+		`liCashItemSN`           -> 1282259818551439360
+		`nItemID`                -> Transparent Eye Accessory
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #251
+
+		`liCashItemSN`           -> 1282259883508625408
+		`nItemID`                -> Transparent Earrings
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #252
+
+		`liCashItemSN`           -> 1282259867087925248
+		`nItemID`                -> Transparent Gloves
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #253
+
+		`liCashItemSN`           -> 1282259848423272448
+		`nItemID`                -> Transparent Cape
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #254
+
+		`liSN`                   -> 1282484425271222272
+		`nItemID`                -> Gold Maple Leaf Emblem
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Ignore Monster DEF: +35% 
+		`nOption2`               -> ATT: +10% 
+		`nOption3`               -> Ignore Monster DEF: +30% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> Magic ATT: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #255
+
+		`liCashItemSN`           -> 1282497644958314496
+		`nItemID`                -> Transparent Shoes
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #256
+
+		`liCashItemSN`           -> 1275988232240361472
+		`nItemID`                -> Swabby Hat
+		`nPosition`              -> 124
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #257
+
+		`liSN`                   -> 1282822203003559936
+		`nItemID`                -> Maple World Savior
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 475
+		`niMaxMP`                -> 475
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 175
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #258
+
+		`liCashItemSN`           -> 1283182089277202437
+		`nItemID`                -> Flutterby Dream Chat Ring
+		`nPosition`              -> 103
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #259
+
+		`liCashItemSN`           -> 1283182613846220801
+		`nItemID`                -> Crimson Fate Topcoat
+		`nPosition`              -> 122
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #260
+
+		`liCashItemSN`           -> 1283182461991444485
+		`nItemID`                -> Starlit Dreams Cowl
+		`nPosition`              -> 71
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #261
+
+		`liCashItemSN`           -> 1283181944179449860
+		`nItemID`                -> Sir Hedgehog
+		`nPosition`              -> 119
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #262
+
+		`liCashItemSN`           -> 1283181944179449858
+		`nItemID`                -> Luminous Sea
+		`nPosition`              -> 120
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #263
+
+		`liCashItemSN`           -> 1283182209909579781
+		`nItemID`                -> Shepherd's Crook Weapon Skin
+		`nPosition`              -> 99
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #264
+
+		`liCashItemSN`           -> 1283181944183644162
+		`nItemID`                -> Queen's Evening Party
+		`nPosition`              -> 127
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #265
+
+		`liCashItemSN`           -> 1283181843344187399
+		`nItemID`                -> Scout Regiment Cape
+		`nPosition`              -> 128
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #266
+
+		`liCashItemSN`           -> 1283182461991444487
+		`nItemID`                -> Shining Moonlight
+		`nPosition`              -> 104
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #267
+
+		`liCashItemSN`           -> 1283182658427478016
+		`nItemID`                -> La Luna
+		`nPosition`              -> 121
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #268
+
+		`liCashItemSN`           -> 1283182209909579778
+		`nItemID`                -> Starlit Dreamweaver
+		`nPosition`              -> 80
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #269
+
+		`liCashItemSN`           -> 1283272359628980228
+		`nItemID`                -> Moon Bunny Bell Weapon
+		`nPosition`              -> 107
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #270
+
+		`liCashItemSN`           -> 1283272359641563136
+		`nItemID`                -> Little Darling Outfit
+		`nPosition`              -> 98
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #271
+
+		`liCashItemSN`           -> 1283272442827194372
+		`nItemID`                -> Flutterby Dream Label Ring
+		`nPosition`              -> 108
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #272
+
+		`liCashItemSN`           -> 1283272283363950592
+		`nItemID`                -> Camelia Tea Bonnet
+		`nPosition`              -> 115
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #273
+
+		`liCashItemSN`           -> 1283272359620591617
+		`nItemID`                -> Blade
+		`nPosition`              -> 110
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #274
+
+		`liCashItemSN`           -> 1283272683244699656
+		`nItemID`                -> All About Black
+		`nPosition`              -> 79
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #275
+
+		`liCashItemSN`           -> 1283272558468349956
+		`nItemID`                -> Mummy Mask
+		`nPosition`              -> 126
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #276
+
+		`liCashItemSN`           -> 1283281230212841485
+		`nItemID`                -> Imperial Duke Wing
+		`nPosition`              -> 97
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #277
+
+		`liCashItemSN`           -> 1283279900140322819
+		`nItemID`                -> Fluffy Bunny Outfit
+		`nPosition`              -> 111
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #278
+
+		`liCashItemSN`           -> 1283281230212841486
+		`nItemID`                -> Imperial Duke Crown
+		`nPosition`              -> 101
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #279
+
+		`liCashItemSN`           -> 1283279900157100039
+		`nItemID`                -> Blood Oath Weapon
+		`nPosition`              -> 102
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #280
+
+		`liCashItemSN`           -> 1283280678460538884
+		`nItemID`                -> Couples Army Combat Cape
+		`nPosition`              -> 105
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #281
+
+		`liCashItemSN`           -> 1283280678456344580
+		`nItemID`                -> White Ghostly Cloth
+		`nPosition`              -> 109
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #282
+
+		`liCashItemSN`           -> 1283280678447955971
+		`nItemID`                -> Blood Oath Weapon
+		`nPosition`              -> 123
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #283
+
+		`liCashItemSN`           -> 1283279096658477057
+		`nItemID`                -> Jay's Sterilized Kitty Eye Patch
+		`nPosition`              -> 112
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #284
+
+		`liCashItemSN`           -> 1283280678439567360
+		`nItemID`                -> Red Rose Label Ring
+		`nPosition`              -> 117
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #285
+
+		`liCashItemSN`           -> 1283279096641699851
+		`nItemID`                -> Starlit Dreams Robe
+		`nPosition`              -> 100
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #286
+
+		`liCashItemSN`           -> 1283280273370464258
+		`nItemID`                -> Blood Oath Weapon
+		`nPosition`              -> 125
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #287
+
+		`liCashItemSN`           -> 1283280678447955980
+		`nItemID`                -> Camelia Tea Dress
+		`nPosition`              -> 118
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #288
+
+		`liCashItemSN`           -> 1283279551711100935
+		`nItemID`                -> Mu Young's Sword
+		`nPosition`              -> 113
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #289
+
+		`liCashItemSN`           -> 1283182658427478017
+		`nItemID`                -> Fluffy Bunny Hoodie
+		`nPosition`              -> 114
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #290
+
+		`liCashItemSN`           -> 1283801845579640832
+		`ftDateExpire`           -> 1602734400000
+		`nItemID`                -> Underpants
+		`nPosition`              -> 116
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #291
+
+		`liCashItemSN`           -> 1285110268782862338
+		`nItemID`                -> Penguin Gloves
+		`nPosition`              -> 84
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #292
+
+		`liCashItemSN`           -> 1285110268787056656
+		`nItemID`                -> Penguin Hood
+		`nPosition`              -> 88
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #293
+
+		`liCashItemSN`           -> 1285109019089985549
+		`nItemID`                -> Springtime Sprout Hood
+		`nPosition`              -> 92
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #294
+
+		`liCashItemSN`           -> 1285109019085791232
+		`nItemID`                -> Springtime Sprout Outfit (F)
+		`nPosition`              -> 96
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #295
+
+		`liCashItemSN`           -> 1289411366578446336
+		`nItemID`                -> Fiery Trident
+		`nPosition`              -> 66
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #296
+
+		`liCashItemSN`           -> 1289410577311096834
+		`nItemID`                -> Snowy Cherry Blossom Label Ring
+		`nPosition`              -> 67
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #297
+
+		`liCashItemSN`           -> 1289410222821105664
+		`nItemID`                -> Shadow Warrior's Sword
+		`nPosition`              -> 68
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #298
+
+		`liCashItemSN`           -> 1289411770783522818
+		`nItemID`                -> null
+		`nPosition`              -> 69
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #299
+
+		`liCashItemSN`           -> 1289411366565863425
+		`nItemID`                -> ??? ??
+		`nPosition`              -> 70
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #300
+
+		`liCashItemSN`           -> 1289410222842077185
+		`nItemID`                -> Misty Fantasia
+		`nPosition`              -> 72
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #301
+
+		`liCashItemSN`           -> 1289411770783522817
+		`nItemID`                -> Ains Weapon
+		`nPosition`              -> 73
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #302
+
+		`liCashItemSN`           -> 1289411366578446337
+		`nItemID`                -> Frosty Cherry Blossom Chat Ring
+		`nPosition`              -> 74
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #303
+
+		`liCashItemSN`           -> 1289410222837882881
+		`nItemID`                -> Idol Ribbon Snapback
+		`nPosition`              -> 75
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #304
+
+		`liCashItemSN`           -> 1289410222850465792
+		`nItemID`                -> Ground Pounder
+		`nPosition`              -> 76
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #305
+
+		`liCashItemSN`           -> 1289411770779328520
+		`nItemID`                -> Ferocious Devil Wings
+		`nPosition`              -> 77
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #306
+
+		`liCashItemSN`           -> 1289411366591029248
+		`nItemID`                -> Cobalt Filigree
+		`nPosition`              -> 78
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #307
+
+		`liCashItemSN`           -> 1289411555972243459
+		`nItemID`                -> null
+		`nPosition`              -> 81
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #308
+
+		`liCashItemSN`           -> 1289410812317949952
+		`nItemID`                -> null
+		`nPosition`              -> 82
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #309
+
+		`liCashItemSN`           -> 1289410222842077184
+		`nItemID`                -> null
+		`nPosition`              -> 83
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #310
+
+		`liCashItemSN`           -> 1289410577306902529
+		`nItemID`                -> Misty Starlight
+		`nPosition`              -> 85
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #311
+
+		`liCashItemSN`           -> 1289410812301172738
+		`nItemID`                -> Sweet Baguette
+		`nPosition`              -> 86
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #312
+
+		`liCashItemSN`           -> 1289410222825299968
+		`nItemID`                -> Misty Moonlight
+		`nPosition`              -> 87
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #313
+
+		`liCashItemSN`           -> 1289411555993214976
+		`nItemID`                -> Ains Weapon
+		`nPosition`              -> 89
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #314
+
+		`liCashItemSN`           -> 1289410577277542402
+		`nItemID`                -> null
+		`nPosition`              -> 90
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #315
+
+		`liCashItemSN`           -> 1289411555976437760
+		`nItemID`                -> null
+		`nPosition`              -> 91
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #316
+
+		`liCashItemSN`           -> 1289411555980632064
+		`nItemID`                -> Shimmering Starlight Attire
+		`nPosition`              -> 93
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #317
+
+		`liCashItemSN`           -> 1289410577281736705
+		`nItemID`                -> Island Travel Name Tag Ring
+		`nPosition`              -> 94
+		`nAttribute`             -> 16
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #318
+
+		`liCashItemSN`           -> 1289410812301172739
+		`nItemID`                -> null
+		`nPosition`              -> 95
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #319
+
+		`liCashItemSN`           -> 1289410222863048704
+		`nItemID`                -> White Ducky Inner Tube
+		`nPosition`              -> 106
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #320
+
+		`liCashItemSN`           -> 1289410577264959488
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #321
+
+		`liCashItemSN`           -> 1289410577277542401
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #322
+
+		`liSN`                   -> 1275623610870054912
+		`nItemID`                -> Arcane Symbol: Vanishing Journey
+		`niLUK`                  -> 1000
+		`nArcaneForce`           -> 100
+		`nArcaneExp`             -> 39
+		`nArcaneLevel`           -> 8
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #323
+
+		`liSN`                   -> 1275885421829730304
+		`nItemID`                -> Arcane Symbol: Chu Chu Island
+		`niLUK`                  -> 1000
+		`nArcaneForce`           -> 100
+		`nArcaneExp`             -> 35
+		`nArcaneLevel`           -> 8
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #324
+
+		`liSN`                   -> 1276010478807728128
+		`nItemID`                -> Arcane Symbol: Lachelein
+		`niLUK`                  -> 800
+		`nArcaneForce`           -> 80
+		`nArcaneExp`             -> 40
+		`nArcaneLevel`           -> 6
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #325
+
+		`liSN`                   -> 1276266888669868032
+		`nItemID`                -> Arcane Symbol: Arcana
+		`niLUK`                  -> 1000
+		`nArcaneForce`           -> 100
+		`nArcaneExp`             -> 33
+		`nArcaneLevel`           -> 8
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #326
+
+		`liSN`                   -> 1276398737450778624
+		`nItemID`                -> Arcane Symbol: Morass
+		`niLUK`                  -> 800
+		`nArcaneForce`           -> 80
+		`nArcaneExp`             -> 25
+		`nArcaneLevel`           -> 6
+
+
+Character: `Bare` (143578)
+Account:   `Hope` (119)
+
+	Equip Item #327
+
+		`liSN`                   -> 1277177040075956224
+		`nItemID`                -> Arcane Symbol: Esfera
+		`niLUK`                  -> 800
+		`nArcaneForce`           -> 80
+		`nArcaneExp`             -> 20
+		`nArcaneLevel`           -> 6
+
+
+Character: `imgayhaha` (143580)
+Account:   `Hope` (119)
+
+	Equip Item #328
+
+		`liSN`                   -> 1282243900467310592
+		`nItemID`                -> Elven Crystal Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `imgayhaha` (143580)
+Account:   `Hope` (119)
+
+	Equip Item #329
+
+		`liSN`                   -> 1282243900467310593
+		`nItemID`                -> Elven Crystal Shoes
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `imgayhaha` (143580)
+Account:   `Hope` (119)
+
+	Equip Item #330
+
+		`liSN`                   -> 1282243900467310594
+		`nItemID`                -> Trusty & Faithful
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `imgayhaha` (143580)
+Account:   `Hope` (119)
+
+	Equip Item #331
+
+		`liSN`                   -> 1282243922978037763
+		`nItemID`                -> Trusty & Faithful
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `imgayhaha` (143580)
+Account:   `Hope` (119)
+
+	Equip Item #332
+
+		`liSN`                   -> 1282243922978037764
+		`nItemID`                -> Magic Arrows
+		`nPosition`              -> 2
+
+
+Character: `imgayhaha` (143580)
+Account:   `Hope` (119)
+
+	Equip Item #333
+
+		`liSN`                   -> 1282243922978037762
+		`nItemID`                -> Crusader Codex
+
+
+Character: `gaygaygay` (155047)
+Account:   `Hope` (119)
+
+	Equip Item #334
+
+		`liSN`                   -> 1285218713452408832
+		`nItemID`                -> Shadow Knight Suit
+		`nRUC`                   -> 7
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niPDD`                  -> 150
+
+
+Character: `gaygaygay` (155047)
+Account:   `Hope` (119)
+
+	Equip Item #335
+
+		`liSN`                   -> 1285218713452408833
+		`nItemID`                -> Shadow Knight Shoes
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 1
+		`niPDD`                  -> 60
+
+
+Character: `gaygaygay` (155047)
+Account:   `Hope` (119)
+
+	Equip Item #336
+
+		`liSN`                   -> 1285218713452408834
+		`nItemID`                -> Massive Shadow
+		`niPAD`                  -> 97
+
+
+Character: `gaygaygay` (155047)
+Account:   `Hope` (119)
+
+	Equip Item #337
+
+		`liSN`                   -> 1285218713452408835
+		`nItemID`                -> Sharp Shadow
+		`niPAD`                  -> 95
+
+
+Character: `gaygaygay` (155047)
+Account:   `Hope` (119)
+
+	Equip Item #338
+
+		`liSN`                   -> 1285218755567333377
+		`nItemID`                -> Crusader Codex

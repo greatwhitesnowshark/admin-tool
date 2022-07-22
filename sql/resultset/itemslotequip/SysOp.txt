@@ -1,0 +1,1941 @@
+Total # of loaded items = 145
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #1
+
+		`liSN`                   -> 1267036666560909312
+		`ItemName`               -> Pinnacle Earring
+		`nItemID`                -> 1032168
+		`nPosition`              -> 3
+		`nRUC`                   -> 4
+		`nCUC`                   -> 1
+		`niSTR`                  -> 8
+		`niDEX`                  -> 3
+		`niINT`                  -> 10
+		`niLUK`                  -> 3
+		`niPDD`                  -> 40
+		`nAttribute`             -> 8
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #2
+
+		`liSN`                   -> 1267036922346344448
+		`ItemName`               -> Pinnacle Pain Killer
+		`nItemID`                -> 1382202
+		`nRUC`                   -> 7
+		`niPAD`                  -> 76
+		`niMAD`                  -> 121
+		`nAttribute`             -> 8
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #3
+
+		`liSN`                   -> 1267084265414344704
+		`ItemName`               -> Wizet Plain Suit Pants
+		`nItemID`                -> 1062007
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #4
+
+		`liCashItemSN`           -> 1267083630690430976
+		`ItemName`               -> Blossom Breeze
+		`nItemID`                -> 1103013
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #5
+
+		`liCashItemSN`           -> 1267202974661472256
+		`ItemName`               -> Mistletoe Promise Ring
+		`nItemID`                -> 1112007
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #6
+
+		`liSN`                   -> 1267701487295954944
+		`ItemName`               -> Ghost Ship Exorcist
+		`nItemID`                -> 1182060
+		`nPosition`              -> 16
+		`nRUC`                   -> 1
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 70
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #7
+
+		`liSN`                   -> 1267701997562396672
+		`ItemName`               -> Ghost Ship Exorcist
+		`nItemID`                -> 1182060
+		`nPosition`              -> 17
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niMaxHP`                -> 5
+		`niMaxMP`                -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 73
+		`nCHUC`                  -> 1
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #8
+
+		`liSN`                   -> 1267706936070225920
+		`ItemName`               -> Tot's Badge
+		`nItemID`                -> 1182286
+		`nPosition`              -> 19
+		`niSTR`                  -> 2
+		`niDEX`                  -> 2
+		`niINT`                  -> 2
+		`niLUK`                  -> 2
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #9
+
+		`liSN`                   -> 1268710676092878848
+		`ItemName`               -> Sengoku Hakase Badge
+		`nItemID`                -> 1182273
+		`nPosition`              -> 18
+		`nCUC`                   -> 1
+		`niSTR`                  -> 141
+		`niDEX`                  -> 145
+		`niINT`                  -> 141
+		`niLUK`                  -> 141
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 109
+		`niMAD`                  -> 106
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> Max MP: +6% 
+		`nOption5`               -> DEX: +3% 
+		`nOption6`               -> INT: +11 
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #10
+
+		`liSN`                   -> 1277329071331864576
+		`ItemName`               -> Berserked
+		`nItemID`                -> 1012632
+		`nPosition`              -> 1
+		`nRUC`                   -> 5
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 200
+		`nAttribute`             -> 8
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #11
+
+		`liSN`                   -> 1277429729158430720
+		`ItemName`               -> null
+		`nItemID`                -> 1032316
+		`nPosition`              -> 4
+		`nRUC`                   -> 6
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 500
+		`niMaxMP`                -> 500
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nAttribute`             -> 8
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #12
+
+		`liSN`                   -> 1277453305752317952
+		`ItemName`               -> Magic Eyepatch
+		`nItemID`                -> 1022278
+		`nPosition`              -> 2
+		`nCUC`                   -> 5
+		`niSTR`                  -> 167
+		`nfiSTR`                 -> 45
+		`niDEX`                  -> 166
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 165
+		`nfiINT`                 -> 30
+		`niLUK`                  -> 165
+		`nfiLUK`                 -> 104
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 180
+		`niMAD`                  -> 181
+		`niPDD`                  -> 1051
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 25
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #13
+
+		`liSN`                   -> 1279664343813885952
+		`ItemName`               -> Outlaw Heart
+		`nItemID`                -> 1672069
+		`nPosition`              -> 24
+		`nRUC`                   -> 10
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 505
+		`niMaxMP`                -> 5
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 1
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #14
+
+		`liSN`                   -> 1278557626023714816
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nPosition`              -> 7
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #15
+
+		`liSN`                   -> 1284108847992201216
+		`ItemName`               -> Lazuli Type 7
+		`nItemID`                -> 1572007
+		`nPosition`              -> 23
+		`nRUC`                   -> 8
+		`niSTR`                  -> 40
+		`niDEX`                  -> 40
+		`niPAD`                  -> 169
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #16
+
+		`liSN`                   -> 1284113667490766848
+		`ItemName`               -> Re:Zero
+		`nItemID`                -> 1143008
+		`nPosition`              -> 11
+		`niSTR`                  -> 20
+		`niDEX`                  -> 20
+		`niINT`                  -> 20
+		`niLUK`                  -> 20
+		`niPAD`                  -> 20
+		`niMAD`                  -> 20
+		`nAttribute`             -> 8
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #17
+
+		`liSN`                   -> 1273986966190522378
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nPosition`              -> 13
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 8
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #18
+
+		`liSN`                   -> 1276834021623693317
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nPosition`              -> 14
+		`nRUC`                   -> 1
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #19
+
+		`liSN`                   -> 1284542196959285248
+		`ItemName`               -> Ghost Ship Exorcist
+		`nItemID`                -> 1182060
+		`nPosition`              -> 15
+		`nRUC`                   -> 1
+		`niSTR`                  -> 120
+		`niDEX`                  -> 120
+		`niINT`                  -> 120
+		`niLUK`                  -> 120
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 147
+		`niMAD`                  -> 147
+		`niPDD`                  -> 282
+		`nCHUC`                  -> 31
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #20
+
+		`liCashItemSN`           -> 1286418267426131968
+		`ItemName`               -> Cherry Blossom Umbrella
+		`nItemID`                -> 1702918
+		`nPosition`              -> 101
+		`nAttribute`             -> 32
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #21
+
+		`liCashItemSN`           -> 1286788975566131200
+		`ItemName`               -> Drowsy Rabbit Label Ring
+		`nItemID`                -> 1115170
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #22
+
+		`liCashItemSN`           -> 1286788948064079872
+		`ItemName`               -> Drowsy Rabbit Chat Ring
+		`nItemID`                -> 1115081
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #23
+
+		`liSN`                   -> 1287547810278936576
+		`ItemName`               -> Brown Bamboo Hat
+		`nItemID`                -> 1002026
+		`nRUC`                   -> 7
+		`niLUK`                  -> 3
+		`niPDD`                  -> 15
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #24
+
+		`liSN`                   -> 1287547493344743424
+		`ItemName`               -> Spectrum Goggles
+		`nItemID`                -> 1022082
+		`nRUC`                   -> 3
+		`niSTR`                  -> 1
+		`niDEX`                  -> 1
+		`niSpeed`                -> 1
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #25
+
+		`liSN`                   -> 1287548372009488384
+		`ItemName`               -> Crystal Leaf Earrings
+		`nItemID`                -> 1032048
+		`nRUC`                   -> 6
+		`niMAD`                  -> 3
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #26
+
+		`liSN`                   -> 1287547637498777600
+		`ItemName`               -> Red Sauna Robe
+		`nItemID`                -> 1051017
+		`nPosition`              -> 5
+		`nRUC`                   -> 10
+		`niPDD`                  -> 30
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #27
+
+		`liSN`                   -> 1287548001082019840
+		`ItemName`               -> Facestompers
+		`nItemID`                -> 1072344
+		`nRUC`                   -> 5
+		`niPAD`                  -> 2
+		`niPDD`                  -> 20
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #28
+
+		`liSN`                   -> 1287547946287632384
+		`ItemName`               -> Brown Work Gloves
+		`nItemID`                -> 1082149
+		`nRUC`                   -> 7
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #29
+
+		`liSN`                   -> 1287547538613866496
+		`ItemName`               -> Pink Adventurer Cape
+		`nItemID`                -> 1102041
+		`nRUC`                   -> 5
+		`niPAD`                  -> 2
+		`niPDD`                  -> 7
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #30
+
+		`liSN`                   -> 1287547760442216448
+		`ItemName`               -> Maple Kandayo
+		`nItemID`                -> 1472032
+		`nPosition`              -> 22
+		`nRUC`                   -> 7
+		`niPAD`                  -> 23
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #31
+
+		`liCashItemSN`           -> 1287548776764141568
+		`ftDateExpire`           -> 1603627200000
+		`ItemName`               -> Transparent Eye Accessory
+		`nItemID`                -> 1022048
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #32
+
+		`liCashItemSN`           -> 1287548747097829376
+		`ftDateExpire`           -> 1603627200000
+		`ItemName`               -> Transparent Earrings
+		`nItemID`                -> 1032024
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #33
+
+		`liSN`                   -> 1288229034572029952
+		`ItemName`               -> Arcane Symbol: Morass
+		`nItemID`                -> 1712005
+		`nPosition`              -> 25
+		`niLUK`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #34
+
+		`liSN`                   -> 1290760886801350656
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #35
+
+		`liSN`                   -> 1285567454768160773
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nPosition`              -> 12
+		`nRUC`                   -> 1
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 98
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #36
+
+		`liSN`                   -> 1293052197684346880
+		`ItemName`               -> AbsoLab Archer Cape
+		`nItemID`                -> 1102795
+		`nPosition`              -> 6
+		`nRUC`                   -> 7
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 250
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #37
+
+		`liCashItemSN`           -> 1295146632840613888
+		`ItemName`               -> Lavender Doll
+		`nItemID`                -> 1012669
+		`nAttribute`             -> 32
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #38
+
+		`liCashItemSN`           -> 1295146871811084288
+		`ItemName`               -> Transparent Gloves
+		`nItemID`                -> 1082102
+		`nAttribute`             -> 32
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #39
+
+		`liSN`                   -> 1295735915607654400
+		`ItemName`               -> null
+		`nItemID`                -> 1354003
+		`nPosition`              -> 21
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #40
+
+		`liSN`                   -> 1295735707234631680
+		`ItemName`               -> null
+		`nItemID`                -> 1213018
+		`nPosition`              -> 20
+		`nRUC`                   -> 8
+		`niSTR`                  -> 100
+		`niDEX`                  -> 100
+		`niPAD`                  -> 295
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nAttribute`             -> 40
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #41
+
+		`liSN`                   -> 1304298209354645504
+		`ItemName`               -> Ludus Lake Explorer
+		`nItemID`                -> 1142114
+		`nPosition`              -> 10
+		`niMaxHP`                -> 110
+		`niMaxMP`                -> 110
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #42
+
+		`liSN`                   -> 1305393661705650176
+		`ItemName`               -> Reboot Ring
+		`nItemID`                -> 1113219
+		`nPosition`              -> 8
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 4
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niMaxHP`                -> 98
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 50
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #43
+
+		`liSN`                   -> 1305393702906298368
+		`ItemName`               -> Breath of Divinity
+		`nItemID`                -> 1113269
+		`nPosition`              -> 9
+		`nRUC`                   -> 1
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 25
+		`niMAD`                  -> 25
+		`niSpeed`                -> 18
+		`niJump`                 -> 10
+		`nLevelUpType`           -> 1
+		`nLevel`                 -> 1
+		`nAttribute`             -> 8
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #44
+
+		`liCashItemSN`           -> 1305833535734796288
+		`ItemName`               -> Lucid Butterfly Ring
+		`nItemID`                -> 1112965
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #45
+
+		`liCashItemSN`           -> 1305851447392587776
+		`ItemName`               -> null
+		`nItemID`                -> 1005462
+		`nPosition`              -> 26
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #46
+
+		`liCashItemSN`           -> 1305851447396782080
+		`ItemName`               -> Crown Fitness Track Suit
+		`nItemID`                -> 1053376
+		`nPosition`              -> 27
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #47
+
+		`liCashItemSN`           -> 1305851447400976384
+		`ItemName`               -> Bandage Blindfold
+		`nItemID`                -> 1022259
+		`nPosition`              -> 28
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #48
+
+		`liCashItemSN`           -> 1305851447400976385
+		`ItemName`               -> Retro School Uniform
+		`nItemID`                -> 1051206
+		`nPosition`              -> 29
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #49
+
+		`liCashItemSN`           -> 1305851447409364992
+		`ItemName`               -> Summer Flower Fairy Hat
+		`nItemID`                -> 1004998
+		`nPosition`              -> 30
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #50
+
+		`liCashItemSN`           -> 1305851447409364993
+		`ItemName`               -> Alpha Seraphim
+		`nItemID`                -> 1050298
+		`nPosition`              -> 31
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #51
+
+		`liCashItemSN`           -> 1305851447413559296
+		`ItemName`               -> Black Time
+		`nItemID`                -> 1004592
+		`nPosition`              -> 32
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #52
+
+		`liCashItemSN`           -> 1305851447417753600
+		`ItemName`               -> null
+		`nItemID`                -> 1005509
+		`nPosition`              -> 33
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #53
+
+		`liCashItemSN`           -> 1305851447421947904
+		`ItemName`               -> Retro Maid Outfit (M)
+		`nItemID`                -> 1053531
+		`nPosition`              -> 34
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #54
+
+		`liCashItemSN`           -> 1305851447426142208
+		`ItemName`               -> Rabbit Ear Dress
+		`nItemID`                -> 1052298
+		`nPosition`              -> 35
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #55
+
+		`liCashItemSN`           -> 1305851447430336512
+		`ItemName`               -> Retro School Uniform
+		`nItemID`                -> 1051206
+		`nPosition`              -> 36
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #56
+
+		`liCashItemSN`           -> 1305851447430336513
+		`ItemName`               -> Alpha Seraphim
+		`nItemID`                -> 1050298
+		`nPosition`              -> 37
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #57
+
+		`liCashItemSN`           -> 1305851447455502338
+		`ItemName`               -> Petite Penguin Hat (M)
+		`nItemID`                -> 1005444
+		`nPosition`              -> 38
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #58
+
+		`liCashItemSN`           -> 1305851447434530816
+		`ItemName`               -> Retro Maid Shoes (F)
+		`nItemID`                -> 1073427
+		`nPosition`              -> 39
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #59
+
+		`liCashItemSN`           -> 1305851447434530817
+		`ItemName`               -> null
+		`nItemID`                -> 1103240
+		`nPosition`              -> 40
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #60
+
+		`liCashItemSN`           -> 1305851447430336514
+		`ItemName`               -> Petite Penguin Hat (F)
+		`nItemID`                -> 1005445
+		`nPosition`              -> 41
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #61
+
+		`liCashItemSN`           -> 1305851447438725120
+		`ItemName`               -> Petite Penguin Hat (M)
+		`nItemID`                -> 1005444
+		`nPosition`              -> 42
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #62
+
+		`liCashItemSN`           -> 1305851447438725121
+		`ItemName`               -> Sheep Word Bubble Ring
+		`nItemID`                -> 1112294
+		`nPosition`              -> 43
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #63
+
+		`liCashItemSN`           -> 1305851447438725122
+		`ItemName`               -> Cherry Blossom Umbrella
+		`nItemID`                -> 1702918
+		`nPosition`              -> 44
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #64
+
+		`liCashItemSN`           -> 1305851447447113728
+		`ItemName`               -> null
+		`nItemID`                -> 1005510
+		`nPosition`              -> 45
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #65
+
+		`liCashItemSN`           -> 1305851447451308032
+		`ItemName`               -> Sporty White Band
+		`nItemID`                -> 1005423
+		`nPosition`              -> 46
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #66
+
+		`liCashItemSN`           -> 1305848751893762048
+		`ItemName`               -> Petite Penguin Outfit (F)
+		`nItemID`                -> 1053509
+		`nPosition`              -> 47
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #67
+
+		`liCashItemSN`           -> 1305851447455502336
+		`ItemName`               -> Sporty White Band
+		`nItemID`                -> 1005423
+		`nPosition`              -> 48
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #68
+
+		`liCashItemSN`           -> 1305851447455502337
+		`ItemName`               -> null
+		`nItemID`                -> 1005465
+		`nPosition`              -> 49
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #69
+
+		`liCashItemSN`           -> 1305851447434530818
+		`ItemName`               -> null
+		`nItemID`                -> 1005562
+		`nPosition`              -> 50
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #70
+
+		`liCashItemSN`           -> 1305851447459696640
+		`ItemName`               -> Sheep Label Ring
+		`nItemID`                -> 1112181
+		`nPosition`              -> 51
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #71
+
+		`liCashItemSN`           -> 1305851447463890944
+		`ItemName`               -> null
+		`nItemID`                -> 1005509
+		`nPosition`              -> 52
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #72
+
+		`liCashItemSN`           -> 1305851447463890945
+		`ItemName`               -> Fox Fire Sweeping Sleeves
+		`nItemID`                -> 1082741
+		`nPosition`              -> 53
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #73
+
+		`liCashItemSN`           -> 1305851447463890946
+		`ItemName`               -> null
+		`nItemID`                -> 1005463
+		`nPosition`              -> 54
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #74
+
+		`liCashItemSN`           -> 1305851447468085248
+		`ItemName`               -> null
+		`nItemID`                -> 1103248
+		`nPosition`              -> 55
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #75
+
+		`liCashItemSN`           -> 1305851447476473856
+		`ItemName`               -> Starry Summer Night Hat
+		`nItemID`                -> 1005221
+		`nPosition`              -> 56
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #76
+
+		`liCashItemSN`           -> 1305851447476473857
+		`ItemName`               -> Black Time
+		`nItemID`                -> 1004592
+		`nPosition`              -> 57
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #77
+
+		`liCashItemSN`           -> 1305851447484862464
+		`ItemName`               -> Cherry Blossom Raincoat
+		`nItemID`                -> 1053435
+		`nPosition`              -> 58
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #78
+
+		`liCashItemSN`           -> 1305851447484862465
+		`ItemName`               -> Petite Penguin Hat (F)
+		`nItemID`                -> 1005445
+		`nPosition`              -> 59
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #79
+
+		`liCashItemSN`           -> 1305851447484862466
+		`ItemName`               -> Denim Jacket
+		`nItemID`                -> 1053498
+		`nPosition`              -> 60
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #80
+
+		`liCashItemSN`           -> 1305851447489056768
+		`ItemName`               -> Starry Summer Night Shoes
+		`nItemID`                -> 1073303
+		`nPosition`              -> 61
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #81
+
+		`liCashItemSN`           -> 1305851447493251072
+		`ItemName`               -> Peach Blossom Fox Label Ring
+		`nItemID`                -> 1115158
+		`nPosition`              -> 62
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #82
+
+		`liCashItemSN`           -> 1305851447497445376
+		`ItemName`               -> Retro Maid Outfit (F)
+		`nItemID`                -> 1053532
+		`nPosition`              -> 63
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #83
+
+		`liCashItemSN`           -> 1305851447497445377
+		`ItemName`               -> Petite Penguin Outfit (M)
+		`nItemID`                -> 1053508
+		`nPosition`              -> 64
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #84
+
+		`liCashItemSN`           -> 1305851447497445378
+		`ItemName`               -> Sheep Label Ring
+		`nItemID`                -> 1112181
+		`nPosition`              -> 65
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #85
+
+		`liCashItemSN`           -> 1305851447501639680
+		`ItemName`               -> Super Summer Cape (F)
+		`nItemID`                -> 1103098
+		`nPosition`              -> 66
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #86
+
+		`liCashItemSN`           -> 1305851447501639681
+		`ItemName`               -> Crown Fitness Track Suit
+		`nItemID`                -> 1053376
+		`nPosition`              -> 67
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #87
+
+		`liCashItemSN`           -> 1305851447510028288
+		`ItemName`               -> Rabbit Ear Dress
+		`nItemID`                -> 1052298
+		`nPosition`              -> 68
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #88
+
+		`liCashItemSN`           -> 1305851447510028289
+		`ItemName`               -> Light of Erda
+		`nItemID`                -> 1103193
+		`nPosition`              -> 69
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #89
+
+		`liCashItemSN`           -> 1305851447510028290
+		`ItemName`               -> New School Hoodie
+		`nItemID`                -> 1042343
+		`nPosition`              -> 70
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #90
+
+		`liCashItemSN`           -> 1305851447510028291
+		`ItemName`               -> Snow Deer Parka
+		`nItemID`                -> 1051486
+		`nPosition`              -> 71
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #91
+
+		`liCashItemSN`           -> 1305851447514222592
+		`ItemName`               -> Super Summer Cape (M)
+		`nItemID`                -> 1103099
+		`nPosition`              -> 72
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #92
+
+		`liCashItemSN`           -> 1305851447514222593
+		`ItemName`               -> null
+		`nItemID`                -> 1005466
+		`nPosition`              -> 73
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #93
+
+		`liCashItemSN`           -> 1305851447514222594
+		`ItemName`               -> Retro Maid Outfit (F)
+		`nItemID`                -> 1053532
+		`nPosition`              -> 74
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #94
+
+		`liCashItemSN`           -> 1305851447522611200
+		`ItemName`               -> Umbral Shoes
+		`nItemID`                -> 1073132
+		`nPosition`              -> 75
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #95
+
+		`liCashItemSN`           -> 1305852177297952768
+		`ItemName`               -> Retro Maid Shoes (M)
+		`nItemID`                -> 1073420
+		`nPosition`              -> 76
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #96
+
+		`liCashItemSN`           -> 1305852177297952769
+		`ItemName`               -> Petite Penguin Outfit (F)
+		`nItemID`                -> 1053509
+		`nPosition`              -> 77
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #97
+
+		`liCashItemSN`           -> 1305852177302147072
+		`ItemName`               -> Soft Olive Knitwear
+		`nItemID`                -> 1042358
+		`nPosition`              -> 78
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #98
+
+		`liCashItemSN`           -> 1305852177310535680
+		`ItemName`               -> Mr. Hot Spring Kitty
+		`nItemID`                -> 1702654
+		`nPosition`              -> 79
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #99
+
+		`liCashItemSN`           -> 1305852177314729984
+		`ItemName`               -> Chocolate Dipped Stick
+		`nItemID`                -> 1702299
+		`nPosition`              -> 80
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #100
+
+		`liCashItemSN`           -> 1305852177318924288
+		`ItemName`               -> Starry Night Orchid Chat Ring
+		`nItemID`                -> 1115035
+		`nPosition`              -> 81
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #101
+
+		`liCashItemSN`           -> 1305852177318924289
+		`ItemName`               -> null
+		`nItemID`                -> 1005462
+		`nPosition`              -> 82
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #102
+
+		`liCashItemSN`           -> 1305852177323118592
+		`ItemName`               -> Retro Maid Shoes (F)
+		`nItemID`                -> 1073427
+		`nPosition`              -> 83
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #103
+
+		`liCashItemSN`           -> 1305852177323118593
+		`ItemName`               -> null
+		`nItemID`                -> 1005514
+		`nPosition`              -> 84
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #104
+
+		`liCashItemSN`           -> 1305852177323118594
+		`ItemName`               -> null
+		`nItemID`                -> 1005514
+		`nPosition`              -> 85
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #105
+
+		`liCashItemSN`           -> 1305852177323118595
+		`ItemName`               -> null
+		`nItemID`                -> 1005466
+		`nPosition`              -> 86
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #106
+
+		`liCashItemSN`           -> 1305852177327312896
+		`ItemName`               -> Petite Penguin Hat (F)
+		`nItemID`                -> 1005445
+		`nPosition`              -> 87
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #107
+
+		`liCashItemSN`           -> 1305852177327312897
+		`ItemName`               -> Umbral Cloak
+		`nItemID`                -> 1102912
+		`nPosition`              -> 88
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #108
+
+		`liCashItemSN`           -> 1305852177331507200
+		`ItemName`               -> null
+		`nItemID`                -> 1005514
+		`nPosition`              -> 89
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #109
+
+		`liCashItemSN`           -> 1305852177331507201
+		`ItemName`               -> null
+		`nItemID`                -> 1005464
+		`nPosition`              -> 90
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #110
+
+		`liCashItemSN`           -> 1305852177335701504
+		`ItemName`               -> Noble Blossom Coat
+		`nItemID`                -> 1052924
+		`nPosition`              -> 91
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #111
+
+		`liCashItemSN`           -> 1305852177348284416
+		`ItemName`               -> Phantom's Cane
+		`nItemID`                -> 1702645
+		`nPosition`              -> 92
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #112
+
+		`liCashItemSN`           -> 1305852177352478720
+		`ItemName`               -> Retro Maid Shoes (M)
+		`nItemID`                -> 1073420
+		`nPosition`              -> 93
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #113
+
+		`liCashItemSN`           -> 1305852177352478721
+		`ItemName`               -> Phantom's Cane
+		`nItemID`                -> 1702645
+		`nPosition`              -> 94
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #114
+
+		`liCashItemSN`           -> 1305852177356673024
+		`ItemName`               -> Cherry Blossom Raincoat
+		`nItemID`                -> 1053435
+		`nPosition`              -> 95
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #115
+
+		`liCashItemSN`           -> 1305852177356673025
+		`ItemName`               -> ??? ??? ??
+		`nItemID`                -> 1053437
+		`nPosition`              -> 96
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #116
+
+		`liCashItemSN`           -> 1305852177360867328
+		`ItemName`               -> Rabbit Ear Dress
+		`nItemID`                -> 1052298
+		`nPosition`              -> 97
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #117
+
+		`liCashItemSN`           -> 1305852177360867329
+		`ItemName`               -> null
+		`nItemID`                -> 1005562
+		`nPosition`              -> 98
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #118
+
+		`liCashItemSN`           -> 1305852177365061632
+		`ItemName`               -> Retro Maid Outfit (F)
+		`nItemID`                -> 1053532
+		`nPosition`              -> 99
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #119
+
+		`liCashItemSN`           -> 1305852177365061633
+		`ItemName`               -> null
+		`nItemID`                -> 1005509
+		`nPosition`              -> 100
+		`nAttribute`             -> 16
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #120
+
+		`liCashItemSN`           -> 1305848751881179136
+		`ItemName`               -> Petite Penguin Hat (M)
+		`nItemID`                -> 1005444
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #121
+
+		`liCashItemSN`           -> 1305851447451308033
+		`ItemName`               -> Petite Penguin Outfit (F)
+		`nItemID`                -> 1053509
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #122
+
+		`liCashItemSN`           -> 1305847442062954496
+		`ItemName`               -> Fox Fire Anklet
+		`nItemID`                -> 1073354
+		`nAttribute`             -> 32
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #123
+
+		`liCashItemSN`           -> 1305852504982147072
+		`ItemName`               -> Starry Summer Night Weapon
+		`nItemID`                -> 1702860
+		`nAttribute`             -> 32
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #124
+
+		`liSN`                   -> 1305855201542131712
+		`ItemName`               -> Trixter Dunwitch Pants
+		`nItemID`                -> 1062166
+		`nPosition`              -> 102
+		`nRUC`                   -> 7
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMAD`                  -> 2
+		`niPDD`                  -> 120
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nOption7`               -> Max HP: +60 
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #125
+
+		`liSN`                   -> 1279375835442348032
+		`ItemName`               -> Arcane Symbol: Vanishing Journey
+		`nItemID`                -> 1712001
+		`niINT`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+		`sTitle`                 -> SysOp
+
+
+Character: `SysOp` (1)
+Account:   `SysOp` (1)
+
+	Equip Item #126
+
+		`liSN`                   -> 1283618617828827136
+		`ItemName`               -> Arcane Symbol: Esfera
+		`nItemID`                -> 1712006
+		`niINT`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+		`sTitle`                 -> SysOp
+
+
+Character: `Lucky` (57)
+Account:   `SysOp` (1)
+
+	Equip Item #127
+
+		`liSN`                   -> 1290760886839099394
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `1234567` (18100)
+Account:   `SysOp` (1)
+
+	Equip Item #128
+
+		`liSN`                   -> 1290760895991070722
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `cstest13` (36296)
+Account:   `SysOp` (1)
+
+	Equip Item #129
+
+		`liSN`                   -> 1290760907462492162
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `adele23213` (112941)
+Account:   `SysOp` (1)
+
+	Equip Item #130
+
+		`liSN`                   -> 1275604397203910656
+		`ItemName`               -> null
+		`nItemID`                -> 1053526
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+
+
+Character: `adele23213` (112941)
+Account:   `SysOp` (1)
+
+	Equip Item #131
+
+		`liSN`                   -> 1275604397203910657
+		`ItemName`               -> null
+		`nItemID`                -> 1073414
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `adele23213` (112941)
+Account:   `SysOp` (1)
+
+	Equip Item #132
+
+		`liSN`                   -> 1275604397212299264
+		`ItemName`               -> null
+		`nItemID`                -> 1213029
+		`niPAD`                  -> 15
+
+
+Character: `adele23213` (112941)
+Account:   `SysOp` (1)
+
+	Equip Item #133
+
+		`liSN`                   -> 1275604440145072128
+		`ItemName`               -> null
+		`nItemID`                -> 1354000
+		`nPosition`              -> 1
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+
+
+Character: `adele23213` (112941)
+Account:   `SysOp` (1)
+
+	Equip Item #134
+
+		`liSN`                   -> 1275604440132489216
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `z3r0pls` (137612)
+Account:   `SysOp` (1)
+
+	Equip Item #135
+
+		`liSN`                   -> 1280828250226159616
+		`ItemName`               -> Shadow Knight Suit
+		`nItemID`                -> 1052606
+		`nRUC`                   -> 7
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niPDD`                  -> 150
+
+
+Character: `z3r0pls` (137612)
+Account:   `SysOp` (1)
+
+	Equip Item #136
+
+		`liSN`                   -> 1280828250226159617
+		`ItemName`               -> Shadow Knight Shoes
+		`nItemID`                -> 1072814
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 1
+		`niPDD`                  -> 60
+
+
+Character: `z3r0pls` (137612)
+Account:   `SysOp` (1)
+
+	Equip Item #137
+
+		`liSN`                   -> 1280828250226159618
+		`ItemName`               -> Massive Shadow
+		`nItemID`                -> 1562000
+		`niPAD`                  -> 97
+
+
+Character: `z3r0pls` (137612)
+Account:   `SysOp` (1)
+
+	Equip Item #138
+
+		`liSN`                   -> 1280828250226159619
+		`ItemName`               -> Sharp Shadow
+		`nItemID`                -> 1572000
+		`niPAD`                  -> 95
+
+
+Character: `z3r0pls` (137612)
+Account:   `SysOp` (1)
+
+	Equip Item #139
+
+		`liSN`                   -> 1280828289233063938
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `kanna123455` (157878)
+Account:   `SysOp` (1)
+
+	Equip Item #140
+
+		`liSN`                   -> 1285935657021337600
+		`ItemName`               -> Kanna's Hair Band
+		`nItemID`                -> 1003568
+
+
+Character: `kanna123455` (157878)
+Account:   `SysOp` (1)
+
+	Equip Item #141
+
+		`liSN`                   -> 1285935657021337601
+		`ItemName`               -> Kanna's Robes
+		`nItemID`                -> 1052472
+
+
+Character: `kanna123455` (157878)
+Account:   `SysOp` (1)
+
+	Equip Item #142
+
+		`liSN`                   -> 1285935657021337602
+		`ItemName`               -> Body and Soul Shoes
+		`nItemID`                -> 1072674
+
+
+Character: `kanna123455` (157878)
+Account:   `SysOp` (1)
+
+	Equip Item #143
+
+		`liSN`                   -> 1285935657029726208
+		`ItemName`               -> Florist's Fan
+		`nItemID`                -> 1552044
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 20
+
+
+Character: `kanna123455` (157878)
+Account:   `SysOp` (1)
+
+	Equip Item #144
+
+		`liSN`                   -> 1285935692358225920
+		`ItemName`               -> Iron Fan
+		`nItemID`                -> 1552000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 25
+
+
+Character: `kanna123455` (157878)
+Account:   `SysOp` (1)
+
+	Equip Item #145
+
+		`liSN`                   -> 1285935692349837312
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000

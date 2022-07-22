@@ -1,0 +1,1 @@
+﻿select * from schema0.character c INNER JOIN (SELECT sAccountClubID, dwAccountID FROM account) a ON a.dwaccountid = c.dwaccountid WHERE sAccountClubID = "dieaf"

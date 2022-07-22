@@ -1,0 +1,12 @@
+﻿SELECT Username, AccountID, Blocked, BlockReason, AccountCash, NumberOfCashBars, SUM(coalesce(t.nNumber, 0)) as TrunkNumberOfCashBars, ((NumberOfCashBars + SUM(coalesce(t.nNumber, 0))) * 1000000) + AccountCash as TotalNX
+FROM (SELECT Username, AccountID, Blocked, BlockReason, AccountCash, sum(NumberOfCashBars) as NumberOfCashBars
+    FROM (SELECT a.sAccountclubid as Username, c.dwaccountid as AccountID, a.bblocked as Blocked, a.nblockreason as BlockReason, a.nAccountCash as AccountCash, coalesce(i.nNumber, 0) as NumberOfCashBars
+        FROM (schema.account a
+            INNER JOIN schema0.`character` c
+                ON c.dwaccountid = a.dwaccountid
+            LEFT JOIN schema0.`itemslotbundle` i
+                ON c.dwcharacterid = i.dwcharacterid AND i.nitemid = 4430000)) itembundleview
+WHERE itembundleview.Username = "jinyii38"
+GROUP BY itembundleview.Username) fullview
+LEFT JOIN schema0.`trunkbundle` t
+    ON t.dwaccountid = fullview.AccountID AND t.nitemid = 4430000

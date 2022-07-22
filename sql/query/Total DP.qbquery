@@ -1,0 +1,13 @@
+﻿SELECT Username, AccountID, Blocked, BlockReason, DonationPoint, InventoryNumberOfSacks, SUM(coalesce(t.nNumber, 0)) as TrunkNumberOfSacks, ((InventoryNumberOfSacks + SUM(coalesce(t.nNumber, 0))) * 1000) + DonationPoint as TotalDP
+FROM (SELECT Username, AccountID, Blocked, BlockReason, DonationPoint, sum(InventoryNumberOfSacks) as InventoryNumberOfSacks
+    FROM (SELECT a.sAccountclubid as Username, c.dwaccountid as AccountID, a.bblocked as Blocked, a.nblockreason as BlockReason, a.nDonationPoint as DonationPoint, coalesce(i.nNumber, 0) as InventoryNumberOfSacks
+        FROM (schema.account a
+            INNER JOIN schema0.`character` c
+                ON c.dwaccountid = a.dwaccountid
+            LEFT JOIN schema0.`itemslotbundle` i
+                ON c.dwcharacterid = i.dwcharacterid AND i.nitemid = 3993003)) itembundleview
+WHERE itembundleview.Username = "gofurkle"
+GROUP BY itembundleview.Username) fullview
+LEFT JOIN schema0.`trunkbundle` t
+    ON t.dwaccountid = fullview.AccountID AND t.nitemid = 3993003
+ORDER BY TotalDP;

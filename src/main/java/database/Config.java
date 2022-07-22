@@ -1,0 +1,45 @@
+package database;
+
+public class Config {
+
+    public static int NESTED_DEGREE = 0;
+    public static String DB_HOST = "localhost";
+    public static String DB_PORT = "3306";
+    public static String DB_SCHEMA = "schema";
+    public static String DB_GAME_SCHEMA = "schema0";
+    public static String DB_USER = "root";
+    public static String DB_PASS = "";
+
+    public static boolean LOG_EQUIPS = false;
+    public static boolean LOG_INVENTORY = false;
+    public static boolean LOG_CHARACTER_LIST = false;
+    public static boolean LOG_AUCTION = false;
+    public static boolean LOG_LOCKER = false;
+    public static boolean LOG_TRUNK = false;
+    public static boolean LOG_FULL_LOG_ACCOUNT = false;
+    public static boolean LOG_DONATE = false;
+    public static boolean SEARCH_WITH_HWID_IP = false;
+
+    public static boolean LOG_SUSPECTED_ACCOUNTS = true;
+
+    public static int[] aFlaggedBundleItems = {
+            3993003, 2048744, 4030002, 4430000, 2435719, 2430182, 2048915, 2615001, 4310097, 2048721, 2048744
+    };
+
+    public static int[] aFlaggedEquipItems = {
+            1004809, 1004810, 1004811, 1004812, 1053063, 1053064, 1053065, 1053066, 1053067, 1073158,
+            1073159, 1073160, 1073161, 1073162, 1102940, 1102941, 1102942, 1102943, 1102944, 1082695,
+            1082696, 1082697, 1082698, 1082699, 1152196, 1152197, 1152198, 1152199, 1152200, 1212120,
+            1222113, 1232113, 1242121, 1242122, 1252098, 1262039, 1272017, 1282017, 1302343, 1312203,
+            1322255, 1332279, 1362140, 1372228, 1342104, 1382265, 1402259, 1412181, 1422189, 1432218,
+            1442274, 1452257, 1462243, 1472265, 1482221, 1492235, 1522143, 1532150, 1542117, 1552119,
+            1582023, 1592020, 1213030, 1292018, 4310217, 1004422, 1004423, 1004424, 1004425, 1004426,
+            1052882, 1052887, 1052888, 1052889, 1052890, 1073030, 1073032, 1073033, 1073034, 1073035,
+            1082636, 1082637, 1082638, 1082639, 1082640, 1102775, 1102794, 1102795, 1102796, 1102797,
+            1152174, 1152176, 1152177, 1152178, 1152179, 1213017, 1292017, 1442268, 1312199, 1582017,
+            1452252, 1322250, 1592019, 1462239, 1332274, 1472261, 1342101, 1212115, 1482216, 1222109,
+            1492231, 1362135, 1232109, 1372222, 1242116, 1242120, 1382259, 1252093, 1522138, 1262017,
+            1532144, 1402251, 1272016, 1542108, 1412177, 1282016, 1552110, 1422184, 1432214, 1302333,
+            1032223, 1132246, 1122267, 1113075, 1113074, 1113073, 1672069, 1012632, 1122150, 1202236,
+            1672020, 1004808, 1132308, 1022278};
+}

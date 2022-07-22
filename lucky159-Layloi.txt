@@ -1,0 +1,353 @@
+
+=====================================
+Account Details  -  lucky159
+=====================================
+
+		Account Email                        -> duonglck757@gmail.com
+		Account ID                           -> 26786
+		Account Name                         -> lucky159
+		All Device ID Logins / Counts        -> {b9c86b35926295597b20ae696e837d7c=1, d28ad02082968ee2b55989f0d2bef22f=32, d42e8a5127b8d072fe57b33bd8160bc0=4, 955cb4f277b4f3718a783cc09865afcc=2}
+		All IP Address Logins / Counts       -> {185.54.231.76=1, 5.62.60.34=4, 95.142.120.140=4, 5.62.58.235=1, 95.142.120.137=4, 95.142.120.139=5, 172.98.86.202=4, 199.187.211.154=1, 199.187.211.151=1, 5.62.35.158=3, 5.62.35.132=4, 92.223.85.30=1, 219.100.37.245=3, 121.153.220.62=1, 5.62.58.222=1, 5.62.58.182=1}
+		Birthday                             -> 2000-01-01
+		Block Reason                         -> 5
+		Blocked                              -> 1
+		Donation Point                       -> 750
+		Email Verified                       -> 1
+		Last Used Device ID                  -> 955cb4f277b4f3718a783cc09865afcc
+		Last Used IP Address                 -> 5.62.58.182
+		Account Cash                           -> 4324534
+		Registered Date                      -> Sun Sep 20 18:20:06 PDT 2020
+
+	Total Characters on Account - 8
+
+		------------------------------------------------------------------------------------------------
+		Character ID            Character Name          Level                   Job ID                  
+		------------------------------------------------------------------------------------------------
+
+		205936                  diaana1                 120                     2312                    
+		205963                  aaasdsds                120                     2217                    
+		205969                  aasdsads                239                     6512                    
+		206075                  Kgasy                   120                     3121                    
+		206095                  UIguig                  120                     4211                    
+		206108                  Igiydrt                 120                     2412                    
+		206134                  HUJOu                   120                     11212                   
+		206169                  Jgygsi                  120                     5112                    
+
+=====================================
+Account Details  -  Layloi
+=====================================
+
+		Account Email                        -> duongcm32@gmail.com
+		Account ID                           -> 27429
+		Account Name                         -> Layloi
+		All Device ID Logins / Counts        -> {eb5f529f8089b0a263487851abaf0341=23}
+		All IP Address Logins / Counts       -> {219.100.37.242=19, 219.100.37.241=4}
+		Birthday                             -> 1987-01-12
+		Email Verified                       -> 1
+		Last Used Device ID                  -> eb5f529f8089b0a263487851abaf0341
+		Last Used IP Address                 -> 219.100.37.241
+		Account Cash                           -> 493845
+		Registered Date                      -> Mon Sep 28 19:45:10 PDT 2020
+
+	Total Characters on Account - 1
+
+		------------------------------------------------------------------------------------------------
+		Character ID            Character Name          Level                   Job ID                  
+		------------------------------------------------------------------------------------------------
+
+		209919                  Trasyta                 25                      6500                    
+
+*******************************************************************************************************************************************************************
+*  Suspected/Shared Accounts Trace                                                                                                                       #1 of 2  *
+*  Username:  `lucky159` (Hacking - Permanent)                                                                                                                    *
+*  Account ID: 26786                                                                                                                                              *
+*******************************************************************************************************************************************************************
+
+			*******************************************************************************************************************************************************************
+			* Device ID:           b9c86b35926295597b20ae696e837d7c                                                                                                  #1 of 4  *
+			* First-Known User:    Laocai159 (26695)                                                                                                                          *
+			* Most-Recent User:    Kisty (27094)                                                                                                                              *
+			*******************************************************************************************************************************************************************
+
+			  (Number of Accounts -  9) (Full List) ->
+			  Laocai159(26695), nhocbaopro999(26482), lucky159(26786), kimdieucm(11208), Deawon(26803), khanhhoa(11420), lamhung(11438), Namdinh(11418), Kisty(27094)
+			  Laocai159                                       3 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  nhocbaopro999 (Botting - Permanent)             7 login(s)                       2nd user (historically)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       3rd user (historically)
+			  kimdieucm                                       1 login(s)                       4th user (historically)
+			  Deawon (Botting - Temporary)                    39 login(s)                      5th user (historically)
+			  khanhhoa (Botting - Permanent)                  1 login(s)                       6th user (historically)
+			  lamhung (Botting - Permanent)                   1 login(s)                       7th user (historically)
+			  Namdinh (Botting - Permanent)                   1 login(s)                       8th user (historically)
+			  Kisty (Botting - Permanent)                     1 login(s)                       9th user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* Device ID:           d28ad02082968ee2b55989f0d2bef22f                                                                                                  #2 of 4  *
+			* First-Known User:    Laocai159 (26695)                                                                                                                          *
+			* Most-Recent User:    kimdieucm (11208)                                                                                                                          *
+			*******************************************************************************************************************************************************************
+
+			  (Number of Accounts -  4) (Full List) ->
+			  Laocai159(26695), lucky159(26786), Kisty(27094), kimdieucm(11208)
+			  Laocai159                                       7 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  *** lucky159 (Hacking - Permanent) ***          32 login(s)                      2nd user (historically)
+			  Kisty (Botting - Permanent)                     1 login(s)                       3rd user (historically)
+			  kimdieucm                                       22 login(s)                      4th user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* Device ID:           d42e8a5127b8d072fe57b33bd8160bc0                                                                                                  #3 of 4  *
+			* First-Known User:    Laocai159 (26695)                                                                                                                          *
+			* Most-Recent User:    lucky159 (26786)                                                                                                                           *
+			*******************************************************************************************************************************************************************
+
+			  (Number of Accounts -  3) (Full List) ->
+			  Laocai159(26695), Lucky(11417), lucky159(26786)
+			  Laocai159                                       10 login(s)                      1st user (historically) -> "First-Login/Owner"
+			  Lucky                                           4 login(s)                       2nd user (historically)
+			  *** lucky159 (Hacking - Permanent) ***          4 login(s)                       3rd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* Device ID:           955cb4f277b4f3718a783cc09865afcc                                                                                                  #4 of 4  *
+			* First-Known User:    Laocai159 (26695)                                                                                                                          *
+			* Most-Recent User:    Raul (27438)                                                                                                                               *
+			*******************************************************************************************************************************************************************
+
+			  (Number of Accounts -  6) (Full List) ->
+			  Laocai159(26695), lucky159(26786), khoinguyen999(27424), khoinguyen159(27426), quocbao123(12830), Raul(27438)
+			  Laocai159                                       4 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  *** lucky159 (Hacking - Permanent) ***          2 login(s)                       2nd user (historically)
+			  khoinguyen999 (Hacking - Permanent)             1 login(s)                       3rd user (historically)
+			  khoinguyen159 (Hacking - Permanent)             1 login(s)                       4th user (historically)
+			  quocbao123 (Hacking - Permanent)                1 login(s)                       5th user (historically)
+			  Raul (Hacking - Permanent)                      1 login(s)                       6th user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          185.54.231.76                                                                                                                    #1 of 16  *
+			* First-Known User:    pinetreeboy99 (11643) (Botting)                                                                                                            *
+			* Most-Recent User:    Laocai159 (26695)                                                                                                                          *
+			*******************************************************************************************************************************************************************
+
+			3 accounts
+			  pinetreeboy99(11643), lucky159(26786), Laocai159(26695)
+			  pinetreeboy99 (Botting - Temporary)             5 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       2nd user (historically)
+			  Laocai159                                       1 login(s)                       3rd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          5.62.60.34                                                                                                                       #2 of 16  *
+			* First-Known User:    Laocai159 (26695)                                                                                                                          *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			2 accounts
+			  Laocai159(26695), lucky159(26786)
+			  Laocai159                                       1 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  *** lucky159 (Hacking - Permanent) ***          4 login(s)                       2nd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          95.142.120.140                                                                                                                   #3 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          4 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          5.62.58.235                                                                                                                      #4 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    hellosiwon (22886)                                                                                                                         *
+			*******************************************************************************************************************************************************************
+
+			2 accounts
+			  lucky159(26786), hellosiwon(22886)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  hellosiwon                                      1 login(s)                       2nd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          95.142.120.137                                                                                                                   #5 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    Lucky (11417)                                                                                                                              *
+			*******************************************************************************************************************************************************************
+
+			2 accounts
+			  lucky159(26786), Lucky(11417)
+			  *** lucky159 (Hacking - Permanent) ***          4 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  Lucky                                           2 login(s)                       2nd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          95.142.120.139                                                                                                                   #6 of 16  *
+			* First-Known User:    Deawon (26803) (Botting)                                                                                                                   *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			2 accounts
+			  Deawon(26803), lucky159(26786)
+			  Deawon (Botting - Temporary)                    1 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  *** lucky159 (Hacking - Permanent) ***          5 login(s)                       2nd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          172.98.86.202                                                                                                                    #7 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          4 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          199.187.211.154                                                                                                                  #8 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          199.187.211.151                                                                                                                  #9 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          5.62.35.158                                                                                                                     #10 of 16  *
+			* First-Known User:    Pizzacheese (8680) (Botting)                                                                                                               *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			5 accounts
+			  Pizzacheese(8680), pinetreeboy99(11643), marvelhulk(11879), momobamii(5992), lucky159(26786)
+			  Pizzacheese (Botting - Permanent)               28 login(s)                      1st user (historically) -> "First-Login/Owner"
+			  pinetreeboy99 (Botting - Temporary)             14 login(s)                      2nd user (historically)
+			  marvelhulk                                      3 login(s)                       3rd user (historically)
+			  momobamii                                       7 login(s)                       4th user (historically)
+			  *** lucky159 (Hacking - Permanent) ***          3 login(s)                       5th user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          5.62.35.132                                                                                                                     #11 of 16  *
+			* First-Known User:    momobamii (5992)                                                                                                                           *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			3 accounts
+			  momobamii(5992), Pizzacheese(8680), lucky159(26786)
+			  momobamii                                       5 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  Pizzacheese (Botting - Permanent)               1 login(s)                       2nd user (historically)
+			  *** lucky159 (Hacking - Permanent) ***          4 login(s)                       3rd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          92.223.85.30                                                                                                                    #12 of 16  *
+			* First-Known User:    marvelhulk (11879)                                                                                                                         *
+			* Most-Recent User:    nhocbaopro999 (26482) (Botting)                                                                                                            *
+			*******************************************************************************************************************************************************************
+
+			6 accounts
+			  marvelhulk(11879), pinetreeboy99(11643), Pizzacheese(8680), lucky159(26786), Bacninh(27096), nhocbaopro999(26482)
+			  marvelhulk                                      3 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  pinetreeboy99 (Botting - Temporary)             6 login(s)                       2nd user (historically)
+			  Pizzacheese (Botting - Permanent)               5 login(s)                       3rd user (historically)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       4th user (historically)
+			  Bacninh (Botting - Permanent)                   1 login(s)                       5th user (historically)
+			  nhocbaopro999 (Botting - Permanent)             1 login(s)                       6th user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          219.100.37.245                                                                                                                  #13 of 16  *
+			* First-Known User:    n0tHunter (20233)                                                                                                                          *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			3 accounts
+			  n0tHunter(20233), Lucky(11417), lucky159(26786)
+			  n0tHunter                                       1 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  Lucky                                           12 login(s)                      2nd user (historically)
+			  *** lucky159 (Hacking - Permanent) ***          3 login(s)                       3rd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          121.153.220.62                                                                                                                  #14 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          5.62.58.222                                                                                                                     #15 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          5.62.58.182                                                                                                                     #16 of 16  *
+			* First-Known User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			* Most-Recent User:    lucky159 (26786) (Hacking)                                                                                                                 *
+			*******************************************************************************************************************************************************************
+
+			1 accounts
+			  lucky159(26786)
+			  *** lucky159 (Hacking - Permanent) ***          1 login(s)                       1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+
+			Completed for account in:  19.66 seconds
+			Number of other accounts loaded in the process that affected the compilation time: 20
+
+
+*******************************************************************************************************************************************************************
+*  Suspected/Shared Accounts Trace                                                                                                                       #2 of 2  *
+*  Username:  `Layloi`                                                                                                                                            *
+*  Account ID: 27429                                                                                                                                              *
+*******************************************************************************************************************************************************************
+
+			*******************************************************************************************************************************************************************
+			* Device ID:           eb5f529f8089b0a263487851abaf0341                                                                                                  #1 of 1  *
+			* First-Known User:    Layloi (27429)                                                                                                                             *
+			* Most-Recent User:    Layloi (27429)                                                                                                                             *
+			*******************************************************************************************************************************************************************
+
+			  (Number of Accounts -  1) (Full List) ->
+			  Layloi(27429)
+			  *** Layloi ***                                  23 login(s)                      1st user (historically) -> "First-Login/Owner" -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          219.100.37.242                                                                                                                    #1 of 2  *
+			* First-Known User:    trieuvuqn0 (4964)                                                                                                                          *
+			* Most-Recent User:    Layloi (27429)                                                                                                                             *
+			*******************************************************************************************************************************************************************
+
+			2 accounts
+			  trieuvuqn0(4964), Layloi(27429)
+			  trieuvuqn0                                      1 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  *** Layloi ***                                  19 login(s)                      2nd user (historically) -> "Most-Recent-Login"
+
+			*******************************************************************************************************************************************************************
+			* IP Address:          219.100.37.241                                                                                                                    #2 of 2  *
+			* First-Known User:    Laocai159 (26695)                                                                                                                          *
+			* Most-Recent User:    Layloi (27429)                                                                                                                             *
+			*******************************************************************************************************************************************************************
+
+			6 accounts
+			  Laocai159(26695), mittyex(1970), maple2(3231), shun3939(11969), Lucky(11417), Layloi(27429)
+			  Laocai159                                       8 login(s)                       1st user (historically) -> "First-Login/Owner"
+			  mittyex                                         1 login(s)                       2nd user (historically)
+			  maple2                                          1 login(s)                       3rd user (historically)
+			  shun3939                                        2 login(s)                       4th user (historically)
+			  Lucky                                           9 login(s)                       5th user (historically)
+			  *** Layloi ***                                  4 login(s)                       6th user (historically) -> "Most-Recent-Login"
+
+
+			Completed for account in:  3.58 seconds
+			Number of other accounts loaded in the process that affected the compilation time: 24
+

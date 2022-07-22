@@ -1,0 +1,4670 @@
+Total # of loaded items = 251
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #1
+
+		`liSN`                   -> 1271709213403578372
+		`ItemName`               -> Pink Holy Cup
+		`nItemID`                -> 1162025
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 60
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 32
+		`niMaxHP`                -> 50
+		`niMaxMP`                -> 50
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 6
+		`niMAD`                  -> 5
+		`nAttribute`             -> 8
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #2
+
+		`liSN`                   -> 1278984808659415040
+		`ItemName`               -> null
+		`nItemID`                -> 1053526
+		`nPosition`              -> 30
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #3
+
+		`liSN`                   -> 1278984808659415041
+		`ItemName`               -> null
+		`nItemID`                -> 1073414
+		`nPosition`              -> 29
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #4
+
+		`liSN`                   -> 1278984808659415042
+		`ItemName`               -> null
+		`nItemID`                -> 1213029
+		`nPosition`              -> 26
+		`niPAD`                  -> 15
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #5
+
+		`liSN`                   -> 1278984938527535106
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #6
+
+		`liSN`                   -> 1279040687077269504
+		`ItemName`               -> null
+		`nItemID`                -> 1354003
+		`nPosition`              -> 121
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +35% 
+		`nOption2`               -> Ignore Monster DEF: +30% 
+		`nOption3`               -> Boss Monster Damage: +30% 
+		`nOption4`               -> M. ATT per 10 Character Levels: +1 
+		`nOption5`               -> #prop% chance to recover 15 HP when attacking. 
+		`nOption6`               -> STR: +10% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #7
+
+		`liSN`                   -> 1279063727236362240
+		`ItemName`               -> Royal Warrior Helm
+		`nItemID`                -> 1003797
+		`nCUC`                   -> 13
+		`niSTR`                  -> 193
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 102
+		`nfiINT`                 -> 48
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 2175
+		`nfiMaxHP`               -> 2700
+		`niMaxMP`                -> 615
+		`niPAD`                  -> 21
+		`niMAD`                  -> 19
+		`niPDD`                  -> 1137
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 10
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> Enables the <Decent Mystic Door> skill (0)
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR per 10 Character Levels: +1 
+		`nOption6`               -> DEX per 10 Character Levels: +1 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #8
+
+		`liSN`                   -> 1279067848832077824
+		`ItemName`               -> Trixter Warrior Pants
+		`nItemID`                -> 1062165
+		`nCUC`                   -> 9
+		`niSTR`                  -> 133
+		`nfiSTR`                 -> 44
+		`niDEX`                  -> 70
+		`nfiDEX`                 -> 20
+		`nfiLUK`                 -> 56
+		`niMaxHP`                -> 1335
+		`nfiMaxHP`               -> 1800
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 2
+		`niPDD`                  -> 581
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> Movement Speed: +10 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #9
+
+		`liSN`                   -> 1279457173029666816
+		`ItemName`               -> Deluxe Android (M)
+		`nItemID`                -> 1662002
+		`nPosition`              -> 61
+		`nAttribute`             -> 40
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #10
+
+		`liSN`                   -> 1279691224403562502
+		`ItemName`               -> Dea Sidus Earring
+		`nItemID`                -> 1032241
+		`nPosition`              -> 27
+		`nRUC`                   -> 4
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 50
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> HP Recovery Items and Skills: +30% 
+		`nOption3`               -> Max MP: +9% 
+		`nOption4`               -> Max HP: +125 
+		`nOption5`               -> ATT: +11 
+		`nOption6`               -> Magic ATT: +11 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #11
+
+		`liSN`                   -> 1279691224403562501
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nPosition`              -> 123
+		`nCUC`                   -> 2
+		`niSTR`                  -> 38
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> ATT: +11 
+		`nOption5`               -> Max HP: +125 
+		`nOption6`               -> STR: +11 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #12
+
+		`liSN`                   -> 1279805854572494848
+		`ItemName`               -> Gold Maple Leaf Emblem
+		`nItemID`                -> 1190301
+		`nPosition`              -> 125
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Ignore Monster DEF: +35% 
+		`nOption2`               -> Ignore Monster DEF: +30% 
+		`nOption3`               -> INT: +10% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> Critical Rate: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #13
+
+		`liSN`                   -> 1278372773898661888
+		`ItemName`               -> Dominator Pendant
+		`nItemID`                -> 1122150
+		`nPosition`              -> 119
+		`nCUC`                   -> 7
+		`niSTR`                  -> 81
+		`nfiSTR`                 -> 44
+		`niDEX`                  -> 81
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 81
+		`niLUK`                  -> 81
+		`niMaxHP`                -> 535
+		`niMaxMP`                -> 535
+		`nfiMaxMP`               -> 2100
+		`niPAD`                  -> 24
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 24
+		`niPDD`                  -> 502
+		`niSpeed`                -> 21
+		`niJump`                 -> 14
+		`nIUC`                   -> 2
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #14
+
+		`liSN`                   -> 1281961866964402181
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nPosition`              -> 128
+		`nCUC`                   -> 5
+		`niSTR`                  -> 50
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 30
+		`niINT`                  -> 30
+		`nfiINT`                 -> 18
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 158
+		`nfiJump`                -> 4
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> LUK: +17 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #15
+
+		`liSN`                   -> 1267775158517645316
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nCUC`                   -> 2
+		`niSTR`                  -> 29
+		`niDEX`                  -> 38
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> Item Drop Rate: +5% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> LUK: +17 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #16
+
+		`liSN`                   -> 1282325877736214535
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nCUC`                   -> 3
+		`niSTR`                  -> 37
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 25
+		`niINT`                  -> 25
+		`nfiINT`                 -> 39
+		`niLUK`                  -> 25
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 144
+		`nfiReduceReq`           -> 15
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> Max MP: +9% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> All Elemental Resistances: +5% 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #17
+
+		`liSN`                   -> 1283277671496933376
+		`ItemName`               -> null
+		`nItemID`                -> 1354003
+		`nPosition`              -> 31
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 18
+		`nOption1`               -> Ignore Monster DEF: +15% 
+		`nOption2`               -> #prop% chance to recover 3 HP when attacking. 
+		`nOption3`               -> LUK: +13 
+		`nOption4`               -> ATT: +4% 
+		`nOption5`               -> STR: +6 
+		`nOption6`               -> INT: +6 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #18
+
+		`liSN`                   -> 1281123412382736386
+		`ItemName`               -> null
+		`nItemID`                -> 1354003
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> ATT: +10% 
+		`nOption3`               -> Magic ATT: +10% 
+		`nOption4`               -> Max MP: +11% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #19
+
+		`liSN`                   -> 1284207750922014720
+		`ItemName`               -> Butterfly Dreams
+		`nItemID`                -> 1143000
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #20
+
+		`liSN`                   -> 1283455561404477440
+		`ItemName`               -> Ghost Ship Exorcist
+		`nItemID`                -> 1182060
+		`nCUC`                   -> 3
+		`niSTR`                  -> 65
+		`niDEX`                  -> 60
+		`niINT`                  -> 64
+		`niLUK`                  -> 57
+		`niMaxHP`                -> 260
+		`niMaxMP`                -> 264
+		`niPAD`                  -> 15
+		`niMAD`                  -> 14
+		`niPDD`                  -> 136
+		`nIUC`                   -> 2
+		`nAttribute`             -> 16
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 16
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> STR: +8% 
+		`nOption6`               -> STR: +19 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #21
+
+		`liSN`                   -> 1284330448729833480
+		`ItemName`               -> Superior Engraved Gollux Belt
+		`nItemID`                -> 1132246
+		`nCUC`                   -> 3
+		`niSTR`                  -> 109
+		`nfiSTR`                 -> 56
+		`niDEX`                  -> 109
+		`niINT`                  -> 109
+		`niLUK`                  -> 109
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`nfiMaxMP`               -> 2250
+		`niPAD`                  -> 47
+		`niMAD`                  -> 47
+		`niPDD`                  -> 193
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> Max HP: +8% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #22
+
+		`liSN`                   -> 1284897534065651712
+		`ItemName`               -> Superior Gollux Ring
+		`nItemID`                -> 1113075
+		`nCUC`                   -> 8
+		`niSTR`                  -> 96
+		`niDEX`                  -> 96
+		`niINT`                  -> 96
+		`niLUK`                  -> 96
+		`niMaxHP`                -> 505
+		`niMaxMP`                -> 505
+		`niPAD`                  -> 59
+		`niMAD`                  -> 59
+		`niPDD`                  -> 318
+		`niSpeed`                -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> Max HP: +8% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #23
+
+		`liSN`                   -> 1284909442227384320
+		`ItemName`               -> AbsoLab Knight Shoes
+		`nItemID`                -> 1073030
+		`nCUC`                   -> 9
+		`niSTR`                  -> 123
+		`nfiSTR`                 -> 36
+		`niDEX`                  -> 60
+		`nfiDEX`                 -> 20
+		`nfiINT`                 -> 45
+		`nfiLUK`                 -> 25
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 5
+		`niPDD`                  -> 457
+		`niSpeed`                -> 13
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> STR: +17 
+		`nOption6`               -> DEF: +150 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #24
+
+		`liSN`                   -> 1285637940235636736
+		`ItemName`               -> AbsoLab Knight Gloves
+		`nItemID`                -> 1082636
+		`nCUC`                   -> 9
+		`niSTR`                  -> 86
+		`nfiSTR`                 -> 75
+		`niDEX`                  -> 86
+		`nfiLUK`                 -> 30
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 2400
+		`niPAD`                  -> 57
+		`niMAD`                  -> 18
+		`niPDD`                  -> 330
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> Jump: +10 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #25
+
+		`liSN`                   -> 1286514610308005888
+		`ItemName`               -> AbsoLab Knight Cape
+		`nItemID`                -> 1102775
+		`nPosition`              -> 127
+		`nCUC`                   -> 9
+		`niSTR`                  -> 118
+		`nfiSTR`                 -> 65
+		`niDEX`                  -> 55
+		`nfiDEX`                 -> 30
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 50
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 2
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 2
+		`niPDD`                  -> 667
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> Max HP: +250 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #26
+
+		`liSN`                   -> 1286948518984114193
+		`ItemName`               -> Scarlet Ring
+		`nItemID`                -> 1113070
+		`nRUC`                   -> 1
+		`nCUC`                   -> 2
+		`niSTR`                  -> 87
+		`niDEX`                  -> 84
+		`niINT`                  -> 80
+		`niLUK`                  -> 84
+		`niMaxHP`                -> 402
+		`niMaxMP`                -> 410
+		`niPAD`                  -> 48
+		`niMAD`                  -> 51
+		`niPDD`                  -> 256
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 20
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> Magic ATT: +13 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #27
+
+		`liSN`                   -> 1287977163357822976
+		`ItemName`               -> AbsoLab Knight Shoulder
+		`nItemID`                -> 1152174
+		`nCUC`                   -> 1
+		`niSTR`                  -> 59
+		`niDEX`                  -> 55
+		`niINT`                  -> 15
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 15
+		`niMAD`                  -> 5
+		`niPDD`                  -> 176
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +17 
+		`nOption6`               -> DEF: +150 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #28
+
+		`liSN`                   -> 1269806126740938758
+		`ItemName`               -> Pensalir Battle Cape
+		`nItemID`                -> 1102718
+		`nCUC`                   -> 9
+		`niSTR`                  -> 98
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 35
+		`nfiDEX`                 -> 8
+		`niINT`                  -> 4
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 4
+		`niMaxHP`                -> 1260
+		`niMaxMP`                -> 180
+		`niPDD`                  -> 407
+		`niJump`                 -> 4
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 15
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> Item Drop Rate: +5% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> STR: +6% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #29
+
+		`liSN`                   -> 1289845765904236544
+		`ItemName`               -> null
+		`nItemID`                -> 1213017
+		`nCUC`                   -> 10
+		`niSTR`                  -> 153
+		`niDEX`                  -> 113
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 15
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 400
+		`nfiPAD`                 -> 82
+		`niMAD`                  -> 9
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 25
+		`nBDR`                   -> 30
+		`nfiBDR`                 -> 10
+		`nIMDR`                  -> 10
+		`nfiDamR`                -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 16
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> DEX per 10 Character Levels: +2 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +10% 
+		`nSoulOptionID`          -> 392
+		`nSoulSocketID`          -> 5
+		`nSoulOption`            -> 403
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #30
+
+		`liCashItemSN`           -> 1291980091085287424
+		`ItemName`               -> null
+		`nItemID`                -> 1115198
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #31
+
+		`liCashItemSN`           -> 1292031475021246464
+		`ItemName`               -> Naturally Luminous
+		`nItemID`                -> 1012660
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #32
+
+		`liSN`                   -> 1293508274993467392
+		`ItemName`               -> Reinforced Gollux Ring
+		`nItemID`                -> 1113074
+		`nCUC`                   -> 5
+		`niSTR`                  -> 90
+		`niDEX`                  -> 90
+		`niINT`                  -> 90
+		`niLUK`                  -> 90
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`niPAD`                  -> 52
+		`niMAD`                  -> 52
+		`niPDD`                  -> 339
+		`niSpeed`                -> 10
+		`nIUC`                   -> 1
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 18
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> Max MP: +250 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #33
+
+		`liSN`                   -> 1292368767397040136
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nCUC`                   -> 7
+		`niSTR`                  -> 55
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 31
+		`niINT`                  -> 25
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 34
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 130
+		`nfiMaxHP`               -> 990
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 11
+		`niPDD`                  -> 144
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR per 10 Character Levels: +2 
+		`nOption5`               -> STR per 10 Character Levels: +1 
+		`nOption6`               -> STR: +17 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #34
+
+		`liSN`                   -> 1294663524072775685
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nPosition`              -> 25
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> DEF: +9% 
+		`nOption4`               -> INT: +3% 
+		`nOption5`               -> LUK: +3% 
+		`nOption6`               -> INT: +3% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #35
+
+		`liSN`                   -> 1294954959745454080
+		`ItemName`               -> Black Bean Mark
+		`nItemID`                -> 1022232
+		`nPosition`              -> 32
+		`nRUC`                   -> 3
+		`nCUC`                   -> 2
+		`niSTR`                  -> 8
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 11
+		`niINT`                  -> 8
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 4
+		`nfiPAD`                 -> 3
+		`niPDD`                  -> 122
+		`nfiJump`                -> 3
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 16
+		`nGrade`                 -> 20
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> INT: +13% 
+		`nOption3`               -> HP Recovery Items and Skills: +30% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #36
+
+		`liCashItemSN`           -> 1293376125359288322
+		`ItemName`               -> Shark Chat Ring
+		`nItemID`                -> 1115025
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #37
+
+		`liSN`                   -> 1301396431290175488
+		`ItemName`               -> Oracle's Eternal Ring
+		`nItemID`                -> 1112667
+		`nPosition`              -> 1
+		`nRUC`                   -> 1
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPDD`                  -> 50
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #38
+
+		`liSN`                   -> 1301562957234380800
+		`ItemName`               -> Deluxe Android (F)
+		`nItemID`                -> 1662003
+		`nAttribute`             -> 40
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #39
+
+		`liSN`                   -> 1301444942803202048
+		`ItemName`               -> Superior Gollux Earrings
+		`nItemID`                -> 1032223
+		`nPosition`              -> 122
+		`nCUC`                   -> 9
+		`niSTR`                  -> 82
+		`nfiSTR`                 -> 72
+		`niDEX`                  -> 82
+		`niINT`                  -> 82
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 82
+		`nfiLUK`                 -> 40
+		`niMaxHP`                -> 405
+		`niMaxMP`                -> 405
+		`niPAD`                  -> 46
+		`niMAD`                  -> 46
+		`niPDD`                  -> 190
+		`nfiJump`                -> 4
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR per 10 Character Levels: +2 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> STR per 10 Character Levels: +1 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #40
+
+		`liSN`                   -> 1301395723140665344
+		`ItemName`               -> High Lord's Eternal Ring
+		`nItemID`                -> 1112666
+		`nPosition`              -> 3
+		`nRUC`                   -> 1
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niMAD`                  -> 2
+		`niPDD`                  -> 30
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #41
+
+		`liSN`                   -> 1302182726149033984
+		`ItemName`               -> Shiny Gray Magician Symbol
+		`nItemID`                -> 1012218
+		`nPosition`              -> 5
+		`niINT`                  -> 2
+		`niLUK`                  -> 2
+		`niMAD`                  -> 1
+		`niPDD`                  -> 22
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #42
+
+		`liSN`                   -> 1302213323319861248
+		`ItemName`               -> Meister Ring
+		`nItemID`                -> 1113055
+		`nPosition`              -> 4
+		`nCUC`                   -> 3
+		`niSTR`                  -> 97
+		`niDEX`                  -> 85
+		`niINT`                  -> 95
+		`niLUK`                  -> 89
+		`niMaxHP`                -> 454
+		`niMaxMP`                -> 456
+		`niPAD`                  -> 70
+		`niMAD`                  -> 58
+		`niPDD`                  -> 308
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 20
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR per 10 Character Levels: +1 
+		`nOption6`               -> ATT: +13 
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #43
+
+		`liSN`                   -> 1272072520635457542
+		`ItemName`               -> Reinforced Engraved Gollux Pendant
+		`nItemID`                -> 1122266
+		`nCUC`                   -> 7
+		`niSTR`                  -> 116
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 81
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 81
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 81
+		`niMaxHP`                -> 555
+		`niMaxMP`                -> 555
+		`niPAD`                  -> 20
+		`niMAD`                  -> 20
+		`niPDD`                  -> 215
+		`nfiSpeed`               -> 6
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> DEF: +7% 
+		`nOption6`               -> STR: +6% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #44
+
+		`liCashItemSN`           -> 1303005891225972736
+		`ftDateExpire`           -> 1607281200000
+		`ItemName`               -> Mix-n-Match Sneakers
+		`nItemID`                -> 1072395
+		`nPosition`              -> 93
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #45
+
+		`liSN`                   -> 1303002806059438080
+		`ItemName`               -> Outlaw Heart
+		`nItemID`                -> 1672069
+		`nCUC`                   -> 12
+		`niSTR`                  -> 67
+		`niDEX`                  -> 67
+		`niINT`                  -> 67
+		`niLUK`                  -> 67
+		`niMaxHP`                -> 755
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 105
+		`niMAD`                  -> 21
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> Movement Speed: +10 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #46
+
+		`liCashItemSN`           -> 1279390488331546624
+		`ItemName`               -> Plain White Cap
+		`nItemID`                -> 1005388
+		`nPosition`              -> 92
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #47
+
+		`liCashItemSN`           -> 1301563610056880128
+		`ftDateExpire`           -> 1606935600000
+		`ItemName`               -> Yellow Longsleeve with Bunny Bag
+		`nItemID`                -> 1042125
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #48
+
+		`liCashItemSN`           -> 1279390519751077888
+		`ItemName`               -> Lalala Dot Skirt
+		`nItemID`                -> 1061214
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #49
+
+		`liCashItemSN`           -> 1283430676825370624
+		`ftDateExpire`           -> 1602644400000
+		`ItemName`               -> Mix-n-Match Sneakers
+		`nItemID`                -> 1072395
+		`nPosition`              -> 89
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #50
+
+		`liCashItemSN`           -> 1303268541730123776
+		`ItemName`               -> Pink Elephant Hat
+		`nItemID`                -> 1004969
+		`nPosition`              -> 64
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #51
+
+		`liCashItemSN`           -> 1303267675556016128
+		`ItemName`               -> Pink Elephant Outfit
+		`nItemID`                -> 1053186
+		`nPosition`              -> 62
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #52
+
+		`liCashItemSN`           -> 1303267690080890880
+		`ItemName`               -> Pink Elephant Gloves
+		`nItemID`                -> 1082721
+		`nPosition`              -> 59
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #53
+
+		`liCashItemSN`           -> 1303269695969030144
+		`ItemName`               -> Pink Elephant Hat
+		`nItemID`                -> 1004969
+		`nPosition`              -> 60
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #54
+
+		`liCashItemSN`           -> 1303269382990065664
+		`ItemName`               -> Pink Elephant Outfit
+		`nItemID`                -> 1053186
+		`nPosition`              -> 58
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #55
+
+		`liCashItemSN`           -> 1303269638997798912
+		`ItemName`               -> Pink Elephant Gloves
+		`nItemID`                -> 1082721
+		`nPosition`              -> 63
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #56
+
+		`liCashItemSN`           -> 1303272802375430144
+		`ItemName`               -> Kiddy Crayon Cap
+		`nItemID`                -> 1005143
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #57
+
+		`liCashItemSN`           -> 1303271672333463552
+		`ItemName`               -> Lemon Wafer Coat
+		`nItemID`                -> 1051553
+		`nPosition`              -> 95
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #58
+
+		`liCashItemSN`           -> 1303271414723506176
+		`ItemName`               -> Kiddy Crayon Shoes
+		`nItemID`                -> 1073271
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #59
+
+		`liCashItemSN`           -> 1303272880909578240
+		`ItemName`               -> Field of Flowers
+		`nItemID`                -> 1103094
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #60
+
+		`liSN`                   -> 1304342037881098240
+		`ItemName`               -> Black Bean Mark
+		`nItemID`                -> 1022232
+		`nPosition`              -> 126
+		`nCUC`                   -> 5
+		`niSTR`                  -> 69
+		`nfiSTR`                 -> 48
+		`niDEX`                  -> 40
+		`niINT`                  -> 52
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 53
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 10
+		`nfiPAD`                 -> 4
+		`nfiMAD`                 -> 6
+		`niPDD`                  -> 226
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> Skill MP Cost: -17% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> STR: +6% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #61
+
+		`liSN`                   -> 1304350066802364416
+		`ItemName`               -> Silver Earrings
+		`nItemID`                -> 1032030
+		`nPosition`              -> 2
+		`nRUC`                   -> 5
+		`niMaxHP`                -> 30
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #62
+
+		`liCashItemSN`           -> 1288748906263568384
+		`ItemName`               -> Bunny Blossom Label Ring
+		`nItemID`                -> 1115169
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #63
+
+		`liCashItemSN`           -> 1287156389638254594
+		`ItemName`               -> Bunny Blossom Chat Ring
+		`nItemID`                -> 1115080
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #64
+
+		`liSN`                   -> 1302913838668271616
+		`ItemName`               -> Shiny Red Warrior Meister Symbol
+		`nItemID`                -> 1012406
+		`nPosition`              -> 6
+		`nCUC`                   -> 3
+		`niSTR`                  -> 28
+		`niDEX`                  -> 40
+		`niMaxHP`                -> 185
+		`niMaxMP`                -> 182
+		`niPAD`                  -> 16
+		`niPDD`                  -> 32
+		`nIUC`                   -> 2
+		`nSpecialAttribute`      -> 128
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> INT: +19 
+		`nOption5`               -> All Elemental Resistances: +5% 
+		`nOption6`               -> STR per 10 Character Levels: +1 
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #65
+
+		`liSN`                   -> 1305525743043969029
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nPosition`              -> 94
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 21
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 20
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #66
+
+		`liCashItemSN`           -> 1279390428629823488
+		`ItemName`               -> Plain White Cap
+		`nItemID`                -> 1005388
+		`nPosition`              -> 91
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #67
+
+		`liCashItemSN`           -> 1305937944804323328
+		`ftDateExpire`           -> 1607979600000
+		`ItemName`               -> Transparent Eye Accessory
+		`nItemID`                -> 1022048
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #68
+
+		`liSN`                   -> 1306611245511823367
+		`ItemName`               -> Superior Engraved Gollux Pendant
+		`nItemID`                -> 1122267
+		`nCUC`                   -> 6
+		`niSTR`                  -> 83
+		`nfiSTR`                 -> 72
+		`niDEX`                  -> 83
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 83
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 83
+		`nfiLUK`                 -> 44
+		`niMaxHP`                -> 530
+		`niMaxMP`                -> 530
+		`niPAD`                  -> 29
+		`niMAD`                  -> 29
+		`niPDD`                  -> 185
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 14
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> STR per 10 Character Levels: +1 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #69
+
+		`liSN`                   -> 1279142173513822208
+		`ItemName`               -> Eagle Eye Warrior Armor
+		`nItemID`                -> 1042254
+		`nCUC`                   -> 9
+		`niSTR`                  -> 133
+		`nfiSTR`                 -> 60
+		`niDEX`                  -> 70
+		`nfiDEX`                 -> 16
+		`nfiINT`                 -> 20
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 2
+		`niPDD`                  -> 516
+		`nfiJump`                -> 5
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 15
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> Max MP: +9% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> Max HP: +250 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #70
+
+		`liSN`                   -> 1307369548168695814
+		`ItemName`               -> Dea Sidus Earring
+		`nItemID`                -> 1032241
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 36
+		`niINT`                  -> 5
+		`nfiINT`                 -> 41
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> Mesos Obtained: +20% 
+		`nOption3`               -> HP Recovery Items and Skills: +30% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #71
+
+		`liSN`                   -> 1307603215361163264
+		`ItemName`               -> Dominator Pendant
+		`nItemID`                -> 1122150
+		`nPosition`              -> 120
+		`nRUC`                   -> 5
+		`niSTR`                  -> 20
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 20
+		`niINT`                  -> 20
+		`niLUK`                  -> 20
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 40
+		`nfiReduceReq`           -> 15
+		`nfiStatR`               -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #72
+
+		`liSN`                   -> 1307678761940070400
+		`ItemName`               -> Gold Demon Emblem
+		`nItemID`                -> 1190701
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 500
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +35% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> INT: +10% 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #73
+
+		`liSN`                   -> 1309418764009463808
+		`ItemName`               -> Black Bean Mark
+		`nItemID`                -> 1022232
+		`nPosition`              -> 9
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 7
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 7
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 120
+		`nfiStatR`               -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #74
+
+		`liCashItemSN`           -> 1303272867009654784
+		`ItemName`               -> Lemon Wafer Coat
+		`nItemID`                -> 1051553
+		`nPosition`              -> 96
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #75
+
+		`liCashItemSN`           -> 1303269768555655168
+		`ItemName`               -> null
+		`nItemID`                -> 1073435
+		`nPosition`              -> 57
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #76
+
+		`liCashItemSN`           -> 1295935822448746497
+		`ItemName`               -> Dreamy Cat Eyes Mask
+		`nItemID`                -> 1012630
+		`nPosition`              -> 10
+		`nAttribute`             -> 16
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #77
+
+		`liSN`                   -> 1309420535129825286
+		`ItemName`               -> Dea Sidus Earring
+		`nItemID`                -> 1032241
+		`nPosition`              -> 22
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 47
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiPDD`                 -> 21
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #78
+
+		`liSN`                   -> 1309901671664668672
+		`ItemName`               -> Utgard Cane
+		`nItemID`                -> 1362121
+		`nPosition`              -> 28
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 4
+		`nfiDEX`                 -> 12
+		`nfiINT`                 -> 16
+		`niPAD`                  -> 118
+		`nfiPDD`                 -> 24
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #79
+
+		`liSN`                   -> 1306248178559033344
+		`ItemName`               -> Deimos Sage Shield
+		`nItemID`                -> 1092089
+		`nPosition`              -> 7
+		`nRUC`                   -> 7
+		`niINT`                  -> 10
+		`niPDD`                  -> 73
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #80
+
+		`liSN`                   -> 1308324347471155206
+		`ItemName`               -> Dea Sidus Earring
+		`nItemID`                -> 1032241
+		`nPosition`              -> 8
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 5
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 21
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiPDD`                 -> 28
+		`nfiReduceReq`           -> 20
+		`nGrade`                 -> 1
+		`nOption1`               -> DEF: +125 
+		`nOption2`               -> Max MP: +60 
+		`nOption3`               -> STR: +6 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #81
+
+		`liSN`                   -> 1309966984464781315
+		`ItemName`               -> Black Garina
+		`nItemID`                -> 1052072
+		`nPosition`              -> 11
+		`nRUC`                   -> 10
+		`niDEX`                  -> 4
+		`nfiINT`                 -> 3
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 3
+		`nfiMaxHP`               -> 330
+		`niPDD`                  -> 115
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #82
+
+		`liSN`                   -> 1309966984460587022
+		`ItemName`               -> Dragon Battle Axe
+		`nItemID`                -> 1412026
+		`nPosition`              -> 12
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 24
+		`nfiDEX`                 -> 30
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 107
+		`nfiSpeed`               -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #83
+
+		`liSN`                   -> 1309966984460587021
+		`ItemName`               -> Pensalir Sentinel Suit
+		`nItemID`                -> 1052801
+		`nPosition`              -> 13
+		`nRUC`                   -> 10
+		`niSTR`                  -> 18
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 20
+		`nfiINT`                 -> 40
+		`niPAD`                  -> 1
+		`niPDD`                  -> 180
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #84
+
+		`liSN`                   -> 1309966990026428428
+		`ItemName`               -> Utgard Guards
+		`nItemID`                -> 1472247
+		`nPosition`              -> 14
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 8
+		`nfiDEX`                 -> 8
+		`nfiINT`                 -> 8
+		`niLUK`                  -> 10
+		`niPAD`                  -> 62
+		`nfiSpeed`               -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #85
+
+		`liSN`                   -> 1309967002189910019
+		`ItemName`               -> Blue Marine
+		`nItemID`                -> 1382035
+		`nPosition`              -> 15
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`nfiDEX`                 -> 9
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 3
+		`niPAD`                  -> 71
+		`niMAD`                  -> 110
+		`nfiBDR`                 -> 6
+		`nfiDamR`                -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #86
+
+		`liSN`                   -> 1309967036377681932
+		`ItemName`               -> Dragon Kanzir
+		`nItemID`                -> 1332049
+		`nPosition`              -> 16
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`nfiDEX`                 -> 36
+		`nfiLUK`                 -> 15
+		`niPAD`                  -> 100
+		`nfiMAD`                 -> 7
+		`nGrade`                 -> 1
+		`nOption1`               -> #prop% chance to apply Lv. 5 Freeze when attacking. 
+		`nOption2`               -> Max HP: +60 
+		`nOption3`               -> Max HP: +60 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #87
+
+		`liSN`                   -> 1309967036373487620
+		`ItemName`               -> Falcon Scepter
+		`nItemID`                -> 1252008
+		`nPosition`              -> 17
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 12
+		`nfiINT`                 -> 30
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 69
+		`niMAD`                  -> 113
+		`nfiJump`                -> 4
+		`nGrade`                 -> 1
+		`nOption1`               -> #prop% chance to recover 3 MP when attacking. 
+		`nOption2`               -> Max HP: +60 
+		`nOption3`               -> Max HP: +60 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #88
+
+		`liSN`                   -> 1309967036373487619
+		`ItemName`               -> Red Belly Duke
+		`nItemID`                -> 1052131
+		`nPosition`              -> 18
+		`nRUC`                   -> 10
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 18
+		`nfiINT`                 -> 6
+		`niPDD`                  -> 105
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #89
+
+		`liSN`                   -> 1309967036377681931
+		`ItemName`               -> Blue Dragon Boots
+		`nItemID`                -> 1072273
+		`nPosition`              -> 19
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 3
+		`nfiINT`                 -> 6
+		`nfiLUK`                 -> 9
+		`niPDD`                  -> 72
+		`nfiSpeed`               -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #90
+
+		`liSN`                   -> 1309967036377681933
+		`ItemName`               -> Valore Punch
+		`nItemID`                -> 1582008
+		`nPosition`              -> 20
+		`nRUC`                   -> 7
+		`nfiLUK`                 -> 24
+		`niPAD`                  -> 78
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #91
+
+		`liSN`                   -> 1309967036381876230
+		`ItemName`               -> Green Arnah Cap
+		`nItemID`                -> 1002408
+		`nPosition`              -> 21
+		`nRUC`                   -> 7
+		`niDEX`                  -> 6
+		`niMaxHP`                -> 20
+		`niPDD`                  -> 63
+		`nfiReduceReq`           -> 25
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #92
+
+		`liSN`                   -> 1309967036381876231
+		`ItemName`               -> Black Garina Shoes
+		`nItemID`                -> 1072272
+		`nPosition`              -> 23
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 18
+		`niLUK`                  -> 4
+		`nfiMaxHP`               -> 1650
+		`niPDD`                  -> 64
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #93
+
+		`liSN`                   -> 1309967036386070534
+		`ItemName`               -> Blue Elemental Gloves
+		`nItemID`                -> 1082164
+		`nPosition`              -> 24
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 9
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 9
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 45
+		`nfiPDD`                 -> 12
+		`nfiReduceReq`           -> 10
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #94
+
+		`liSN`                   -> 1309967036386070542
+		`ItemName`               -> Gilded Sword
+		`nItemID`                -> 1542009
+		`nPosition`              -> 33
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`nfiDEX`                 -> 15
+		`niPAD`                  -> 98
+		`nfiPAD`                 -> 11
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #95
+
+		`liSN`                   -> 1309967036386070541
+		`ItemName`               -> Dark Korben
+		`nItemID`                -> 1082141
+		`nPosition`              -> 34
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 3
+		`nfiINT`                 -> 9
+		`nfiLUK`                 -> 33
+		`niMaxMP`                -> 20
+		`nfiMaxMP`               -> 600
+		`niPDD`                  -> 41
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #96
+
+		`liSN`                   -> 1309966990026428430
+		`ItemName`               -> Dragon Faltizan
+		`nItemID`                -> 1432038
+		`nPosition`              -> 35
+		`nRUC`                   -> 7
+		`niPAD`                  -> 107
+		`nfiMAD`                 -> 24
+		`nfiJump`                -> 5
+		`nfiStatR`               -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #97
+
+		`liSN`                   -> 1309967065096081416
+		`ItemName`               -> Red Mantle
+		`nItemID`                -> 1052071
+		`nPosition`              -> 36
+		`nRUC`                   -> 10
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 8
+		`nfiDEX`                 -> 9
+		`nfiINT`                 -> 33
+		`niPDD`                  -> 115
+		`nGrade`                 -> 1
+		`nOption1`               -> DEF: +125 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #98
+
+		`liSN`                   -> 1309966990026428429
+		`ItemName`               -> Gold Machine Leg
+		`nItemID`                -> 1632002
+		`nPosition`              -> 37
+		`nRUC`                   -> 3
+		`niPDD`                  -> 50
+		`niSpeed`                -> 8
+		`niJump`                 -> 7
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #99
+
+		`liSN`                   -> 1309966984456392716
+		`ItemName`               -> Pensalir Sentinel Suit
+		`nItemID`                -> 1052801
+		`nPosition`              -> 38
+		`nRUC`                   -> 10
+		`niSTR`                  -> 18
+		`niDEX`                  -> 20
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 1
+		`niPDD`                  -> 180
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #100
+
+		`liSN`                   -> 1309967084519903235
+		`ItemName`               -> Erupting Fan
+		`nItemID`                -> 1552008
+		`nPosition`              -> 39
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`niINT`                  -> 1
+		`nfiLUK`                 -> 15
+		`nfiMaxHP`               -> 1080
+		`nfiMaxMP`               -> 1080
+		`niPAD`                  -> 63
+		`niMAD`                  -> 90
+		`nfiStatR`               -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #101
+
+		`liSN`                   -> 1309967097098620932
+		`ItemName`               -> Celestial Cane
+		`nItemID`                -> 1362013
+		`nPosition`              -> 40
+		`nRUC`                   -> 7
+		`nfiMaxMP`               -> 600
+		`niPAD`                  -> 98
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #102
+
+		`liSN`                   -> 1309967097098620933
+		`ItemName`               -> Dragon Majesty
+		`nItemID`                -> 1522014
+		`nPosition`              -> 41
+		`nRUC`                   -> 7
+		`niPAD`                  -> 100
+		`nfiBDR`                 -> 10
+		`nfiDamR`                -> 7
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #103
+
+		`liSN`                   -> 1309967097107009541
+		`ItemName`               -> Red Bazura
+		`nItemID`                -> 1051103
+		`nPosition`              -> 42
+		`nRUC`                   -> 10
+		`nfiSTR`                 -> 25
+		`niINT`                  -> 7
+		`niLUK`                  -> 3
+		`niMaxMP`                -> 45
+		`nfiPAD`                 -> 1
+		`niPDD`                  -> 84
+		`nfiPDD`                 -> 10
+		`nfiJump`                -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #104
+
+		`liSN`                   -> 1309967097111203861
+		`ItemName`               -> Black Skellduke
+		`nItemID`                -> 1082213
+		`nPosition`              -> 43
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 4
+		`niPDD`                  -> 40
+		`nfiPDD`                 -> 30
+		`nfiReduceReq`           -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #105
+
+		`liSN`                   -> 1309967097111203862
+		`ItemName`               -> Dragon Majesty
+		`nItemID`                -> 1522014
+		`nPosition`              -> 44
+		`nRUC`                   -> 7
+		`niPAD`                  -> 100
+		`nfiStatR`               -> 4
+		`nGrade`                 -> 1
+		`nOption1`               -> Max MP: +125 
+		`nOption2`               -> STR: +6 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #106
+
+		`liSN`                   -> 1309966925207654412
+		`ItemName`               -> Pensalir Mage Gloves
+		`nItemID`                -> 1082609
+		`nPosition`              -> 45
+		`nRUC`                   -> 6
+		`nfiSTR`                 -> 24
+		`niINT`                  -> 11
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 11
+		`niMaxHP`                -> 200
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 40
+		`nfiStatR`               -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #107
+
+		`liSN`                   -> 1309967118607011850
+		`ItemName`               -> Dragon Revolver
+		`nItemID`                -> 1492013
+		`nPosition`              -> 46
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 18
+		`nfiMaxMP`               -> 330
+		`niPAD`                  -> 78
+		`nfiMAD`                 -> 9
+		`nfiBDR`                 -> 10
+		`nfiDamR`                -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #108
+
+		`liSN`                   -> 1309966925224431619
+		`ItemName`               -> Gold Machine Arm
+		`nItemID`                -> 1622003
+		`nPosition`              -> 47
+		`nRUC`                   -> 3
+		`niSTR`                  -> 4
+		`niPDD`                  -> 47
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #109
+
+		`liSN`                   -> 1309967118615400461
+		`ItemName`               -> Pensalir Skipper Cape
+		`nItemID`                -> 1102722
+		`nPosition`              -> 48
+		`nRUC`                   -> 7
+		`niSTR`                  -> 4
+		`nfiSTR`                 -> 48
+		`niDEX`                  -> 4
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 4
+		`nfiINT`                 -> 8
+		`niLUK`                  -> 4
+		`niPDD`                  -> 150
+		`niJump`                 -> 4
+		`nfiJump`                -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #110
+
+		`liSN`                   -> 1309967150152372236
+		`ItemName`               -> Green Avelin
+		`nItemID`                -> 1041007
+		`nPosition`              -> 49
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 1
+		`nfiMaxHP`               -> 120
+		`niPDD`                  -> 10
+		`nfiPDD`                 -> 4
+		`nfiReduceReq`           -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #111
+
+		`liSN`                   -> 1309967150152372237
+		`ItemName`               -> Shining Dragon Rod
+		`nItemID`                -> 1212010
+		`nPosition`              -> 50
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 6
+		`nfiLUK`                 -> 24
+		`niPAD`                  -> 75
+		`niMAD`                  -> 123
+		`nfiSpeed`               -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #112
+
+		`liSN`                   -> 1309967150152372235
+		`ItemName`               -> Mithril Titans
+		`nItemID`                -> 1472002
+		`nPosition`              -> 51
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 3
+		`niLUK`                  -> 1
+		`niPAD`                  -> 12
+		`niPDD`                  -> 1
+		`nfiSpeed`               -> 3
+		`nfiStatR`               -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #113
+
+		`liSN`                   -> 1309967150152372238
+		`ItemName`               -> Dragon Staff
+		`nItemID`                -> 1382036
+		`nPosition`              -> 52
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 30
+		`niPAD`                  -> 80
+		`niMAD`                  -> 125
+		`nfiReduceReq`           -> 20
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #114
+
+		`liSN`                   -> 1309967211510845447
+		`ItemName`               -> Black Giles Cape
+		`nItemID`                -> 1102035
+		`nPosition`              -> 53
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 9
+		`nfiDEX`                 -> 9
+		`nfiPAD`                 -> 3
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 33
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #115
+
+		`liSN`                   -> 1309967111921291271
+		`ItemName`               -> Rose Earrings
+		`nItemID`                -> 1032017
+		`nPosition`              -> 54
+		`nRUC`                   -> 5
+		`nfiLUK`                 -> 20
+		`nfiPAD`                 -> 4
+		`nfiSpeed`               -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #116
+
+		`liSN`                   -> 1309967218389504007
+		`ItemName`               -> Dragon Battle Axe
+		`nItemID`                -> 1412026
+		`nPosition`              -> 55
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 12
+		`niPAD`                  -> 107
+		`nfiMAD`                 -> 24
+		`nGrade`                 -> 1
+		`nOption1`               -> STR: +13 
+		`nOption2`               -> Max HP: +60 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #117
+
+		`liSN`                   -> 1309967218389504013
+		`ItemName`               -> Strawberry Earrings
+		`nItemID`                -> 1032023
+		`nPosition`              -> 56
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 3
+		`nfiDEX`                 -> 15
+		`nfiINT`                 -> 28
+		`nfiPAD`                 -> 2
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #118
+
+		`liSN`                   -> 1309967211515039748
+		`ItemName`               -> Blue Dragon Boots
+		`nItemID`                -> 1072273
+		`nPosition`              -> 65
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 6
+		`niDEX`                  -> 3
+		`nfiMaxHP`               -> 330
+		`nfiMAD`                 -> 2
+		`niPDD`                  -> 72
+		`nfiSpeed`               -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #119
+
+		`liSN`                   -> 1309967260483538948
+		`ItemName`               -> Gold Wings
+		`nItemID`                -> 1962001
+		`nPosition`              -> 66
+		`nRUC`                   -> 3
+		`niPDD`                  -> 9
+		`niSpeed`                -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #120
+
+		`liSN`                   -> 1309967244792647688
+		`ItemName`               -> Dragon Majesty
+		`nItemID`                -> 1522014
+		`nPosition`              -> 67
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`nfiDEX`                 -> 9
+		`niPAD`                  -> 100
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #121
+
+		`liSN`                   -> 1309967277210423302
+		`ItemName`               -> Gold Engine
+		`nItemID`                -> 1612003
+		`nPosition`              -> 68
+		`nRUC`                   -> 3
+		`niPAD`                  -> 4
+		`niPDD`                  -> 50
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #122
+
+		`liSN`                   -> 1309967277210423301
+		`ItemName`               -> Pensalir Skipper Cape
+		`nItemID`                -> 1102722
+		`nPosition`              -> 69
+		`nRUC`                   -> 7
+		`niSTR`                  -> 4
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`nfiLUK`                 -> 52
+		`nfiMaxMP`               -> 840
+		`niPDD`                  -> 150
+		`nfiPDD`                 -> 24
+		`niJump`                 -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #123
+
+		`liSN`                   -> 1309967298307772422
+		`ItemName`               -> Pensalir Mage Cape
+		`nItemID`                -> 1102719
+		`nPosition`              -> 70
+		`nRUC`                   -> 7
+		`niSTR`                  -> 4
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`nfiPAD`                 -> 4
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 150
+		`niJump`                 -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #124
+
+		`liSN`                   -> 1309967307354886148
+		`ItemName`               -> Crossed Fan
+		`nItemID`                -> 1552010
+		`nPosition`              -> 71
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 24
+		`niPAD`                  -> 75
+		`niMAD`                  -> 100
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #125
+
+		`liSN`                   -> 1309967307354886147
+		`ItemName`               -> Perias Lucent Gauntlet
+		`nItemID`                -> 1282007
+		`nPosition`              -> 72
+		`nRUC`                   -> 7
+		`niPAD`                  -> 69
+		`niMAD`                  -> 113
+		`nfiStatR`               -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #126
+
+		`liSN`                   -> 1309967307359080456
+		`ItemName`               -> Tavar
+		`nItemID`                -> 1412021
+		`nPosition`              -> 73
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`nfiINT`                 -> 9
+		`nfiLUK`                 -> 18
+		`niPAD`                  -> 102
+		`nfiBDR`                 -> 2
+		`nfiDamR`                -> 1
+		`nfiStatR`               -> 2
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #127
+
+		`liSN`                   -> 1309967307359080457
+		`ItemName`               -> Final Retorts
+		`nItemID`                -> 1522012
+		`nPosition`              -> 74
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 6
+		`nfiDEX`                 -> 6
+		`nfiINT`                 -> 18
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 95
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #128
+
+		`liSN`                   -> 1309967307354886152
+		`ItemName`               -> Battle Cry
+		`nItemID`                -> 1542008
+		`nPosition`              -> 75
+		`nRUC`                   -> 7
+		`niPAD`                  -> 93
+		`nfiSpeed`               -> 2
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #129
+
+		`liSN`                   -> 1309967307359080461
+		`ItemName`               -> Clear Skies
+		`nItemID`                -> 1552009
+		`nPosition`              -> 76
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 6
+		`nfiDEX`                 -> 36
+		`niPAD`                  -> 69
+		`niMAD`                  -> 95
+		`nfiPDD`                 -> 6
+		`nfiDamR`                -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #130
+
+		`liSN`                   -> 1309967307359080465
+		`ItemName`               -> Blue Elemental Gloves
+		`nItemID`                -> 1082164
+		`nPosition`              -> 77
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 30
+		`niINT`                  -> 5
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 12
+		`niPDD`                  -> 45
+		`nfiStatR`               -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #131
+
+		`liSN`                   -> 1309967321040900099
+		`ItemName`               -> Blood Dagger
+		`nItemID`                -> 1332052
+		`nPosition`              -> 78
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 18
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 3
+		`niPAD`                  -> 93
+		`nfiPDD`                 -> 18
+		`nfiStatR`               -> 2
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #132
+
+		`liSN`                   -> 1309967321040900100
+		`ItemName`               -> Zedbug
+		`nItemID`                -> 1442044
+		`nPosition`              -> 79
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`nfiLUK`                 -> 15
+		`niPAD`                  -> 102
+		`nfiSpeed`               -> 5
+		`nfiJump`                -> 2
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #133
+
+		`liSN`                   -> 1309967321066065922
+		`ItemName`               -> Black Garina Shoes
+		`nItemID`                -> 1072272
+		`nPosition`              -> 80
+		`nRUC`                   -> 5
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 6
+		`nfiINT`                 -> 6
+		`niLUK`                  -> 4
+		`niPDD`                  -> 64
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #134
+
+		`liSN`                   -> 1309967358877716483
+		`ItemName`               -> Canopus Hat
+		`nItemID`                -> 1002649
+		`nPosition`              -> 81
+		`nRUC`                   -> 7
+		`niSTR`                  -> 4
+		`niDEX`                  -> 4
+		`nfiDEX`                 -> 9
+		`nfiINT`                 -> 24
+		`nfiLUK`                 -> 15
+		`niPDD`                  -> 69
+		`nfiPDD`                 -> 24
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #135
+
+		`liSN`                   -> 1309967386220384264
+		`ItemName`               -> Pensalir Mage Robe
+		`nItemID`                -> 1052800
+		`nPosition`              -> 82
+		`nRUC`                   -> 10
+		`nfiSTR`                 -> 40
+		`nfiDEX`                 -> 4
+		`niINT`                  -> 20
+		`nfiINT`                 -> 8
+		`niLUK`                  -> 20
+		`nfiLUK`                 -> 4
+		`niMaxMP`                -> 60
+		`niMAD`                  -> 1
+		`niPDD`                  -> 150
+		`nfiReduceReq`           -> 20
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #136
+
+		`liSN`                   -> 1309967386216189960
+		`ItemName`               -> Dragon Energy Skull
+		`nItemID`                -> 1242010
+		`nPosition`              -> 83
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 3
+		`nfiDEX`                 -> 18
+		`nfiINT`                 -> 6
+		`nfiLUK`                 -> 3
+		`niPAD`                  -> 78
+		`nfiDamR`                -> 4
+		`nGrade`                 -> 1
+		`nOption1`               -> All Stats: +6 
+		`nOption2`               -> LUK: +6 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #137
+
+		`liSN`                   -> 1309967124902662154
+		`ItemName`               -> Utgard Two-handed Hammer
+		`nItemID`                -> 1422171
+		`nPosition`              -> 84
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 8
+		`nfiDEX`                 -> 16
+		`nfiLUK`                 -> 8
+		`niPAD`                  -> 124
+		`nfiPAD`                 -> 5
+		`nfiBDR`                 -> 10
+		`nfiDamR`                -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #138
+
+		`liSN`                   -> 1309967124906856466
+		`ItemName`               -> Gold Wings
+		`nItemID`                -> 1962001
+		`nPosition`              -> 85
+		`nRUC`                   -> 3
+		`niPDD`                  -> 10
+		`niSpeed`                -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #139
+
+		`liSN`                   -> 1309966984456392717
+		`ItemName`               -> Utgard Chain
+		`nItemID`                -> 1272013
+		`nPosition`              -> 86
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 12
+		`nfiDEX`                 -> 12
+		`niPAD`                  -> 115
+		`nfiReduceReq`           -> 20
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #140
+
+		`liSN`                   -> 1309967447046180875
+		`ItemName`               -> Pure Gold Transistor
+		`nItemID`                -> 1652004
+		`nPosition`              -> 87
+		`nRUC`                   -> 3
+		`niDEX`                  -> 5
+		`niPDD`                  -> 60
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #141
+
+		`liSN`                   -> 1309967447046180872
+		`ItemName`               -> Canopus Suit
+		`nItemID`                -> 1052134
+		`nPosition`              -> 88
+		`nRUC`                   -> 10
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 30
+		`nfiINT`                 -> 12
+		`niMaxHP`                -> 20
+		`niPDD`                  -> 115
+		`nfiJump`                -> 2
+		`nfiReduceReq`           -> 25
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #142
+
+		`liSN`                   -> 1309967475588419588
+		`ItemName`               -> Valore Punch
+		`nItemID`                -> 1582008
+		`nPosition`              -> 90
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 12
+		`niPAD`                  -> 78
+		`nfiMAD`                 -> 13
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #143
+
+		`liSN`                   -> 1309967260491927561
+		`ItemName`               -> Gold Mask
+		`nItemID`                -> 1942001
+		`nPosition`              -> 97
+		`nRUC`                   -> 3
+		`niINT`                  -> 4
+		`niPDD`                  -> 10
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #144
+
+		`liSN`                   -> 1309967505787408386
+		`ItemName`               -> Black Garina Shoes
+		`nItemID`                -> 1072272
+		`nPosition`              -> 98
+		`nRUC`                   -> 5
+		`niDEX`                  -> 3
+		`niLUK`                  -> 4
+		`niPDD`                  -> 64
+		`nfiJump`                -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #145
+
+		`liSN`                   -> 1309967505787408387
+		`ItemName`               -> null
+		`nItemID`                -> 1213008
+		`nPosition`              -> 99
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 6
+		`nfiLUK`                 -> 6
+		`niPAD`                  -> 105
+		`nfiPAD`                 -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #146
+
+		`liSN`                   -> 1309967505791602695
+		`ItemName`               -> Blue Bazura
+		`nItemID`                -> 1051102
+		`nPosition`              -> 100
+		`nRUC`                   -> 10
+		`niINT`                  -> 7
+		`nfiINT`                 -> 25
+		`niLUK`                  -> 3
+		`nfiLUK`                 -> 20
+		`niMaxMP`                -> 45
+		`niPDD`                  -> 84
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #147
+
+		`liSN`                   -> 1309967441589391360
+		`ItemName`               -> Blinding Light
+		`nItemID`                -> 1522001
+		`nPosition`              -> 101
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 3
+		`nfiINT`                 -> 3
+		`niPAD`                  -> 30
+		`nfiJump`                -> 4
+		`nfiStatR`               -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #148
+
+		`liSN`                   -> 1309967545146757127
+		`ItemName`               -> Red Craven
+		`nItemID`                -> 1472053
+		`nPosition`              -> 102
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 15
+		`nfiMaxMP`               -> 900
+		`niPAD`                  -> 46
+		`niPDD`                  -> 6
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #149
+
+		`liSN`                   -> 1309967545146757126
+		`ItemName`               -> De Neptuno
+		`nItemID`                -> 1272007
+		`nPosition`              -> 103
+		`nRUC`                   -> 7
+		`nfiLUK`                 -> 18
+		`niPAD`                  -> 95
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #150
+
+		`liSN`                   -> 1309967562720890884
+		`ItemName`               -> Daemon Psy-limiter
+		`nItemID`                -> 1262007
+		`nPosition`              -> 104
+		`nRUC`                   -> 7
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 69
+		`niMAD`                  -> 113
+		`nfiMAD`                 -> 8
+		`nfiBDR`                 -> 4
+		`nfiDamR`                -> 2
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #151
+
+		`liSN`                   -> 1309967562720890883
+		`ItemName`               -> Green Arzuna
+		`nItemID`                -> 1050106
+		`nPosition`              -> 105
+		`nRUC`                   -> 10
+		`niSTR`                  -> 6
+		`niDEX`                  -> 4
+		`nfiMaxHP`               -> 300
+		`nfiMaxMP`               -> 1200
+		`nfiMAD`                 -> 2
+		`niPDD`                  -> 105
+		`nfiStatR`               -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #152
+
+		`liSN`                   -> 1309967562720890885
+		`ItemName`               -> Gilded Sword
+		`nItemID`                -> 1542009
+		`nPosition`              -> 106
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`nfiINT`                 -> 15
+		`niPAD`                  -> 98
+		`nfiMAD`                 -> 11
+		`nfiBDR`                 -> 8
+		`nfiDamR`                -> 4
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #153
+
+		`liSN`                   -> 1309967562720890886
+		`ItemName`               -> Dragon Green Sleeve
+		`nItemID`                -> 1472051
+		`nPosition`              -> 107
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 7
+		`nfiINT`                 -> 15
+		`nfiMaxHP`               -> 1650
+		`niPAD`                  -> 50
+		`nfiJump`                -> 1
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #154
+
+		`liSN`                   -> 1309967416402595846
+		`ItemName`               -> Pensalir Battle Boots
+		`nItemID`                -> 1072967
+		`nPosition`              -> 108
+		`nRUC`                   -> 6
+		`niSTR`                  -> 15
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 9
+		`nfiDEX`                 -> 20
+		`nfiMaxMP`               -> 840
+		`niPAD`                  -> 1
+		`niPDD`                  -> 120
+		`niSpeed`                -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #155
+
+		`liSN`                   -> 1309967084524097544
+		`ItemName`               -> Black Garina
+		`nItemID`                -> 1052072
+		`nPosition`              -> 109
+		`nRUC`                   -> 10
+		`niDEX`                  -> 4
+		`niLUK`                  -> 8
+		`nfiPAD`                 -> 1
+		`niPDD`                  -> 115
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #156
+
+		`liSN`                   -> 1309967218393698309
+		`ItemName`               -> Gold Wings
+		`nItemID`                -> 1962001
+		`nPosition`              -> 110
+		`nRUC`                   -> 3
+		`niPDD`                  -> 10
+		`niSpeed`                -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #157
+
+		`liSN`                   -> 1309967416402595847
+		`ItemName`               -> Pensalir Sentinel Gloves
+		`nItemID`                -> 1082610
+		`nPosition`              -> 111
+		`nRUC`                   -> 6
+		`niSTR`                  -> 10
+		`niDEX`                  -> 11
+		`nfiINT`                 -> 8
+		`niMaxHP`                -> 200
+		`niPAD`                  -> 2
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 50
+		`nfiReduceReq`           -> 15
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #158
+
+		`liSN`                   -> 1309967084524097545
+		`ItemName`               -> Black Garina Gloves
+		`nItemID`                -> 1082167
+		`nPosition`              -> 112
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 5
+		`niLUK`                  -> 6
+		`nfiPAD`                 -> 2
+		`niPDD`                  -> 43
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #159
+
+		`liSN`                   -> 1309967416402595857
+		`ItemName`               -> Dragon Green Sleeve
+		`nItemID`                -> 1472051
+		`nPosition`              -> 113
+		`nRUC`                   -> 7
+		`niDEX`                  -> 7
+		`nfiMaxHP`               -> 990
+		`nfiMaxMP`               -> 990
+		`niPAD`                  -> 50
+		`nfiJump`                -> 5
+		`nfiStatR`               -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #160
+
+		`liSN`                   -> 1309967575006007300
+		`ItemName`               -> Utgard Lucent Gauntlet
+		`nItemID`                -> 1282013
+		`nPosition`              -> 114
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 28
+		`nfiDEX`                 -> 16
+		`nfiINT`                 -> 12
+		`nfiMaxMP`               -> 840
+		`niPAD`                  -> 93
+		`niMAD`                  -> 153
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #161
+
+		`liSN`                   -> 1309967575001812997
+		`ItemName`               -> Utgard Axe
+		`nItemID`                -> 1312185
+		`nPosition`              -> 115
+		`nRUC`                   -> 8
+		`nfiINT`                 -> 16
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 118
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #162
+
+		`liSN`                   -> 1309967636821659653
+		`ItemName`               -> null
+		`nItemID`                -> 1213014
+		`nPosition`              -> 116
+		`nRUC`                   -> 8
+		`nfiINT`                 -> 16
+		`niPAD`                  -> 122
+		`nfiMAD`                 -> 11
+		`nfiBDR`                 -> 8
+		`nfiDamR`                -> 4
+		`nfiStatR`               -> 3
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #163
+
+		`liSN`                   -> 1309967124906856467
+		`ItemName`               -> Blue Dragon Armor
+		`nItemID`                -> 1052075
+		`nPosition`              -> 117
+		`nRUC`                   -> 10
+		`niSTR`                  -> 8
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 6
+		`nfiINT`                 -> 6
+		`niPDD`                  -> 180
+		`nfiPDD`                 -> 6
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 1
+		`nOption1`               -> DEF: +125 
+		`nOption2`               -> LUK: +6 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #164
+
+		`liSN`                   -> 1309967403823878151
+		`ItemName`               -> Dragon Purple Sleeve
+		`nItemID`                -> 1472052
+		`nPosition`              -> 118
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 24
+		`nfiINT`                 -> 3
+		`niLUK`                  -> 7
+		`nfiLUK`                 -> 3
+		`nfiMaxHP`               -> 990
+		`niPAD`                  -> 50
+		`nfiMAD`                 -> 11
+		`nGrade`                 -> 1
+		`nOption1`               -> #prop% chance to apply Lv. 5 Stun on hit. 
+		`nOption2`               -> INT: +6 
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #165
+
+		`liSN`                   -> 1309967656912375818
+		`ItemName`               -> Dragon Mace
+		`nItemID`                -> 1322052
+		`nPosition`              -> 124
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 24
+		`niPAD`                  -> 103
+		`nfiJump`                -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #166
+
+		`liCashItemSN`           -> 1305566297916174336
+		`ItemName`               -> Kiddy Crayon Cap
+		`nItemID`                -> 1005143
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #167
+
+		`liCashItemSN`           -> 1283080413711167488
+		`ftDateExpire`           -> 1602561600000
+		`ItemName`               -> Yellow Longsleeve with Bunny Bag
+		`nItemID`                -> 1042125
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #168
+
+		`liCashItemSN`           -> 1279390458031894528
+		`ItemName`               -> Lalala Dot Skirt
+		`nItemID`                -> 1061214
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #169
+
+		`liCashItemSN`           -> 1303268647124594688
+		`ItemName`               -> Kiddy Crayon Shoes
+		`nItemID`                -> 1073271
+		`nAttribute`             -> 32
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #170
+
+		`liSN`                   -> 1280452675347025920
+		`ItemName`               -> Arcane Symbol: Vanishing Journey
+		`nItemID`                -> 1712001
+		`niSTR`                  -> 1400
+		`nArcaneForce`           -> 140
+		`nArcaneExp`             -> 11
+		`nArcaneLevel`           -> 12
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #171
+
+		`liSN`                   -> 1284206986703048704
+		`ItemName`               -> Arcane Symbol: Chu Chu Island
+		`nItemID`                -> 1712002
+		`niSTR`                  -> 1200
+		`nArcaneForce`           -> 120
+		`nArcaneExp`             -> 72
+		`nArcaneLevel`           -> 10
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #172
+
+		`liSN`                   -> 1284196132771287040
+		`ItemName`               -> Arcane Symbol: Lachelein
+		`nItemID`                -> 1712003
+		`niSTR`                  -> 1100
+		`nArcaneForce`           -> 110
+		`nArcaneExp`             -> 22
+		`nArcaneLevel`           -> 9
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #173
+
+		`liSN`                   -> 1289855837086646272
+		`ItemName`               -> Arcane Symbol: Arcana
+		`nItemID`                -> 1712004
+		`niSTR`                  -> 900
+		`nArcaneForce`           -> 90
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 7
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #174
+
+		`liSN`                   -> 1289871380380344320
+		`ItemName`               -> Arcane Symbol: Morass
+		`nItemID`                -> 1712005
+		`niSTR`                  -> 700
+		`nArcaneForce`           -> 70
+		`nArcaneExp`             -> 15
+		`nArcaneLevel`           -> 5
+
+
+Character: `rektbako` (129849)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #175
+
+		`liSN`                   -> 1289915408157163520
+		`ItemName`               -> Arcane Symbol: Esfera
+		`nItemID`                -> 1712006
+		`niSTR`                  -> 500
+		`nArcaneForce`           -> 50
+		`nArcaneExp`             -> 6
+		`nArcaneLevel`           -> 3
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #176
+
+		`liSN`                   -> 1280467932983463936
+		`ItemName`               -> Pansy Earrings
+		`nItemID`                -> 1032018
+		`nRUC`                   -> 5
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #177
+
+		`liSN`                   -> 1281554330285240320
+		`ItemName`               -> Checkered Shirt
+		`nItemID`                -> 1042180
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #178
+
+		`liSN`                   -> 1281554330285240321
+		`ItemName`               -> Denim Skirt
+		`nItemID`                -> 1061160
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #179
+
+		`liSN`                   -> 1281554330285240322
+		`ItemName`               -> Black Boots 
+		`nItemID`                -> 1072418
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #180
+
+		`liSN`                   -> 1281554448107364354
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #181
+
+		`liSN`                   -> 1281559520199499779
+		`ItemName`               -> Green Wizardry Hat
+		`nItemID`                -> 1002016
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 4
+		`nfiINT`                 -> 6
+		`nfiLUK`                 -> 2
+		`nfiPAD`                 -> 1
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 5
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #182
+
+		`liCashItemSN`           -> 1279390443293110272
+		`ItemName`               -> Lalala Pink T-shirt
+		`nItemID`                -> 1041199
+		`nPosition`              -> 9
+		`nAttribute`             -> 32
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #183
+
+		`liSN`                   -> 1281572626178977799
+		`ItemName`               -> Blue Arten
+		`nItemID`                -> 1082063
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 8
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 2
+		`nfiLUK`                 -> 4
+		`nfiMaxMP`               -> 600
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 15
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #184
+
+		`liSN`                   -> 1281643298506854405
+		`ItemName`               -> Dark Ritual
+		`nItemID`                -> 1382010
+		`nRUC`                   -> 7
+		`niPAD`                  -> 59
+		`niMAD`                  -> 90
+		`nfiMAD`                 -> 14
+		`nGrade`                 -> 1
+		`nOption1`               -> Magic ATT: +4% 
+		`nOption2`               -> ATT: +6 
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #185
+
+		`liSN`                   -> 1267833365990662146
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nPosition`              -> 25
+		`nRUC`                   -> 1
+		`nCUC`                   -> 2
+		`niSTR`                  -> 52
+		`niDEX`                  -> 41
+		`niINT`                  -> 41
+		`niLUK`                  -> 41
+		`niMaxHP`                -> 370
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 191
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> STR: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> STR: +8% 
+		`nOption5`               -> STR: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #186
+
+		`liCashItemSN`           -> 1291980168252092416
+		`ItemName`               -> null
+		`nItemID`                -> 1005477
+		`nAttribute`             -> 32
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #187
+
+		`liCashItemSN`           -> 1292031491089625088
+		`ItemName`               -> null
+		`nItemID`                -> 1051609
+		`nAttribute`             -> 32
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #188
+
+		`liCashItemSN`           -> 1292031521456386048
+		`ItemName`               -> Kamaitachi Tail
+		`nItemID`                -> 1102953
+		`nAttribute`             -> 32
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #189
+
+		`liCashItemSN`           -> 1292031427034214400
+		`ItemName`               -> Ocean Forever
+		`nItemID`                -> 1702937
+		`nAttribute`             -> 32
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #190
+
+		`liSN`                   -> 1292821969531772928
+		`ItemName`               -> Deadshot Ring IV
+		`nItemID`                -> 1112557
+		`nPosition`              -> 2
+		`niPDD`                  -> 20
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #191
+
+		`liSN`                   -> 1292821979203837952
+		`ItemName`               -> Deadshot Ring IV
+		`nItemID`                -> 1112557
+		`nPosition`              -> 3
+		`niPDD`                  -> 20
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #192
+
+		`liSN`                   -> 1292821988674576384
+		`ItemName`               -> Deadshot Ring IV
+		`nItemID`                -> 1112557
+		`nPosition`              -> 5
+		`niPDD`                  -> 20
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `sandoitchi` (140643)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #193
+
+		`liSN`                   -> 1296362687005138944
+		`ItemName`               -> Amaterasu's Smoldering Spirit Axe
+		`nItemID`                -> 1412106
+		`nPosition`              -> 1
+		`nRUC`                   -> 8
+		`niSTR`                  -> 53
+		`niDEX`                  -> 30
+		`nfiINT`                 -> 24
+		`nfiLUK`                 -> 24
+		`niPAD`                  -> 157
+		`nfiJump`                -> 4
+		`nfiStatR`               -> 5
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #194
+
+		`liSN`                   -> 1280038469787398149
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nCUC`                   -> 1
+		`niSTR`                  -> 9
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 17
+		`nOption1`               -> LUK: +13 
+		`nOption2`               -> Max HP: +60 
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #195
+
+		`liSN`                   -> 1280143324094828544
+		`ItemName`               -> Will o' the Wisps
+		`nItemID`                -> 1032136
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 55
+		`niINT`                  -> 7
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 15
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 17
+		`nOption1`               -> DEX: +4% 
+		`nOption2`               -> INT: +6 
+		`nOption3`               -> Max MP: +125 
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #196
+
+		`liSN`                   -> 1281190923291799566
+		`ItemName`               -> Ifia's Necklace
+		`nItemID`                -> 1122274
+		`nPosition`              -> 5
+		`nRUC`                   -> 3
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 15
+		`niINT`                  -> 5
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 24
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 150
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 108
+		`nfiPDD`                 -> 6
+		`nAttribute`             -> 40
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #197
+
+		`liSN`                   -> 1281476619411787784
+		`ItemName`               -> Solid Engraved Gollux Belt
+		`nItemID`                -> 1132244
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 75
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 48
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nAttribute`             -> 40
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #198
+
+		`liSN`                   -> 1281606204069658625
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 6
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 30
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiJump`                -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 17
+		`nOption1`               -> LUK: +4% 
+		`nOption2`               -> Max MP: +60 
+		`nOption3`               -> DEF: +60 
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #199
+
+		`liSN`                   -> 1281958201243369472
+		`ItemName`               -> Solid Engraved Gollux Pendant
+		`nItemID`                -> 1122265
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`niDEX`                  -> 19
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 19
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 49
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`nfiMaxMP`               -> 1560
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nAttribute`             -> 40
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #200
+
+		`liSN`                   -> 1282326439806504967
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 9
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 30
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 20
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #201
+
+		`liSN`                   -> 1282600239395762176
+		`ItemName`               -> Elven Crystal Suit
+		`nItemID`                -> 1051237
+		`nPosition`              -> 4
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #202
+
+		`liSN`                   -> 1282600239395762178
+		`ItemName`               -> Trusty & Faithful
+		`nItemID`                -> 1522038
+		`nPosition`              -> 3
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #203
+
+		`liCashItemSN`           -> 1279390473190109184
+		`ItemName`               -> Classic Swimwear
+		`nItemID`                -> 1050525
+		`nPosition`              -> 2
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #204
+
+		`liSN`                   -> 1282600320010190848
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #205
+
+		`liSN`                   -> 1282627705346650113
+		`ItemName`               -> Muspell Bowman Shoes
+		`nItemID`                -> 1072964
+		`nPosition`              -> 19
+		`nRUC`                   -> 6
+		`niSTR`                  -> 3
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 6
+		`nfiINT`                 -> 20
+		`nfiLUK`                 -> 21
+		`niPDD`                  -> 76
+		`nGrade`                 -> 1
+		`nOption1`               -> All Stats: +6 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #206
+
+		`liSN`                   -> 1282628147820556295
+		`ItemName`               -> Pensalir Sentinel Cap
+		`nItemID`                -> 1004231
+		`nRUC`                   -> 9
+		`niSTR`                  -> 15
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 16
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 150
+		`nfiMaxMP`               -> 2100
+		`nfiPAD`                 -> 4
+		`niPDD`                  -> 165
+		`nfiStatR`               -> 5
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #207
+
+		`liSN`                   -> 1281606981156749317
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nPosition`              -> 8
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 5
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 5
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 100
+		`nfiJump`                -> 3
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #208
+
+		`liSN`                   -> 1282623256242860033
+		`ItemName`               -> Green Armis
+		`nItemID`                -> 1051105
+		`nRUC`                   -> 10
+		`niSTR`                  -> 6
+		`niDEX`                  -> 4
+		`nfiDEX`                 -> 18
+		`nfiINT`                 -> 9
+		`nfiLUK`                 -> 21
+		`niPDD`                  -> 105
+		`nfiStatR`               -> 2
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #209
+
+		`liSN`                   -> 1282627066302492672
+		`ItemName`               -> Infinite Magic Arrows
+		`nItemID`                -> 1352003
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #210
+
+		`liSN`                   -> 1282634732131217409
+		`ItemName`               -> Pensalir Sentinel Gloves
+		`nItemID`                -> 1082610
+		`nRUC`                   -> 6
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 11
+		`nfiINT`                 -> 12
+		`niMaxHP`                -> 200
+		`niPAD`                  -> 2
+		`niPDD`                  -> 50
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #211
+
+		`liSN`                   -> 1282632209542574087
+		`ItemName`               -> Jaihin Dual Bowguns
+		`nItemID`                -> 1522123
+		`nPosition`              -> 21
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 21
+		`nfiINT`                 -> 35
+		`niPAD`                  -> 110
+		`niSpeed`                -> 13
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #212
+
+		`liSN`                   -> 1282678446518059008
+		`ItemName`               -> Ifia's Ring
+		`nItemID`                -> 1113089
+		`nRUC`                   -> 1
+		`niSTR`                  -> 3
+		`niDEX`                  -> 2
+		`niINT`                  -> 3
+		`niLUK`                  -> 2
+		`niMaxHP`                -> 98
+		`niMaxMP`                -> 99
+		`niPAD`                  -> 1
+		`niPDD`                  -> 138
+		`nAttribute`             -> 40
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #213
+
+		`liSN`                   -> 1282687070128791562
+		`ItemName`               -> Reverse Blooms
+		`nItemID`                -> 1522016
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 22
+		`nfiLUK`                 -> 8
+		`niPAD`                  -> 105
+		`niSpeed`                -> 12
+		`nLevelUpType`           -> 2
+		`nLevel`                 -> 1
+		`nfiDamR`                -> 4
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #214
+
+		`liSN`                   -> 1283811863674695695
+		`ItemName`               -> Reverse Blooms
+		`nItemID`                -> 1522016
+		`nPosition`              -> 7
+		`nRUC`                   -> 7
+		`niPAD`                  -> 105
+		`niSpeed`                -> 12
+		`nLevelUpType`           -> 2
+		`nLevel`                 -> 1
+		`nfiDamR`                -> 2
+		`nGrade`                 -> 1
+		`nOption1`               -> Ignore Monster DEF: +15% 
+		`nOption2`               -> ATT: +6 
+		`nOption3`               -> Max HP: +60 
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #215
+
+		`liSN`                   -> 1284076705539153920
+		`ItemName`               -> Pure Gold Machine Arm
+		`nItemID`                -> 1622004
+		`nPosition`              -> 10
+		`nRUC`                   -> 3
+		`niSTR`                  -> 5
+		`niPDD`                  -> 60
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #216
+
+		`liSN`                   -> 1284076778939473920
+		`ItemName`               -> Pure Gold Machine Arm
+		`nItemID`                -> 1622004
+		`nPosition`              -> 11
+		`nRUC`                   -> 3
+		`niSTR`                  -> 5
+		`niPDD`                  -> 57
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #217
+
+		`liSN`                   -> 1284076900964360193
+		`ItemName`               -> Pensalir Sentinel Suit
+		`nItemID`                -> 1052801
+		`nPosition`              -> 12
+		`nRUC`                   -> 10
+		`niSTR`                  -> 18
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 20
+		`nfiDEX`                 -> 16
+		`nfiINT`                 -> 16
+		`nfiLUK`                 -> 8
+		`niPAD`                  -> 1
+		`niPDD`                  -> 180
+		`nfiSpeed`               -> 2
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #218
+
+		`liSN`                   -> 1284076900964360192
+		`ItemName`               -> Utgard Hellslayer
+		`nItemID`                -> 1442254
+		`nPosition`              -> 13
+		`nRUC`                   -> 8
+		`nfiMaxHP`               -> 2100
+		`niPAD`                  -> 122
+		`nfiMAD`                 -> 11
+		`nfiPDD`                 -> 16
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #219
+
+		`liSN`                   -> 1284076913987674112
+		`ItemName`               -> Utgard Spear
+		`nItemID`                -> 1432200
+		`nPosition`              -> 14
+		`nRUC`                   -> 8
+		`nfiDEX`                 -> 8
+		`nfiLUK`                 -> 8
+		`niPAD`                  -> 124
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #220
+
+		`liSN`                   -> 1284077033756024832
+		`ItemName`               -> Pure Gold Machine Arm
+		`nItemID`                -> 1622004
+		`nPosition`              -> 15
+		`nRUC`                   -> 3
+		`niSTR`                  -> 5
+		`niPDD`                  -> 60
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #221
+
+		`liSN`                   -> 1284077084859424768
+		`ItemName`               -> Utgard Hrimthurs
+		`nItemID`                -> 1582011
+		`nPosition`              -> 16
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 8
+		`nfiINT`                 -> 8
+		`niPAD`                  -> 90
+		`nfiJump`                -> 4
+		`nfiBDR`                 -> 2
+		`nfiDamR`                -> 1
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #222
+
+		`liSN`                   -> 1284077195047985152
+		`ItemName`               -> Utgard Hrimthurs
+		`nItemID`                -> 1582011
+		`nPosition`              -> 17
+		`nRUC`                   -> 8
+		`niPAD`                  -> 90
+		`nfiPDD`                 -> 40
+		`nfiBDR`                 -> 4
+		`nfiDamR`                -> 2
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #223
+
+		`liSN`                   -> 1284077193630310400
+		`ItemName`               -> Gold Mask
+		`nItemID`                -> 1942001
+		`nPosition`              -> 18
+		`nRUC`                   -> 3
+		`niINT`                  -> 4
+		`niPDD`                  -> 10
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #224
+
+		`liSN`                   -> 1284077287876321280
+		`ItemName`               -> Pensalir Sentinel Boots
+		`nItemID`                -> 1072969
+		`nRUC`                   -> 6
+		`niSTR`                  -> 9
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 10
+		`nfiLUK`                 -> 8
+		`niPAD`                  -> 1
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 80
+		`nfiPDD`                 -> 40
+		`niSpeed`                -> 5
+		`nfiStatR`               -> 4
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #225
+
+		`liSN`                   -> 1284076434520006656
+		`ItemName`               -> Gold Heroes Emblem
+		`nItemID`                -> 1190511
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #226
+
+		`liSN`                   -> 1286687500290633733
+		`ItemName`               -> Red Hinkel
+		`nItemID`                -> 1452009
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 8
+		`nfiDEX`                 -> 8
+		`nfiINT`                 -> 4
+		`niPAD`                  -> 80
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #227
+
+		`liSN`                   -> 1287675482917203979
+		`ItemName`               -> Oyamatsumi's Armor
+		`nItemID`                -> 1052510
+		`nPosition`              -> 20
+		`nRUC`                   -> 12
+		`niSTR`                  -> 43
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 43
+		`nfiDEX`                 -> 40
+		`nfiINT`                 -> 20
+		`nfiMaxMP`               -> 1800
+		`niPAD`                  -> 3
+		`niPDD`                  -> 270
+		`nfiSpeed`               -> 5
+		`nGrade`                 -> 1
+		`nOption1`               -> LUK: +4% 
+		`nOption2`               -> LUK: +6 
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #228
+
+		`liSN`                   -> 1287315778173026309
+		`ItemName`               -> Falcon Wing Sentinel Shoulder
+		`nItemID`                -> 1152111
+		`nRUC`                   -> 1
+		`niSTR`                  -> 11
+		`niDEX`                  -> 11
+		`niINT`                  -> 9
+		`niLUK`                  -> 11
+		`niPAD`                  -> 7
+		`niMAD`                  -> 7
+		`niPDD`                  -> 99
+		`nAttribute`             -> 40
+
+
+Character: `RedRanger` (144918)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #229
+
+		`liSN`                   -> 1282677675823087621
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nPosition`              -> 6
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 30
+		`nfiMaxMP`               -> 900
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 5
+		`nGrade`                 -> 1
+		`nOption1`               -> STR: +13 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #230
+
+		`liSN`                   -> 1286227891478327297
+		`ItemName`               -> Simple Warrior Pants
+		`nItemID`                -> 1062115
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #231
+
+		`liSN`                   -> 1286227950513065986
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #232
+
+		`liCashItemSN`           -> 1279390398875430912
+		`ItemName`               -> Well-Deserved Vacation Outfit (M)
+		`nItemID`                -> 1053533
+		`nPosition`              -> 2
+		`nAttribute`             -> 32
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #233
+
+		`liSN`                   -> 1286242582590017538
+		`ItemName`               -> Blue Dragon Gauntlet
+		`nItemID`                -> 1082168
+		`nRUC`                   -> 5
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 3
+		`nfiINT`                 -> 6
+		`nfiLUK`                 -> 6
+		`niMaxMP`                -> 20
+		`niPDD`                  -> 46
+		`nfiPDD`                 -> 24
+		`nfiReduceReq`           -> 15
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #234
+
+		`liSN`                   -> 1286240071846088707
+		`ItemName`               -> Dark Lucida
+		`nItemID`                -> 1041124
+		`nRUC`                   -> 7
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 27
+		`nfiINT`                 -> 6
+		`nfiLUK`                 -> 6
+		`niMaxMP`                -> 25
+		`niPDD`                  -> 105
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #235
+
+		`liSN`                   -> 1286238448625274882
+		`ItemName`               -> Dark Crescent Boots
+		`nItemID`                -> 1072222
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 1
+		`nfiDEX`                 -> 9
+		`nfiINT`                 -> 9
+		`niPDD`                  -> 60
+		`nfiStatR`               -> 4
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #236
+
+		`liSN`                   -> 1286239716672425989
+		`ItemName`               -> Zedbug
+		`nItemID`                -> 1442044
+		`nRUC`                   -> 7
+		`nfiMaxMP`               -> 1500
+		`niPAD`                  -> 102
+		`nfiJump`                -> 2
+		`nfiStatR`               -> 1
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #237
+
+		`liSN`                   -> 1286247159318073344
+		`ItemName`               -> Pensalir Battle Cape
+		`nItemID`                -> 1102718
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niSTR`                  -> 4
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`nfiINT`                 -> 60
+		`niLUK`                  -> 4
+		`nfiLUK`                 -> 20
+		`niPDD`                  -> 150
+		`nfiPDD`                 -> 16
+		`niJump`                 -> 4
+		`nfiReduceReq`           -> 10
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #238
+
+		`liSN`                   -> 1282685183308562437
+		`ItemName`               -> Reinforced Engraved Gollux Belt
+		`nItemID`                -> 1132245
+		`nCUC`                   -> 3
+		`niSTR`                  -> 76
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 61
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 61
+		`niLUK`                  -> 61
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 380
+		`niMaxMP`                -> 380
+		`niPAD`                  -> 20
+		`niMAD`                  -> 20
+		`niPDD`                  -> 169
+		`nfiSpeed`               -> 3
+		`nfiReduceReq`           -> 20
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEF: +12% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`nOption4`               -> Max MP: +125 
+		`nOption5`               -> LUK: +6 
+		`nOption6`               -> Magic ATT: +3 
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #239
+
+		`liSN`                   -> 1288758528860917764
+		`ItemName`               -> Mechanator Pendant
+		`nItemID`                -> 1122254
+		`nRUC`                   -> 2
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 15
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 32
+		`nGrade`                 -> 17
+		`nOption1`               -> DEF: +125 
+		`nOption2`               -> STR: +6 
+		`nOption3`               -> DEX: +4% 
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #240
+
+		`liSN`                   -> 1283817803702493184
+		`ItemName`               -> Eagle Eye Warrior Armor
+		`nItemID`                -> 1042254
+		`nPosition`              -> 3
+		`nRUC`                   -> 4
+		`nCUC`                   -> 3
+		`niSTR`                  -> 51
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 36
+		`nfiINT`                 -> 28
+		`niMaxHP`                -> 360
+		`niPAD`                  -> 2
+		`niPDD`                  -> 240
+		`nIMDR`                  -> 5
+		`nfiStatR`               -> 6
+		`nGrade`                 -> 18
+		`nOption1`               -> DEF: +7% 
+		`nOption2`               -> STR: +4% 
+		`nOption3`               -> STR: +4% 
+		`nOption4`               -> Jump: +10 
+		`nOption5`               -> All Stats: +3% 
+		`nOption6`               -> Max MP: +195 
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #241
+
+		`liSN`                   -> 1289513807214981135
+		`ItemName`               -> Amaterasu's Helm
+		`nItemID`                -> 1003601
+		`nPosition`              -> 4
+		`nRUC`                   -> 10
+		`niSTR`                  -> 36
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 36
+		`nfiINT`                 -> 12
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 2
+		`niPDD`                  -> 423
+		`nfiSpeed`               -> 3
+		`nfiJump`                -> 4
+		`nfiReduceReq`           -> 25
+		`nAttribute`             -> 40
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #242
+
+		`liSN`                   -> 1288756527502626822
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 5
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 21
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 25
+		`nAttribute`             -> 8
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #243
+
+		`liSN`                   -> 1288403096220868613
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiMaxMP`               -> 1200
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 25
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 8
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #244
+
+		`liCashItemSN`           -> 1279390412909572096
+		`ItemName`               -> Lemon Top
+		`nItemID`                -> 1051596
+		`nPosition`              -> 8
+		`nAttribute`             -> 32
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #245
+
+		`liCashItemSN`           -> 1279390367233601536
+		`ItemName`               -> Pink Jelly Bag
+		`nItemID`                -> 1103204
+		`nAttribute`             -> 32
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #246
+
+		`liCashItemSN`           -> 1279390384765792256
+		`ItemName`               -> Rabbit Soap Shooter
+		`nItemID`                -> 1702727
+		`nAttribute`             -> 32
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #247
+
+		`liSN`                   -> 1292822143834464256
+		`ItemName`               -> Deadshot Ring IV
+		`nItemID`                -> 1112557
+		`niPDD`                  -> 20
+		`nAttribute`             -> 128
+		`sTitle`                 -> rektbako
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #248
+
+		`liSN`                   -> 1298915678702739460
+		`ItemName`               -> Purple Enigma
+		`nItemID`                -> 1051057
+		`nPosition`              -> 6
+		`nRUC`                   -> 10
+		`niINT`                  -> 6
+		`niLUK`                  -> 2
+		`niMaxMP`                -> 35
+		`niPDD`                  -> 68
+		`nfiStatR`               -> 3
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #249
+
+		`liCashItemSN`           -> 1303268569664188416
+		`ItemName`               -> null
+		`nItemID`                -> 1115199
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #250
+
+		`liCashItemSN`           -> 1303272828170399744
+		`ItemName`               -> Pink Elephant Hat
+		`nItemID`                -> 1004969
+		`nAttribute`             -> 32
+
+
+Character: `Valkyriee` (158938)
+Account:   `sinyeeng1` (17015)
+
+	Equip Item #251
+
+		`liCashItemSN`           -> 1303271524069011456
+		`ItemName`               -> Pink Elephant Outfit
+		`nItemID`                -> 1053186
+		`nAttribute`             -> 32

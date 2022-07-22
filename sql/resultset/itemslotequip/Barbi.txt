@@ -1,0 +1,2668 @@
+Total # of loaded items = 158
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #1
+
+		`liSN`                   -> 1270644755671543808
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Elven Crystal Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #2
+
+		`liSN`                   -> 1270644755671543809
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Elven Crystal Shoes
+		`nPosition`              -> 5
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #3
+
+		`liSN`                   -> 1270644755671543810
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Trusty & Faithful
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #4
+
+		`liSN`                   -> 1270646983614402560
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Wizet Plain Suit Pants
+		`nPosition`              -> 3
+		`nItemState`             -> 4352
+		`sTitle`                 -> Morass13
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #5
+
+		`liSN`                   -> 1270644856666132480
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Trusty & Faithful
+		`nPosition`              -> 4
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #6
+
+		`liSN`                   -> 1270647007161225216
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Wizet Invincible Hat
+		`nPosition`              -> 8
+		`nRUC`                   -> 7
+		`niSTR`                  -> 999
+		`niDEX`                  -> 999
+		`niINT`                  -> 999
+		`niLUK`                  -> 999
+		`niPDD`                  -> 200
+		`niSpeed`                -> 30
+		`niJump`                 -> 50
+		`nItemState`             -> 4352
+		`sTitle`                 -> Morass13
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #7
+
+		`liSN`                   -> 1270647033073635328
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Wizet Plain Suit
+		`nPosition`              -> 2
+		`nItemState`             -> 4352
+		`sTitle`                 -> Morass13
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #8
+
+		`liSN`                   -> 1270646930749394944
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Wizet Plain Suit Pants
+		`nPosition`              -> 7
+		`nItemState`             -> 4352
+		`sTitle`                 -> Morass13
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #9
+
+		`liSN`                   -> 1270644856666132481
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Magic Arrows
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #10
+
+		`liSN`                   -> 1270647070541352960
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Wizet Secret Agent Suitcase
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 200
+		`nItemState`             -> 4352
+		`sTitle`                 -> Morass13
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #11
+
+		`liSN`                   -> 1270644856661938178
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass13` (90549)
+Account:   `Barbi` (1243)
+
+	Equip Item #12
+
+		`liSN`                   -> 1270653534152560640
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 90549
+		`nItemID`                -> Arcane Symbol: Morass
+		`nPosition`              -> 6
+		`niDEX`                  -> 300
+		`nItemState`             -> 4352
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass13
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #13
+
+		`liSN`                   -> 1290970359297994752
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Sage Initiate Uniform
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #14
+
+		`liSN`                   -> 1290970359297994753
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Apprentice Sage Shoes
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #15
+
+		`liSN`                   -> 1290970359297994754
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Black Cloud Ritual Fan
+		`niPAD`                  -> 28
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #16
+
+		`liSN`                   -> 1290970464222642176
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Mano Fan Tassel
+		`nPosition`              -> 1
+		`niDEX`                  -> 3
+		`niLUK`                  -> 3
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #17
+
+		`liSN`                   -> 1290970464214253570
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #18
+
+		`liSN`                   -> 1290982147229966336
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Arcane Symbol: Vanishing Journey
+		`nPosition`              -> 2
+		`niLUK`                  -> 300
+		`nItemState`             -> 4352
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #19
+
+		`liCashItemSN`           -> 1274288751098712064
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> White Earphones
+		`nPosition`              -> 3
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #20
+
+		`liCashItemSN`           -> 1283802454311473153
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Crimson Fate Shoes
+		`nPosition`              -> 4
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #21
+
+		`liCashItemSN`           -> 1283802454311473154
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Mummy Hat
+		`nPosition`              -> 5
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #22
+
+		`liCashItemSN`           -> 1283802454319861760
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Ducky Candy Bar
+		`nPosition`              -> 6
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #23
+
+		`liCashItemSN`           -> 1283802454319861761
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Teddy Surgeon Mask
+		`nPosition`              -> 7
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #24
+
+		`liCashItemSN`           -> 1283802454319861762
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Starlit Dreams Robe
+		`nPosition`              -> 8
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #25
+
+		`liCashItemSN`           -> 1283802454324056065
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Starlit Dreams Cowl
+		`nPosition`              -> 9
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #26
+
+		`liCashItemSN`           -> 1283802454324056066
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Soft Mist
+		`nPosition`              -> 10
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #27
+
+		`liCashItemSN`           -> 1283802454324056067
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Starlit Dreams Cowl
+		`nPosition`              -> 11
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #28
+
+		`liCashItemSN`           -> 1283802486934769664
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Crimson Fate Topcoat
+		`nPosition`              -> 12
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #29
+
+		`liCashItemSN`           -> 1283802486934769665
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Ghost Bride's Shining Dark Eyes
+		`nPosition`              -> 13
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #30
+
+		`liCashItemSN`           -> 1283802486934769666
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Twinkling Rainbow
+		`nPosition`              -> 14
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #31
+
+		`liCashItemSN`           -> 1283802486934769667
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Blade
+		`nPosition`              -> 15
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #32
+
+		`liCashItemSN`           -> 1283802486938963968
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Race Queen Boots
+		`nPosition`              -> 16
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #33
+
+		`liCashItemSN`           -> 1283802486938963969
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Winter Deer Tambourine
+		`nPosition`              -> 17
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #34
+
+		`liCashItemSN`           -> 1283802486938963970
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Marines Maple Balloon
+		`nPosition`              -> 18
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #35
+
+		`liCashItemSN`           -> 1283802486943158272
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Shepherd's Getup (M)
+		`nPosition`              -> 19
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #36
+
+		`liCashItemSN`           -> 1283802486943158273
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Flutter Flower Panama
+		`nPosition`              -> 20
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #37
+
+		`liCashItemSN`           -> 1283802486943158274
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Little Darling Outfit
+		`nPosition`              -> 21
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #38
+
+		`liCashItemSN`           -> 1289792804557680640
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Psyche Special Friendship Ring
+		`nPosition`              -> 22
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Morass14` (172406)
+Account:   `Barbi` (1243)
+
+	Equip Item #39
+
+		`liCashItemSN`           -> 1292503607811502080
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 172406
+		`nItemID`                -> Lemon Top
+		`nPosition`              -> 23
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Morass14
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #40
+
+		`liSN`                   -> 1292511796632219648
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Worn High Flora Uniform
+		`nPosition`              -> 79
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #41
+
+		`liSN`                   -> 1292511796632219650
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Rusty Steel Knuckler
+		`nPosition`              -> 78
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #42
+
+		`liCashItemSN`           -> 1292467901231751168
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Battle Mage Goggles
+		`nPosition`              -> 9
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #43
+
+		`liCashItemSN`           -> 1292467992424308736
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Mad Hatter's Hat
+		`nPosition`              -> 6
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #44
+
+		`liCashItemSN`           -> 1292468212235198464
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Danjin Hat
+		`nPosition`              -> 1
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #45
+
+		`liCashItemSN`           -> 1292468506545315840
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Deluxe Rabbit Ears
+		`nPosition`              -> 14
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #46
+
+		`liCashItemSN`           -> 1292468734061142016
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Rabbit and Bear Hat
+		`nPosition`              -> 3
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #47
+
+		`liCashItemSN`           -> 1292470126645567491
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??? ??
+		`nPosition`              -> 16
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #48
+
+		`liCashItemSN`           -> 1292473319060365312
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Chicken Cutie Shoes
+		`nPosition`              -> 38
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #49
+
+		`liCashItemSN`           -> 1292474135209009152
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Ghost Transformation Shoes
+		`nPosition`              -> 97
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #50
+
+		`liCashItemSN`           -> 1292475048468373504
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Rainbow Label RingaCoke Label Ring
+		`nPosition`              -> 45
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #51
+
+		`liCashItemSN`           -> 1292475128453750784
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Angel Label Ring
+		`nPosition`              -> 46
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #52
+
+		`liCashItemSN`           -> 1292475699684401152
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Dreamland Thief Effect Ring
+		`nPosition`              -> 52
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #53
+
+		`liCashItemSN`           -> 1292476247116574720
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Dark Magician Chat Ring
+		`nPosition`              -> 54
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #54
+
+		`liCashItemSN`           -> 1292476261138132992
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Starry Night Orchid Chat Ring
+		`nPosition`              -> 53
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #55
+
+		`liCashItemSN`           -> 1292476416696479744
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Nova Chat Ring
+		`nPosition`              -> 55
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #56
+
+		`liCashItemSN`           -> 1292476754237288448
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Night Magician Label Ring
+		`nPosition`              -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #57
+
+		`liCashItemSN`           -> 1292486750991769600
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??
+		`nPosition`              -> 93
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #58
+
+		`liCashItemSN`           -> 1292486867878633472
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??
+		`nPosition`              -> 36
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #59
+
+		`liCashItemSN`           -> 1292459362178260992
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Legendary Weapon
+		`nPosition`              -> 94
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #60
+
+		`liCashItemSN`           -> 1292459870783758336
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Branch of Memory
+		`nPosition`              -> 17
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #61
+
+		`liCashItemSN`           -> 1292459988022943744
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Lake Waves
+		`nPosition`              -> 34
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #62
+
+		`liCashItemSN`           -> 1292460065240080384
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Light of Erda
+		`nPosition`              -> 41
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #63
+
+		`liCashItemSN`           -> 1292460124027445248
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Dense Mirage
+		`nPosition`              -> 39
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #64
+
+		`liCashItemSN`           -> 1292460220727123968
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Lantern of Oblivion
+		`nPosition`              -> 96
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #65
+
+		`liSN`                   -> 1292511841796423682
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Crusader Codex
+		`nItemState`             -> 4352
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #66
+
+		`liSN`                   -> 1292522193040928768
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Rock-Paper-Scissors Savant
+		`nPosition`              -> 59
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #67
+
+		`liSN`                   -> 1292523275414630400
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> A.I. Destroyer
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 1000
+		`niMaxMP`                -> 1000
+		`niPAD`                  -> 7
+		`niMAD`                  -> 7
+		`niPDD`                  -> 100
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #68
+
+		`liSN`                   -> 1292527102813499392
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ???
+		`nPosition`              -> 60
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niMaxHP`                -> 750
+		`niMaxMP`                -> 750
+		`niPAD`                  -> 7
+		`niMAD`                  -> 7
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #69
+
+		`liCashItemSN`           -> 1292531030225547264
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Aurora Winter Night Ring
+		`nPosition`              -> 51
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #70
+
+		`liCashItemSN`           -> 1292531255115739136
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Angel Word Bubble Ring
+		`nPosition`              -> 49
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #71
+
+		`liCashItemSN`           -> 1292531202854711296
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Coke Quote Ring
+		`nPosition`              -> 48
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #72
+
+		`liCashItemSN`           -> 1292527049885577216
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??
+		`nPosition`              -> 10
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #73
+
+		`liCashItemSN`           -> 1292526660251512832
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??? ??
+		`nPosition`              -> 33
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #74
+
+		`liCashItemSN`           -> 1292526642719322112
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??
+		`nPosition`              -> 29
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #75
+
+		`liCashItemSN`           -> 1292529142742609920
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Night Magician Chat Ring
+		`nPosition`              -> 56
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #76
+
+		`liCashItemSN`           -> 1292531157514285056
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Nova Label Ring
+		`nPosition`              -> 58
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #77
+
+		`liCashItemSN`           -> 1292528664189300736
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Dark Magician Label Ring
+		`nPosition`              -> 57
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #78
+
+		`liCashItemSN`           -> 1292529157934379008
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Starry Night Orchid Label Ring
+		`nPosition`              -> 15
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #79
+
+		`liCashItemSN`           -> 1292905880983138304
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Slayer Wig
+		`nPosition`              -> 105
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #80
+
+		`liCashItemSN`           -> 1292906632031989760
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Black Cube Outfit
+		`nPosition`              -> 28
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #81
+
+		`liCashItemSN`           -> 1292906650675671040
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Red Cube Outfit
+		`nPosition`              -> 25
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #82
+
+		`liCashItemSN`           -> 1292905716973268992
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Phantom's Cane
+		`nPosition`              -> 64
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #83
+
+		`liCashItemSN`           -> 1292903983953965056
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Havoc's Heavy Sword
+		`nPosition`              -> 67
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #84
+
+		`liCashItemSN`           -> 1292903624896376832
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Light of the Dawn
+		`nPosition`              -> 68
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #85
+
+		`liCashItemSN`           -> 1292903657695834112
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Lord Tempest
+		`nPosition`              -> 65
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #86
+
+		`liCashItemSN`           -> 1292904686755737600
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Death Note
+		`nPosition`              -> 61
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #87
+
+		`liCashItemSN`           -> 1292903841083387904
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Fortune Flash
+		`nPosition`              -> 103
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #88
+
+		`liCashItemSN`           -> 1292905160871473152
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Duster
+		`nPosition`              -> 66
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #89
+
+		`liCashItemSN`           -> 1293161138120466432
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Edwin Wig
+		`nPosition`              -> 2
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #90
+
+		`liCashItemSN`           -> 1293161147008196608
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Fire Shadow Hair
+		`nPosition`              -> 12
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #91
+
+		`liCashItemSN`           -> 1293161156365688832
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Cherry Blossom Hair
+		`nPosition`              -> 4
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #92
+
+		`liCashItemSN`           -> 1293161164603301888
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Chaos Metallic Helmet
+		`nPosition`              -> 5
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #93
+
+		`liCashItemSN`           -> 1293161182013857792
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Bizarre Fox Mask
+		`nPosition`              -> 8
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #94
+
+		`liCashItemSN`           -> 1293161194127007744
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Chipmunk Ears
+		`nPosition`              -> 11
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #95
+
+		`liCashItemSN`           -> 1293161210803560448
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Puppy Ears
+		`nPosition`              -> 7
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #96
+
+		`liCashItemSN`           -> 1293161231556976640
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Bear Ears
+		`nPosition`              -> 13
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #97
+
+		`liCashItemSN`           -> 1293161067802959872
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Tattoo Look
+		`nPosition`              -> 19
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #98
+
+		`liCashItemSN`           -> 1293160967710089216
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Fire Shadow Suit
+		`nPosition`              -> 35
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #99
+
+		`liCashItemSN`           -> 1293160979579969536
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Cherry Blossom Suit
+		`nPosition`              -> 23
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #100
+
+		`liCashItemSN`           -> 1293161000777981952
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Chaos Armor
+		`nPosition`              -> 24
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #101
+
+		`liCashItemSN`           -> 1293160857706078208
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Subaru's Track Suit
+		`nPosition`              -> 31
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #102
+
+		`liCashItemSN`           -> 1293160906691354624
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Pink Bean Dungarees
+		`nPosition`              -> 26
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #103
+
+		`liCashItemSN`           -> 1293160919685308416
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Yeti Dungarees
+		`nPosition`              -> 22
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #104
+
+		`liCashItemSN`           -> 1293160945253785600
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Pepe Dungarees
+		`nPosition`              -> 102
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #105
+
+		`liCashItemSN`           -> 1293161926905470976
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Amethyst Dream Wings
+		`nPosition`              -> 40
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #106
+
+		`liCashItemSN`           -> 1293162095264833536
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Titan Escape
+		`nPosition`              -> 44
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #107
+
+		`liCashItemSN`           -> 1293162191909986304
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Machine Cape
+		`nPosition`              -> 42
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #108
+
+		`liCashItemSN`           -> 1293160879180914688
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Heart Fur Coat
+		`nPosition`              -> 30
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #109
+
+		`liCashItemSN`           -> 1293164579400097792
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Khaki Field Coat
+		`nPosition`              -> 20
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #110
+
+		`liCashItemSN`           -> 1293164110258806784
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Snow Day Dream Label Ring
+		`nPosition`              -> 47
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #111
+
+		`liCashItemSN`           -> 1293164126364934144
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Snow Day Dream Word Bubble Ring
+		`nPosition`              -> 50
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #112
+
+		`liCashItemSN`           -> 1293164624841187328
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 21
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #113
+
+		`liCashItemSN`           -> 1282681625611829248
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> >:3
+		`nPosition`              -> 18
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #114
+
+		`liCashItemSN`           -> 1293166598475128832
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ???
+		`nPosition`              -> 104
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #115
+
+		`liCashItemSN`           -> 1293166588945670144
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??? ???
+		`nPosition`              -> 43
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #116
+
+		`liCashItemSN`           -> 1293169142026903552
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Small Formosan Deer Weapon
+		`nPosition`              -> 77
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #117
+
+		`liCashItemSN`           -> 1293166694767960064
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ??? ??? ??
+		`nPosition`              -> 70
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #118
+
+		`liCashItemSN`           -> 1293169312068182016
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Record of the Stars
+		`nPosition`              -> 95
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #119
+
+		`liCashItemSN`           -> 1293170107442438144
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Petite Penguin
+		`nPosition`              -> 73
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #120
+
+		`liCashItemSN`           -> 1293172584279678976
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Rose Butterwand
+		`nPosition`              -> 71
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #121
+
+		`liCashItemSN`           -> 1293177437743718400
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Violet Cube Outfit
+		`nPosition`              -> 37
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #122
+
+		`liCashItemSN`           -> 1293177449273860096
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Super Miracle Cube Outfit
+		`nPosition`              -> 27
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #123
+
+		`liCashItemSN`           -> 1293185214847361024
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Soft Pink Hoodie
+		`nPosition`              -> 74
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #124
+
+		`liCashItemSN`           -> 1293185233197441024
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Soft Pink Hoodie
+		`nPosition`              -> 75
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #125
+
+		`liCashItemSN`           -> 1293185278592393216
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Soft Lavender Hoodie
+		`nPosition`              -> 76
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #126
+
+		`liSN`                   -> 1293241084352270336
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Maple Skanda
+		`nPosition`              -> 98
+		`nRUC`                   -> 7
+		`niLUK`                  -> 3
+		`niPAD`                  -> 33
+		`nItemState`             -> 4352
+		`nGrade`                 -> 17
+		`nOption1`               -> Max HP: +125 
+		`nOption2`               -> DEX: +13 
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #127
+
+		`liSN`                   -> 1293704407594237952
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Wizet Plain Suit Pants
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #128
+
+		`liCashItemSN`           -> 1294380281377259520
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 63
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #129
+
+		`liCashItemSN`           -> 1294437927530725376
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Sensible Denim Outfit (M)
+		`nPosition`              -> 81
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #130
+
+		`liCashItemSN`           -> 1294437927530725377
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 82
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #131
+
+		`liCashItemSN`           -> 1294437927530725378
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Clockwork Knight Ensemble
+		`nPosition`              -> 83
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #132
+
+		`liCashItemSN`           -> 1294437927530725379
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Panda Slippers
+		`nPosition`              -> 84
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #133
+
+		`liCashItemSN`           -> 1294437927530725380
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 85
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #134
+
+		`liCashItemSN`           -> 1294437927534919680
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Havoc Horns
+		`nPosition`              -> 86
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #135
+
+		`liCashItemSN`           -> 1294437927534919681
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Soft Pink Hoodie
+		`nPosition`              -> 87
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #136
+
+		`liCashItemSN`           -> 1294437927534919682
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Umbral Earrings
+		`nPosition`              -> 88
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #137
+
+		`liCashItemSN`           -> 1294437927539113984
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Clockwork Knight Shoes
+		`nPosition`              -> 89
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #138
+
+		`liCashItemSN`           -> 1294437927539113985
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Black Cat Beanie
+		`nPosition`              -> 90
+		`nAttribute`             -> 16
+		`nItemState`             -> 256
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #139
+
+		`liSN`                   -> 1296927092608483328
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> AbsoLab Shining Rod
+		`nPosition`              -> 91
+		`nRUC`                   -> 8
+		`niINT`                  -> 60
+		`niLUK`                  -> 60
+		`niPAD`                  -> 143
+		`niMAD`                  -> 241
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #140
+
+		`liSN`                   -> 1296927154004705280
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> AbsoLab Shining Rod
+		`nPosition`              -> 92
+		`nRUC`                   -> 8
+		`niINT`                  -> 60
+		`niLUK`                  -> 60
+		`niPAD`                  -> 143
+		`niMAD`                  -> 241
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #141
+
+		`liCashItemSN`           -> 1301226592495865856
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Cherry Blossom Umbrella
+		`nPosition`              -> 69
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #142
+
+		`liCashItemSN`           -> 1301226040252829696
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Infinite Star Cluster
+		`nPosition`              -> 62
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #143
+
+		`liCashItemSN`           -> 1301226935715762176
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Take Me Too!
+		`nPosition`              -> 80
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #144
+
+		`liCashItemSN`           -> 1305840042933096448
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Fox Fire Ears
+		`nPosition`              -> 72
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #145
+
+		`liSN`                   -> 1306950110638440448
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> ???????? ???
+		`nPosition`              -> 99
+		`niSTR`                  -> 4
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #146
+
+		`liSN`                   -> 1307395097360486400
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Shiny Red Magician Meister Symbol
+		`nPosition`              -> 106
+		`nRUC`                   -> 1
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 26
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #147
+
+		`liSN`                   -> 1308758417820811264
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Wizet Plain Suit Pants
+		`nPosition`              -> 100
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #148
+
+		`liSN`                   -> 1308758433335541760
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Wizet Invincible Hat
+		`nPosition`              -> 101
+		`nRUC`                   -> 7
+		`niSTR`                  -> 999
+		`niDEX`                  -> 999
+		`niINT`                  -> 999
+		`niLUK`                  -> 999
+		`niPDD`                  -> 200
+		`niSpeed`                -> 30
+		`niJump`                 -> 50
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #149
+
+		`liSN`                   -> 1308758452138606592
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Wizet Invincible Hat
+		`nRUC`                   -> 7
+		`niSTR`                  -> 1999
+		`niDEX`                  -> 1999
+		`niINT`                  -> 1999
+		`niLUK`                  -> 1999
+		`niPAD`                  -> 200
+		`niMAD`                  -> 200
+		`niPDD`                  -> 200
+		`niSpeed`                -> 30
+		`niJump`                 -> 50
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #150
+
+		`liSN`                   -> 1308758463530336256
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Wizet Plain Suit
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #151
+
+		`liSN`                   -> 1308758406433275904
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Wizet Secret Agent Suitcase
+		`nRUC`                   -> 7
+		`niPAD`                  -> 200
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #152
+
+		`liCashItemSN`           -> 1308758624830685184
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> Blade
+		`nAttribute`             -> 32
+		`nItemState`             -> 256
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #153
+
+		`liSN`                   -> 1308878307487567872
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 107
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #154
+
+		`liSN`                   -> 1308879197380497408
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 108
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #155
+
+		`liSN`                   -> 1308879800085204992
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 109
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #156
+
+		`liSN`                   -> 1308879826194747392
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 110
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #157
+
+		`liSN`                   -> 1308879250044178432
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 112
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex
+
+
+Character: `Noex` (176084)
+Account:   `Barbi` (1243)
+
+	Equip Item #158
+
+		`liSN`                   -> 1308879382659682304
+		`dwAccountID`            -> 1243
+		`dwCharacterID`          -> 176084
+		`nItemID`                -> null
+		`nPosition`              -> 116
+		`nItemState`             -> 4352
+		`sTitle`                 -> Noex
+		`sAccountClubID`           -> Barbi
+		`sCharacterName`         -> Noex

@@ -1,0 +1,1147 @@
+Total # of loaded items = 70
+
+Character: `SleeplessMrc` (206434)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #1
+
+		`liSN`                   -> 1308217645686059008
+		`ItemName`               -> Elven Crystal Suit
+		`nItemID`                -> 1050192
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `SleeplessMrc` (206434)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #2
+
+		`liSN`                   -> 1308217645686059009
+		`ItemName`               -> Elven Crystal Shoes
+		`nItemID`                -> 1072519
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `SleeplessMrc` (206434)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #3
+
+		`liSN`                   -> 1308217645686059010
+		`ItemName`               -> Trusty & Faithful
+		`nItemID`                -> 1522038
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `SleeplessMrc` (206434)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #4
+
+		`liSN`                   -> 1308217712274747395
+		`ItemName`               -> Trusty & Faithful
+		`nItemID`                -> 1522000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `SleeplessMrc` (206434)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #5
+
+		`liSN`                   -> 1308217712274747396
+		`ItemName`               -> Magic Arrows
+		`nItemID`                -> 1352000
+
+
+Character: `SleeplessMrc` (206434)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #6
+
+		`liSN`                   -> 1308217712274747394
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #7
+
+		`liSN`                   -> 1308494221887664128
+		`ItemName`               -> Checkered Shirt
+		`nItemID`                -> 1042180
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #8
+
+		`liSN`                   -> 1308494221887664129
+		`ItemName`               -> Denim Shorts
+		`nItemID`                -> 1060138
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #9
+
+		`liSN`                   -> 1308494221887664130
+		`ItemName`               -> Black Boots 
+		`nItemID`                -> 1072418
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #10
+
+		`liSN`                   -> 1308494221887664131
+		`ItemName`               -> Pig Herding Stick
+		`nItemID`                -> 1302350
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #11
+
+		`liSN`                   -> 1308494275285274627
+		`ItemName`               -> Wooden Staff
+		`nItemID`                -> 1382000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 20
+		`niMAD`                  -> 25
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #12
+
+		`liSN`                   -> 1308494275285274626
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #13
+
+		`liSN`                   -> 1308499571747508225
+		`ItemName`               -> Panther Scepter
+		`nItemID`                -> 1252004
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 10
+		`nfiINT`                 -> 8
+		`nfiLUK`                 -> 18
+		`niPAD`                  -> 45
+		`niMAD`                  -> 73
+		`nfiBDR`                 -> 8
+		`nfiDamR`                -> 4
+
+
+Character: `SleeplessEvn` (206799)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #14
+
+		`liSN`                   -> 1308586737177645064
+		`ItemName`               -> Mad Psy-limiter
+		`nItemID`                -> 1262006
+		`nPosition`              -> 3
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 25
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+
+
+Character: `SleeplessArn` (206945)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #15
+
+		`liSN`                   -> 1308588936284860416
+		`ItemName`               -> Simple Warrior Top
+		`nItemID`                -> 1042167
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `SleeplessArn` (206945)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #16
+
+		`liSN`                   -> 1308588936284860417
+		`ItemName`               -> Simple Warrior Pants
+		`nItemID`                -> 1062115
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `SleeplessArn` (206945)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #17
+
+		`liSN`                   -> 1308588936284860418
+		`ItemName`               -> Musashi Shoes
+		`nItemID`                -> 1072383
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `SleeplessArn` (206945)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #18
+
+		`liSN`                   -> 1308588936284860419
+		`ItemName`               -> Basic Polearm
+		`nItemID`                -> 1442079
+		`nRUC`                   -> 7
+		`niPAD`                  -> 22
+
+
+Character: `SleeplessArn` (206945)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #19
+
+		`liSN`                   -> 1308588994715635714
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SleeplessHY` (206964)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #20
+
+		`liSN`                   -> 1308611761385238528
+		`ItemName`               -> Sage Initiate Uniform
+		`nItemID`                -> 1050527
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+
+
+Character: `SleeplessHY` (206964)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #21
+
+		`liSN`                   -> 1308611761385238529
+		`ItemName`               -> Apprentice Sage Shoes
+		`nItemID`                -> 1073369
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `SleeplessHY` (206964)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #22
+
+		`liSN`                   -> 1308611761385238530
+		`ItemName`               -> Black Cloud Ritual Fan
+		`nItemID`                -> 1292029
+		`niPAD`                  -> 28
+
+
+Character: `SleeplessHY` (206964)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #23
+
+		`liSN`                   -> 1308611823314055168
+		`ItemName`               -> Mano Fan Tassel
+		`nItemID`                -> 1353800
+		`niDEX`                  -> 3
+		`niLUK`                  -> 3
+
+
+Character: `SleeplessHY` (206964)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #24
+
+		`liSN`                   -> 1308611823309860866
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #25
+
+		`liSN`                   -> 1308629587579813890
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #26
+
+		`liCashItemSN`           -> 1308967624419569664
+		`ftDateExpire`           -> 1608703200000
+		`ItemName`               -> Black Shades
+		`nItemID`                -> 1022059
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #27
+
+		`liCashItemSN`           -> 1308967623995944960
+		`ftDateExpire`           -> 1608703200000
+		`ItemName`               -> Mix-n-Match Sneakers
+		`nItemID`                -> 1072395
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #28
+
+		`liCashItemSN`           -> 1308967624822222848
+		`ftDateExpire`           -> 1608703200000
+		`ItemName`               -> Luxury Wristwatch
+		`nItemID`                -> 1082231
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #29
+
+		`liCashItemSN`           -> 1308976927092240384
+		`ItemName`               -> Exorcist
+		`nItemID`                -> 1702955
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #30
+
+		`liSN`                   -> 1308985034375610368
+		`ItemName`               -> Pensalir Mage Robe
+		`nItemID`                -> 1052800
+		`nRUC`                   -> 10
+		`nfiSTR`                 -> 8
+		`nfiDEX`                 -> 8
+		`niINT`                  -> 20
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 20
+		`nfiLUK`                 -> 8
+		`niMaxMP`                -> 60
+		`nfiMaxMP`               -> 2100
+		`niMAD`                  -> 1
+		`niPDD`                  -> 150
+		`nGrade`                 -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #31
+
+		`liCashItemSN`           -> 1309191443327479808
+		`ItemName`               -> Exorcist Cape
+		`nItemID`                -> 1103220
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #32
+
+		`liCashItemSN`           -> 1309191668188311552
+		`ItemName`               -> null
+		`nItemID`                -> 1115199
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #33
+
+		`liCashItemSN`           -> 1309195248945328128
+		`ItemName`               -> Indigo Bunny Ear Outfit
+		`nItemID`                -> 1053421
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #34
+
+		`liCashItemSN`           -> 1309195359981137920
+		`ItemName`               -> null
+		`nItemID`                -> 1115098
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #35
+
+		`liSN`                   -> 1308421417599176706
+		`ItemName`               -> Utgard Fan
+		`nItemID`                -> 1552102
+		`nCUC`                   -> 10
+		`nfiSTR`                 -> 4
+		`nfiDEX`                 -> 44
+		`niINT`                  -> 71
+		`niLUK`                  -> 31
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 125
+		`niMAD`                  -> 267
+		`nfiMAD`                 -> 34
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> Magic ATT: +13% 
+		`nOption2`               -> Ignore Monster DEF: +30% 
+		`nOption3`               -> Magic ATT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #36
+
+		`liSN`                   -> 1309196976188997632
+		`ItemName`               -> Pensalir Mage Gloves
+		`nItemID`                -> 1082609
+		`nCUC`                   -> 8
+		`nfiSTR`                 -> 16
+		`niINT`                  -> 45
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 45
+		`niMaxHP`                -> 405
+		`niMaxMP`                -> 205
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 31
+		`nfiMAD`                 -> 2
+		`niPDD`                  -> 69
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 13
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> Enables the <Decent Sharp Eyes> skill (0)
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #37
+
+		`liSN`                   -> 1308724840315883520
+		`ItemName`               -> Pensalir Mage Cape
+		`nItemID`                -> 1102719
+		`nRUC`                   -> 7
+		`niSTR`                  -> 4
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`nfiINT`                 -> 32
+		`niLUK`                  -> 4
+		`nfiLUK`                 -> 8
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 150
+		`niJump`                 -> 4
+		`nfiStatR`               -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> DEF: +9% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #38
+
+		`liSN`                   -> 1309314531750756353
+		`ItemName`               -> Pensalir Mage Boots
+		`nItemID`                -> 1072968
+		`nCUC`                   -> 8
+		`niINT`                  -> 98
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 41
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 1140
+		`niMaxMP`                -> 180
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 225
+		`niSpeed`                -> 8
+		`niJump`                 -> 3
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> DEF: +9% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #39
+
+		`liSN`                   -> 1267514164281237507
+		`ItemName`               -> Chaos Horntail Necklace
+		`nItemID`                -> 1122076
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 140
+		`nfiSpeed`               -> 5
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 48
+		`nGrade`                 -> 20
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> HP Recovery Items and Skills: +30% 
+		`nOption3`               -> INT: +10% 
+		`nOption4`               -> INT: +19 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> INT: +6% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #40
+
+		`liSN`                   -> 1309365203493896200
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nCUC`                   -> 5
+		`niSTR`                  -> 25
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 25
+		`nfiDEX`                 -> 30
+		`niINT`                  -> 45
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 25
+		`nfiLUK`                 -> 9
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`nfiMaxMP`               -> 900
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 144
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #41
+
+		`liSN`                   -> 1309365203493896201
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nCUC`                   -> 7
+		`niSTR`                  -> 30
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 58
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`nfiMaxMP`               -> 1650
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 158
+		`nfiJump`                -> 5
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> Max MP: +9% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #42
+
+		`liSN`                   -> 1298815798189670405
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nCUC`                   -> 1
+		`niSTR`                  -> 44
+		`niDEX`                  -> 41
+		`niINT`                  -> 41
+		`niLUK`                  -> 41
+		`niMaxHP`                -> 210
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 178
+		`nAttribute`             -> 24
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #43
+
+		`liSN`                   -> 1309360172581437440
+		`ItemName`               -> Gold Maple Leaf Emblem
+		`nItemID`                -> 1190301
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> M. ATT per 10 Character Levels: +1 
+		`nOption2`               -> Ignore Monster DEF: +30% 
+		`nOption3`               -> Ignore Monster DEF: +30% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #44
+
+		`liSN`                   -> 1309370124859523075
+		`ItemName`               -> Chaos Horntail Necklace
+		`nItemID`                -> 1122076
+		`nPosition`              -> 29
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 7
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 21
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 140
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #45
+
+		`liSN`                   -> 1309370124859523074
+		`ItemName`               -> Chaos Horntail Necklace
+		`nItemID`                -> 1122076
+		`nPosition`              -> 30
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 10
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 16
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 140
+		`nfiSpeed`               -> 1
+		`nfiReduceReq`           -> 25
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #46
+
+		`liSN`                   -> 1309370124859523076
+		`ItemName`               -> Chaos Horntail Necklace
+		`nItemID`                -> 1122076
+		`nPosition`              -> 31
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 21
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 140
+		`nfiSpeed`               -> 3
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #47
+
+		`liSN`                   -> 1309370124859523073
+		`ItemName`               -> Chaos Horntail Necklace
+		`nItemID`                -> 1122076
+		`nPosition`              -> 32
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 4
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 4
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 140
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #48
+
+		`liSN`                   -> 1309370124859523078
+		`ItemName`               -> Dea Sidus Earring
+		`nItemID`                -> 1032241
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 5
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiJump`                -> 5
+		`nfiReduceReq`           -> 15
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> HP Recovery Items and Skills: +40% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #49
+
+		`liSN`                   -> 1309370124859523077
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nCUC`                   -> 4
+		`niSTR`                  -> 30
+		`niDEX`                  -> 30
+		`niINT`                  -> 46
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 1
+		`niMAD`                  -> 2
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 10
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #50
+
+		`liSN`                   -> 1308763221758541841
+		`ItemName`               -> Lightning God Ring
+		`nItemID`                -> 1113020
+		`nRUC`                   -> 1
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 149
+		`niSpeed`                -> 18
+		`niJump`                 -> 10
+		`nAttribute`             -> 40
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #51
+
+		`liSN`                   -> 1309207198408265741
+		`ItemName`               -> Scarlet Ring
+		`nItemID`                -> 1113070
+		`nRUC`                   -> 1
+		`niSTR`                  -> 4
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 149
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nAttribute`             -> 8
+		`nGrade`                 -> 19
+		`nOption1`               -> All Stats: +7% 
+		`nOption2`               -> INT: +7% 
+		`nOption3`               -> All Stats: +4% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #52
+
+		`liSN`                   -> 1309228734045396992
+		`ItemName`               -> Meister Ring
+		`nItemID`                -> 1113055
+		`nRUC`                   -> 1
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 150
+		`nAttribute`             -> 136
+		`nGrade`                 -> 20
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> INT: +10% 
+		`nOption3`               -> INT: +10% 
+		`sTitle`                 -> truckerboy95
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #53
+
+		`liCashItemSN`           -> 1309376755299250176
+		`ftDateExpire`           -> 1603609200000
+		`ItemName`               -> Aura Pendant
+		`nItemID`                -> 1122121
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #54
+
+		`liSN`                   -> 1302331668471898119
+		`ItemName`               -> Pensalir Mage Sallet
+		`nItemID`                -> 1004230
+		`nCUC`                   -> 8
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 79
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 46
+		`niMaxHP`                -> 890
+		`niMaxMP`                -> 330
+		`niPDD`                  -> 261
+		`nfiReduceReq`           -> 20
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> Enables the <Decent Advanced Blessing> skill (0)
+		`nOption2`               -> DEF: +9% 
+		`nOption3`               -> INT: +10% 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #55
+
+		`liSN`                   -> 1279494647865028608
+		`ItemName`               -> Golden Clover Belt
+		`nItemID`                -> 1132272
+		`nCUC`                   -> 5
+		`niSTR`                  -> 46
+		`niDEX`                  -> 46
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 71
+		`nfiINT`                 -> 32
+		`niLUK`                  -> 46
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 330
+		`niMaxMP`                -> 330
+		`nfiMaxMP`               -> 1260
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 261
+		`nIUC`                   -> 2
+		`nAttribute`             -> 24
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> INT: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> INT: +10% 
+		`nOption4`               -> All Elemental Resistances: +5% 
+		`nOption5`               -> INT: +6% 
+		`nOption6`               -> INT per 10 Character Levels: +1 
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #56
+
+		`liCashItemSN`           -> 1309195047736176640
+		`ItemName`               -> null
+		`nItemID`                -> 1005477
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #57
+
+		`liSN`                   -> 1306005166775996423
+		`ItemName`               -> Crystal Ventus Badge
+		`nItemID`                -> 1182087
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 9
+		`nAttribute`             -> 8
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #58
+
+		`liSN`                   -> 1309743514317414400
+		`ItemName`               -> Arcane Symbol
+		`nItemID`                -> 1712000
+		`niINT`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+
+
+Character: `SleeplessKN` (206989)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #59
+
+		`liSN`                   -> 1308439898134618112
+		`ItemName`               -> Ame-no-Uzume's Red Flower
+		`nItemID`                -> 1552045
+		`nCUC`                   -> 10
+		`nfiSTR`                 -> 12
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 124
+		`niLUK`                  -> 61
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 145
+		`niMAD`                  -> 354
+		`nfiPDD`                 -> 40
+		`nfiSpeed`               -> 4
+		`nIUC`                   -> 2
+		`nfiBDR`                 -> 10
+		`nfiDamR`                -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> Ignore Monster DEF: +35% 
+		`nOption2`               -> Ignore Monster DEF: +30% 
+		`nOption3`               -> Magic ATT: +10% 
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #60
+
+		`liSN`                   -> 1309991814337654784
+		`ItemName`               -> Ruins Explorer Hood
+		`nItemID`                -> 1005313
+		`niPDD`                  -> 10
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #61
+
+		`liSN`                   -> 1309991814337654785
+		`ItemName`               -> Ruins Explorer Jacket
+		`nItemID`                -> 1053402
+		`niPDD`                  -> 10
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #62
+
+		`liSN`                   -> 1309991814337654786
+		`ItemName`               -> Ruins Explorer Boots
+		`nItemID`                -> 1073334
+		`niPDD`                  -> 10
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #63
+
+		`liSN`                   -> 1309991814337654787
+		`ItemName`               -> Explorer's Bow
+		`nItemID`                -> 1452268
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #64
+
+		`liCashItemSN`           -> 1309191547291693056
+		`ItemName`               -> Exorcist Shoes
+		`nItemID`                -> 1073363
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #65
+
+		`liSN`                   -> 1309991891525357572
+		`ItemName`               -> Potential Relic
+		`nItemID`                -> 1353700
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #66
+
+		`liSN`                   -> 1309991891525357571
+		`ItemName`               -> Marad Ancient Bow
+		`nItemID`                -> 1592000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #67
+
+		`liSN`                   -> 1309991891525357570
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #68
+
+		`liCashItemSN`           -> 1309710857160355840
+		`ItemName`               -> null
+		`nItemID`                -> 1005477
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #69
+
+		`liCashItemSN`           -> 1309710297115914240
+		`ItemName`               -> Indigo Bunny Ear Outfit
+		`nItemID`                -> 1053421
+		`nAttribute`             -> 32
+
+
+Character: `SleeplessBow` (208725)
+Account:   `SleeplessBSG` (26781)
+
+	Equip Item #70
+
+		`liCashItemSN`           -> 1309195479967592448
+		`ItemName`               -> Exorcist Cape
+		`nItemID`                -> 1103220
+		`nAttribute`             -> 32

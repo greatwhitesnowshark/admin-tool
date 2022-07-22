@@ -1,0 +1,4823 @@
+Total # of loaded items = 306
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #1
+
+		`liSN`                   -> 1267793812307304448
+		`ItemName`               -> Pinnacle Belt
+		`nItemID`                -> 1132209
+		`nPosition`              -> 1
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`niPDD`                  -> 86
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #2
+
+		`liSN`                   -> 1267793815645970432
+		`ItemName`               -> Pinnacle Hat
+		`nItemID`                -> 1003740
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 107
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #3
+
+		`liSN`                   -> 1267793819517313024
+		`ItemName`               -> Pinnacle Epaulette
+		`nItemID`                -> 1152119
+		`nPosition`              -> 3
+		`nRUC`                   -> 1
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 35
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #4
+
+		`liSN`                   -> 1267793823090860032
+		`ItemName`               -> Pinnacle Earring
+		`nItemID`                -> 1032168
+		`nPosition`              -> 4
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niPDD`                  -> 35
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #5
+
+		`liSN`                   -> 1267793825536139264
+		`ItemName`               -> Pinnacle Cape
+		`nItemID`                -> 1102506
+		`nPosition`              -> 5
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 46
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #6
+
+		`liSN`                   -> 1267793828186939392
+		`ItemName`               -> Pinnacle Gloves
+		`nItemID`                -> 1082498
+		`nPosition`              -> 6
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 44
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #7
+
+		`liSN`                   -> 1267793830506389504
+		`ItemName`               -> Pinnacle Shoes
+		`nItemID`                -> 1072768
+		`nPosition`              -> 7
+		`nRUC`                   -> 5
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 58
+		`niSpeed`                -> 4
+		`niJump`                 -> 2
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #8
+
+		`liSN`                   -> 1267793832897142784
+		`ItemName`               -> Pinnacle Suit
+		`nItemID`                -> 1052569
+		`nPosition`              -> 8
+		`nRUC`                   -> 10
+		`niSTR`                  -> 8
+		`niDEX`                  -> 8
+		`niINT`                  -> 8
+		`niLUK`                  -> 8
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 161
+
+
+Character: `3424234` (39458)
+Account:   `plpw` (10887)
+
+	Equip Item #9
+
+		`liSN`                   -> 1290760909492535296
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #10
+
+		`liSN`                   -> 1267717254603333634
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #11
+
+		`liSN`                   -> 1267721739182530560
+		`ItemName`               -> Fafnir Risk Holder
+		`nItemID`                -> 1472214
+		`nPosition`              -> 120
+		`nCUC`                   -> 10
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 102
+		`nfiINT`                 -> 56
+		`niLUK`                  -> 142
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 261
+		`nfiPAD`                 -> 28
+		`niMAD`                  -> 17
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`nfiDamR`                -> 7
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +10% 
+		`nOption7`               -> null
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #12
+
+		`liSN`                   -> 1267735316480122893
+		`ItemName`               -> Dark Identity
+		`nItemID`                -> 1002249
+		`nPosition`              -> 128
+		`nCUC`                   -> 7
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 14
+		`nfiINT`                 -> 2
+		`niLUK`                  -> 21
+		`nfiLUK`                 -> 8
+		`niMaxHP`                -> 70
+		`nfiMaxHP`               -> 180
+		`niMaxMP`                -> 35
+		`niPDD`                  -> 56
+		`nCHUC`                  -> 5
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #13
+
+		`liCashItemSN`           -> 1267732516157251584
+		`ItemName`               -> Grin Ring
+		`nItemID`                -> 1113171
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #14
+
+		`liCashItemSN`           -> 1267732560872726528
+		`ItemName`               -> Grin Ring
+		`nItemID`                -> 1113171
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #15
+
+		`liCashItemSN`           -> 1267732496561463296
+		`ItemName`               -> Grin Ring
+		`nItemID`                -> 1113171
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #16
+
+		`liCashItemSN`           -> 1267732590597758976
+		`ItemName`               -> Hellia Necklace
+		`nItemID`                -> 1122210
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #17
+
+		`liCashItemSN`           -> 1267732644821721088
+		`ItemName`               -> Avenger Quiver Belt
+		`nItemID`                -> 1132183
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #18
+
+		`liCashItemSN`           -> 1267732622994563072
+		`ItemName`               -> Doom Shoulder
+		`nItemID`                -> 1152101
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niINT`                  -> 12
+		`niLUK`                  -> 12
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #19
+
+		`liSN`                   -> 1267741485013659648
+		`ItemName`               -> Hilla's Rage
+		`nItemID`                -> 1112952
+		`nPosition`              -> 123
+		`nCUC`                   -> 3
+		`niSTR`                  -> 46
+		`niDEX`                  -> 46
+		`niINT`                  -> 41
+		`niLUK`                  -> 48
+		`niMaxHP`                -> 243
+		`niMaxMP`                -> 245
+		`niPAD`                  -> 37
+		`niSpeed`                -> 31
+		`niJump`                 -> 19
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #20
+
+		`liSN`                   -> 1267747678515879937
+		`ItemName`               -> Utgard Guards
+		`nItemID`                -> 1472247
+		`nPosition`              -> 96
+		`nRUC`                   -> 8
+		`nfiSTR`                 -> 20
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 20
+		`niPAD`                  -> 62
+		`nGrade`                 -> 20
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> ATT: +13% 
+		`nOption3`               -> ATT: +10% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #21
+
+		`liSN`                   -> 1267750879591915520
+		`ItemName`               -> Deluxe Android (F)
+		`nItemID`                -> 1662003
+		`nAttribute`             -> 40
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #22
+
+		`liCashItemSN`           -> 1267755561051746304
+		`ftDateExpire`           -> 1599115854172
+		`ItemName`               -> Transparent Earrings
+		`nItemID`                -> 1032024
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #23
+
+		`liCashItemSN`           -> 1267755559961227264
+		`ftDateExpire`           -> 1599115853911
+		`ItemName`               -> Heart Ribbon Glove
+		`nItemID`                -> 1082229
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #24
+
+		`liCashItemSN`           -> 1267755561471176704
+		`ftDateExpire`           -> 1599115854271
+		`ItemName`               -> Lamby Cape
+		`nItemID`                -> 1102224
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #25
+
+		`liCashItemSN`           -> 1267755560200302592
+		`ftDateExpire`           -> 1599115853968
+		`ItemName`               -> Transparent Claw
+		`nItemID`                -> 1702099
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #26
+
+		`liSN`                   -> 1267761383232237568
+		`ItemName`               -> Tyrant Lycaon Boots
+		`nItemID`                -> 1072746
+		`nPosition`              -> 125
+		`nCUC`                   -> 4
+		`niSTR`                  -> 59
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 173
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 63
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 180
+		`nfiLUK`                 -> 44
+		`niPAD`                  -> 61
+		`niMAD`                  -> 58
+		`nfiMAD`                 -> 7
+		`niPDD`                  -> 141
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 7
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> Movement Speed: +15 
+		`nOption6`               -> ATT: +13 
+		`nOption7`               -> null
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #27
+
+		`liSN`                   -> 1267761383232237569
+		`ItemName`               -> Tyrant Lycaon Gloves
+		`nItemID`                -> 1082546
+		`nPosition`              -> 117
+		`nCUC`                   -> 4
+		`niDEX`                  -> 138
+		`nfiDEX`                 -> 24
+		`nfiINT`                 -> 40
+		`niLUK`                  -> 140
+		`nfiLUK`                 -> 24
+		`niMaxHP`                -> 317
+		`niPAD`                  -> 54
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 30
+		`niPDD`                  -> 94
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> Critical Damage: +8% 
+		`nOption3`               -> Critical Damage: +8% 
+		`nOption4`               -> Critical Damage: +3% 
+		`nOption5`               -> DEF: +7% 
+		`nOption6`               -> Critical Damage: +3% 
+		`nOption7`               -> DEX: +6 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #28
+
+		`liSN`                   -> 1267761383219654656
+		`ItemName`               -> Dominator Pendant
+		`nItemID`                -> 1122150
+		`nPosition`              -> 119
+		`nCUC`                   -> 7
+		`niSTR`                  -> 98
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 101
+		`niINT`                  -> 102
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 98
+		`nfiLUK`                 -> 92
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 33
+		`niMAD`                  -> 35
+		`niPDD`                  -> 271
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +1 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #29
+
+		`liSN`                   -> 1267761383236431873
+		`ItemName`               -> Tyrant Lycaon Belt
+		`nItemID`                -> 1132177
+		`nPosition`              -> 116
+		`nCUC`                   -> 3
+		`niSTR`                  -> 67
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 57
+		`niINT`                  -> 67
+		`nfiINT`                 -> 48
+		`niLUK`                  -> 60
+		`nfiLUK`                 -> 28
+		`niPAD`                  -> 39
+		`niMAD`                  -> 36
+		`niPDD`                  -> 104
+		`nfiPDD`                 -> 48
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nSpecialAttribute`      -> 128
+		`nGrade`                 -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +1 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #30
+
+		`liSN`                   -> 1267761383236431872
+		`ItemName`               -> Tyrant Lycaon Cloak
+		`nItemID`                -> 1102484
+		`nPosition`              -> 92
+		`nCUC`                   -> 4
+		`niSTR`                  -> 61
+		`niDEX`                  -> 184
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 58
+		`nfiINT`                 -> 48
+		`niLUK`                  -> 180
+		`nfiLUK`                 -> 28
+		`niPAD`                  -> 62
+		`niMAD`                  -> 58
+		`niPDD`                  -> 189
+		`nfiPDD`                 -> 32
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 7
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> Jump: +10 
+		`nOption7`               -> null
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #31
+
+		`liSN`                   -> 1267761383223848961
+		`ItemName`               -> Condensed Power Crystal
+		`nItemID`                -> 1012478
+		`nPosition`              -> 103
+		`nCUC`                   -> 5
+		`niSTR`                  -> 39
+		`niDEX`                  -> 49
+		`nfiDEX`                 -> 42
+		`niINT`                  -> 48
+		`nfiINT`                 -> 18
+		`niLUK`                  -> 47
+		`nfiLUK`                 -> 60
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 27
+		`niMAD`                  -> 26
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 194
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +1 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #32
+
+		`liSN`                   -> 1267761383223848960
+		`ItemName`               -> Aquatic Letter Eye Accessory
+		`nItemID`                -> 1022231
+		`nPosition`              -> 108
+		`nCUC`                   -> 3
+		`niSTR`                  -> 41
+		`niDEX`                  -> 39
+		`nfiDEX`                 -> 45
+		`niINT`                  -> 33
+		`niLUK`                  -> 33
+		`nfiLUK`                 -> 21
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 3
+		`niMAD`                  -> 11
+		`niPDD`                  -> 149
+		`nfiReduceReq`           -> 25
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +1 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #33
+
+		`liSN`                   -> 1267775911055581184
+		`ItemName`               -> Death Sender Charm
+		`nItemID`                -> 1352292
+		`nPosition`              -> 104
+		`niDEX`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Ignore Monster DEF: +40% 
+		`nOption2`               -> Ignore Monster DEF: +40% 
+		`nOption3`               -> Ignore Monster DEF: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +13% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #34
+
+		`liSN`                   -> 1267774985930530816
+		`ItemName`               -> Gold Maple Leaf Emblem
+		`nItemID`                -> 1190301
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #35
+
+		`liSN`                   -> 1267782970174062592
+		`ItemName`               -> Silver Blossom Ring
+		`nItemID`                -> 1113149
+		`nPosition`              -> 32
+		`nCUC`                   -> 3
+		`niSTR`                  -> 42
+		`niDEX`                  -> 46
+		`niINT`                  -> 39
+		`niLUK`                  -> 43
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 12
+		`niMAD`                  -> 7
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> ATT: +15 
+		`nOption6`               -> ATT: +15 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #36
+
+		`liSN`                   -> 1267787945881100288
+		`ItemName`               -> Golden Clover Belt
+		`nItemID`                -> 1132272
+		`nPosition`              -> 113
+		`nRUC`                   -> 3
+		`niSTR`                  -> 15
+		`niDEX`                  -> 14
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niMaxHP`                -> 149
+		`niMaxMP`                -> 150
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 150
+		`sTitle`                 -> SysOp
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #37
+
+		`liSN`                   -> 1267790501634105344
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nPosition`              -> 127
+		`nCUC`                   -> 3
+		`niSTR`                  -> 48
+		`niDEX`                  -> 48
+		`niINT`                  -> 48
+		`niLUK`                  -> 52
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 17
+		`niMAD`                  -> 19
+		`niPDD`                  -> 181
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> ATT: +15 
+		`nOption6`               -> ATT: +15 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #38
+
+		`liSN`                   -> 1267799624241090565
+		`ItemName`               -> Dea Sidus Earring
+		`nItemID`                -> 1032241
+		`nPosition`              -> 124
+		`nCUC`                   -> 6
+		`niSTR`                  -> 70
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 79
+		`nfiDEX`                 -> 56
+		`niINT`                  -> 79
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 76
+		`nfiLUK`                 -> 52
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 41
+		`niMAD`                  -> 46
+		`niPDD`                  -> 142
+		`nfiJump`                -> 7
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #39
+
+		`liCashItemSN`           -> 1268876836201558016
+		`ftDateExpire`           -> 1599383186999
+		`ItemName`               -> Crossed Hearts
+		`nItemID`                -> 1112006
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #40
+
+		`liCashItemSN`           -> 1269556864790818816
+		`ftDateExpire`           -> 1599545318449
+		`ItemName`               -> Cowboy Shorts
+		`nItemID`                -> 1061067
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #41
+
+		`liCashItemSN`           -> 1269556865038282752
+		`ftDateExpire`           -> 1599545318508
+		`ItemName`               -> Puffy Raglan Tee
+		`nItemID`                -> 1042188
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #42
+
+		`liCashItemSN`           -> 1269555198007963648
+		`ftDateExpire`           -> 1599544921152
+		`ItemName`               -> Transparent Eye Accessory
+		`nItemID`                -> 1022048
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #43
+
+		`liCashItemSN`           -> 1269560708857851904
+		`ItemName`               -> Steely Pink Bunny Ears
+		`nItemID`                -> 1004970
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #44
+
+		`liCashItemSN`           -> 1269560483124604928
+		`ItemName`               -> Dark Silence
+		`nItemID`                -> 1012636
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #45
+
+		`liCashItemSN`           -> 1293036450765598720
+		`ftDateExpire`           -> 1604912400000
+		`ItemName`               -> Black Dress Shoes
+		`nItemID`                -> 1072010
+		`nPosition`              -> 94
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #46
+
+		`liSN`                   -> 1293034419686346752
+		`ItemName`               -> Berserked
+		`nItemID`                -> 1012632
+		`nCUC`                   -> 7
+		`niSTR`                  -> 162
+		`nfiSTR`                 -> 63
+		`niDEX`                  -> 165
+		`nfiDEX`                 -> 35
+		`niINT`                  -> 166
+		`niLUK`                  -> 175
+		`nfiLUK`                 -> 89
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 2880
+		`niPAD`                  -> 144
+		`niMAD`                  -> 143
+		`niPDD`                  -> 664
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #47
+
+		`liSN`                   -> 1293035147716857856
+		`ItemName`               -> Magic Eyepatch
+		`nItemID`                -> 1022278
+		`nCUC`                   -> 5
+		`niSTR`                  -> 157
+		`nfiSTR`                 -> 36
+		`niDEX`                  -> 168
+		`nfiDEX`                 -> 25
+		`niINT`                  -> 153
+		`niLUK`                  -> 170
+		`nfiLUK`                 -> 70
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 127
+		`niMAD`                  -> 132
+		`niPDD`                  -> 958
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #48
+
+		`liSN`                   -> 1293032722352181248
+		`ItemName`               -> Death Sender Charm
+		`nItemID`                -> 1352292
+		`niDEX`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #49
+
+		`liSN`                   -> 1293038483794960384
+		`ItemName`               -> AbsoLab Revenge Guard
+		`nItemID`                -> 1472261
+		`nCUC`                   -> 10
+		`niDEX`                  -> 191
+		`nfiDEX`                 -> 66
+		`nfiINT`                 -> 30
+		`niLUK`                  -> 231
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 379
+		`niMAD`                  -> 110
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nfiBDR`                 -> 12
+		`nIMDR`                  -> 10
+		`nfiDamR`                -> 12
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #50
+
+		`liSN`                   -> 1293082170864308224
+		`ItemName`               -> Rose
+		`nItemID`                -> 1162005
+		`nPosition`              -> 28
+		`niSTR`                  -> 89
+		`niDEX`                  -> 89
+		`niINT`                  -> 89
+		`niLUK`                  -> 92
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 82
+		`niMAD`                  -> 82
+		`nCHUC`                  -> 23
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #51
+
+		`liCashItemSN`           -> 1293082599903981568
+		`ftDateExpire`           -> 1604923200000
+		`ItemName`               -> Transparent Shoes
+		`nItemID`                -> 1072153
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #52
+
+		`liSN`                   -> 1293127257254191112
+		`ItemName`               -> Royal Black Metal Shoulder
+		`nItemID`                -> 1152170
+		`nPosition`              -> 31
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 98
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #53
+
+		`liSN`                   -> 1293125578467237893
+		`ItemName`               -> Cracked Engraved Gollux Pendant
+		`nItemID`                -> 1122264
+		`nPosition`              -> 57
+		`nRUC`                   -> 3
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 28
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 3
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+		`nfiJump`                -> 4
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #54
+
+		`liSN`                   -> 1293125578467237895
+		`ItemName`               -> Cracked Engraved Gollux Belt
+		`nItemID`                -> 1132243
+		`nPosition`              -> 62
+		`nRUC`                   -> 3
+		`niSTR`                  -> 8
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 8
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 8
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 8
+		`nfiLUK`                 -> 24
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 21
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #55
+
+		`liSN`                   -> 1293125578467237894
+		`ItemName`               -> Reinforced Engraved Gollux Pendant
+		`nItemID`                -> 1122266
+		`nPosition`              -> 26
+		`nRUC`                   -> 5
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 48
+		`niDEX`                  -> 23
+		`niINT`                  -> 23
+		`nfiINT`                 -> 48
+		`niLUK`                  -> 23
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`nfiMaxMP`               -> 2100
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #56
+
+		`liSN`                   -> 1293127257254191113
+		`ItemName`               -> Nova Altair Belt
+		`nItemID`                -> 1132173
+		`nPosition`              -> 27
+		`nRUC`                   -> 1
+		`niSTR`                  -> 22
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 22
+		`niINT`                  -> 22
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 22
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 46
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #57
+
+		`liSN`                   -> 1293127257258385410
+		`ItemName`               -> Elite Heliseum Pirate Belt
+		`nItemID`                -> 1132168
+		`nPosition`              -> 25
+		`nRUC`                   -> 1
+		`niSTR`                  -> 18
+		`niDEX`                  -> 18
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 18
+		`nfiINT`                 -> 32
+		`niLUK`                  -> 18
+		`nfiMaxMP`               -> 480
+		`niPAD`                  -> 4
+		`niMAD`                  -> 4
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 28
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #58
+
+		`liSN`                   -> 1293127257254191111
+		`ItemName`               -> Crystal Ventus Badge
+		`nItemID`                -> 1182087
+		`nPosition`              -> 61
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 9
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #59
+
+		`liSN`                   -> 1293137737708384257
+		`ItemName`               -> Arcane Umbra Thief Gloves
+		`nItemID`                -> 1082698
+		`nPosition`              -> 30
+		`nRUC`                   -> 7
+		`niDEX`                  -> 40
+		`niLUK`                  -> 40
+		`niPAD`                  -> 9
+		`niPDD`                  -> 250
+		`nAttribute`             -> 40
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #60
+
+		`liSN`                   -> 1293137439577255936
+		`ItemName`               -> Vanquisher Of Nightmares
+		`nItemID`                -> 1143029
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niMaxHP`                -> 1000
+		`niMaxMP`                -> 1000
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #61
+
+		`liCashItemSN`           -> 1267755594232885248
+		`ftDateExpire`           -> 1599115862083
+		`ItemName`               -> Victory Hairpin
+		`nItemID`                -> 1002774
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #62
+
+		`liCashItemSN`           -> 1267755560791699456
+		`ftDateExpire`           -> 1599115854109
+		`ItemName`               -> Transparent Face Accessory
+		`nItemID`                -> 1012057
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #63
+
+		`liCashItemSN`           -> 1267755560410017792
+		`ftDateExpire`           -> 1599115854018
+		`ItemName`               -> 80's Knit Pullover
+		`nItemID`                -> 1042149
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #64
+
+		`liCashItemSN`           -> 1267755561248878592
+		`ftDateExpire`           -> 1599115854222
+		`ItemName`               -> Ruby-Buckled Shorts
+		`nItemID`                -> 1062094
+		`nAttribute`             -> 32
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #65
+
+		`liSN`                   -> 1267975882186936320
+		`ItemName`               -> Arcane Symbol: Vanishing Journey
+		`nItemID`                -> 1712001
+		`niLUK`                  -> 1600
+		`nArcaneForce`           -> 160
+		`nArcaneExp`             -> 50
+		`nArcaneLevel`           -> 14
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #66
+
+		`liSN`                   -> 1270365178005016576
+		`ItemName`               -> Arcane Symbol: Chu Chu Island
+		`nItemID`                -> 1712002
+		`niLUK`                  -> 1600
+		`nArcaneForce`           -> 160
+		`nArcaneExp`             -> 50
+		`nArcaneLevel`           -> 14
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #67
+
+		`liSN`                   -> 1293051932772012032
+		`ItemName`               -> Arcane Symbol: Lachelein
+		`nItemID`                -> 1712003
+		`niLUK`                  -> 1600
+		`nArcaneForce`           -> 160
+		`nArcaneExp`             -> 38
+		`nArcaneLevel`           -> 14
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #68
+
+		`liSN`                   -> 1293052499137269760
+		`ItemName`               -> Arcane Symbol: Arcana
+		`nItemID`                -> 1712004
+		`niLUK`                  -> 1600
+		`nArcaneForce`           -> 160
+		`nArcaneExp`             -> 38
+		`nArcaneLevel`           -> 14
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #69
+
+		`liSN`                   -> 1293051940338536448
+		`ItemName`               -> Arcane Symbol: Morass
+		`nItemID`                -> 1712005
+		`niLUK`                  -> 1600
+		`nArcaneForce`           -> 160
+		`nArcaneExp`             -> 38
+		`nArcaneLevel`           -> 14
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #70
+
+		`liSN`                   -> 1293051943538790400
+		`ItemName`               -> Arcane Symbol: Esfera
+		`nItemID`                -> 1712006
+		`niLUK`                  -> 1600
+		`nArcaneForce`           -> 160
+		`nArcaneExp`             -> 38
+		`nArcaneLevel`           -> 14
+
+
+Character: `Rain` (73785)
+Account:   `plpw` (10887)
+
+	Equip Item #71
+
+		`liSN`                   -> 1267719784104189952
+		`ftDateExpire`           -> 1622780924282
+		`ItemName`               -> Frenzy Totem
+		`nItemID`                -> 1202236
+		`niSTR`                  -> 30
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`nLevel`                 -> 1
+		`nAttribute`             -> 8
+
+
+Character: `critlink01` (74245)
+Account:   `plpw` (10887)
+
+	Equip Item #72
+
+		`liSN`                   -> 1267791779923750912
+		`ItemName`               -> Classic Platinum Suit
+		`nItemID`                -> 1051272
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `critlink01` (74245)
+Account:   `plpw` (10887)
+
+	Equip Item #73
+
+		`liSN`                   -> 1267791779923750913
+		`ItemName`               -> Sturdy Leather Boots
+		`nItemID`                -> 1071035
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `critlink01` (74245)
+Account:   `plpw` (10887)
+
+	Equip Item #74
+
+		`liSN`                   -> 1267791779923750914
+		`ItemName`               -> Novice Cane
+		`nItemID`                -> 1362000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `critlink01` (74245)
+Account:   `plpw` (10887)
+
+	Equip Item #75
+
+		`liSN`                   -> 1267791808432312320
+		`ItemName`               -> Novice Cane
+		`nItemID`                -> 1362001
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+
+
+Character: `critlink01` (74245)
+Account:   `plpw` (10887)
+
+	Equip Item #76
+
+		`liSN`                   -> 1267791808432312321
+		`ItemName`               -> Carte Magique
+		`nItemID`                -> 1352100
+		`nPosition`              -> 2
+
+
+Character: `critlink01` (74245)
+Account:   `plpw` (10887)
+
+	Equip Item #77
+
+		`liSN`                   -> 1267791808428118018
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `demonlink02` (74247)
+Account:   `plpw` (10887)
+
+	Equip Item #78
+
+		`liSN`                   -> 1267792342929371136
+		`ItemName`               -> Dark Demon Uniform
+		`nItemID`                -> 1051236
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `demonlink02` (74247)
+Account:   `plpw` (10887)
+
+	Equip Item #79
+
+		`liSN`                   -> 1267792342929371137
+		`ItemName`               -> Dark Shoes
+		`nItemID`                -> 1072518
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `demonlink02` (74247)
+Account:   `plpw` (10887)
+
+	Equip Item #80
+
+		`liSN`                   -> 1267792342929371139
+		`ItemName`               -> Doom Scepter
+		`nItemID`                -> 1322123
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+
+
+Character: `demonlink02` (74247)
+Account:   `plpw` (10887)
+
+	Equip Item #81
+
+		`liSN`                   -> 1267792406791720961
+		`ItemName`               -> Blue Ravager
+		`nItemID`                -> 1232001
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+
+
+Character: `demonlink02` (74247)
+Account:   `plpw` (10887)
+
+	Equip Item #82
+
+		`liSN`                   -> 1267792770035224576
+		`ItemName`               -> Force Shield of Extremes
+		`nItemID`                -> 1099004
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niMaxHP`                -> 600
+		`niMaxMP`                -> 110
+		`niPDD`                  -> 84
+		`nLevel`                 -> 1
+
+
+Character: `demonlink02` (74247)
+Account:   `plpw` (10887)
+
+	Equip Item #83
+
+		`liSN`                   -> 1267792406791720960
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `demonlink03` (74250)
+Account:   `plpw` (10887)
+
+	Equip Item #84
+
+		`liSN`                   -> 1267792526417588224
+		`ItemName`               -> Dark Demon Uniform
+		`nItemID`                -> 1051236
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `demonlink03` (74250)
+Account:   `plpw` (10887)
+
+	Equip Item #85
+
+		`liSN`                   -> 1267792526417588225
+		`ItemName`               -> Dark Shoes
+		`nItemID`                -> 1072518
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `demonlink03` (74250)
+Account:   `plpw` (10887)
+
+	Equip Item #86
+
+		`liSN`                   -> 1267792526417588227
+		`ItemName`               -> Doom Scepter
+		`nItemID`                -> 1322123
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+
+
+Character: `demonlink03` (74250)
+Account:   `plpw` (10887)
+
+	Equip Item #87
+
+		`liSN`                   -> 1267792562131963906
+		`ItemName`               -> Doom Scepter
+		`nItemID`                -> 1322122
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 29
+
+
+Character: `demonlink03` (74250)
+Account:   `plpw` (10887)
+
+	Equip Item #88
+
+		`liSN`                   -> 1267792637491023873
+		`ItemName`               -> Force Shield of Extremes
+		`nItemID`                -> 1099004
+		`niSTR`                  -> 12
+		`niDEX`                  -> 12
+		`niMaxHP`                -> 595
+		`niMaxMP`                -> 110
+		`niPDD`                  -> 82
+		`nLevelUpType`           -> 2
+		`nLevel`                 -> 1
+
+
+Character: `demonlink03` (74250)
+Account:   `plpw` (10887)
+
+	Equip Item #89
+
+		`liSN`                   -> 1267792562131963905
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `lumilink04` (74253)
+Account:   `plpw` (10887)
+
+	Equip Item #90
+
+		`liSN`                   -> 1267792935693578240
+		`ItemName`               -> Aurora Robe
+		`nItemID`                -> 1052495
+		`nRUC`                   -> 10
+
+
+Character: `lumilink04` (74253)
+Account:   `plpw` (10887)
+
+	Equip Item #91
+
+		`liSN`                   -> 1267792935693578241
+		`ItemName`               -> Aurora Shoes
+		`nItemID`                -> 1072700
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `lumilink04` (74253)
+Account:   `plpw` (10887)
+
+	Equip Item #92
+
+		`liSN`                   -> 1267792935693578242
+		`ItemName`               -> Dragon Tail Thanatos
+		`nItemID`                -> 1212000
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+
+
+Character: `lumilink04` (74253)
+Account:   `plpw` (10887)
+
+	Equip Item #93
+
+		`liSN`                   -> 1267792971923853315
+		`ItemName`               -> Plain
+		`nItemID`                -> 1212001
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+
+
+Character: `lumilink04` (74253)
+Account:   `plpw` (10887)
+
+	Equip Item #94
+
+		`liSN`                   -> 1267792971923853316
+		`ItemName`               -> Light Orb
+		`nItemID`                -> 1352400
+		`nPosition`              -> 2
+
+
+Character: `lumilink04` (74253)
+Account:   `plpw` (10887)
+
+	Equip Item #95
+
+		`liSN`                   -> 1267792971923853314
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `kannalink05` (74256)
+Account:   `plpw` (10887)
+
+	Equip Item #96
+
+		`liSN`                   -> 1267793391111106560
+		`ItemName`               -> Kanna's Onmyouji Hat
+		`nItemID`                -> 1000064
+
+
+Character: `kannalink05` (74256)
+Account:   `plpw` (10887)
+
+	Equip Item #97
+
+		`liSN`                   -> 1267793391111106561
+		`ItemName`               -> Kanna's Robes
+		`nItemID`                -> 1052472
+
+
+Character: `kannalink05` (74256)
+Account:   `plpw` (10887)
+
+	Equip Item #98
+
+		`liSN`                   -> 1267793391111106562
+		`ItemName`               -> Body and Soul Shoes
+		`nItemID`                -> 1072674
+
+
+Character: `kannalink05` (74256)
+Account:   `plpw` (10887)
+
+	Equip Item #99
+
+		`liSN`                   -> 1267793391111106563
+		`ItemName`               -> Florist's Fan
+		`nItemID`                -> 1552044
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 20
+
+
+Character: `kannalink05` (74256)
+Account:   `plpw` (10887)
+
+	Equip Item #100
+
+		`liSN`                   -> 1267793425089040387
+		`ItemName`               -> Iron Fan
+		`nItemID`                -> 1552000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 25
+
+
+Character: `kannalink05` (74256)
+Account:   `plpw` (10887)
+
+	Equip Item #101
+
+		`liSN`                   -> 1267793425089040386
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `arklink00001` (177280)
+Account:   `plpw` (10887)
+
+	Equip Item #102
+
+		`liSN`                   -> 1293023959692079104
+		`ItemName`               -> Worn High Flora Uniform
+		`nItemID`                -> 1051550
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+
+
+Character: `arklink00001` (177280)
+Account:   `plpw` (10887)
+
+	Equip Item #103
+
+		`liSN`                   -> 1293023959692079105
+		`ItemName`               -> Worn High Flora Boots
+		`nItemID`                -> 1073260
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `arklink00001` (177280)
+Account:   `plpw` (10887)
+
+	Equip Item #104
+
+		`liSN`                   -> 1293023959692079106
+		`ItemName`               -> Rusty Steel Knuckler
+		`nItemID`                -> 1482191
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+
+
+Character: `arklink00001` (177280)
+Account:   `plpw` (10887)
+
+	Equip Item #105
+
+		`liSN`                   -> 1293023990457176067
+		`ItemName`               -> Steel Knuckler
+		`nItemID`                -> 1482000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+
+
+Character: `arklink00001` (177280)
+Account:   `plpw` (10887)
+
+	Equip Item #106
+
+		`liSN`                   -> 1293023990457176068
+		`ItemName`               -> Initial Path
+		`nItemID`                -> 1353600
+		`nPosition`              -> 2
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+
+
+Character: `arklink00001` (177280)
+Account:   `plpw` (10887)
+
+	Equip Item #107
+
+		`liSN`                   -> 1293023990457176066
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `link505435` (177282)
+Account:   `plpw` (10887)
+
+	Equip Item #108
+
+		`liSN`                   -> 1293024259886804992
+		`ItemName`               -> Verdant Flora Suit
+		`nItemID`                -> 1051534
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `link505435` (177282)
+Account:   `plpw` (10887)
+
+	Equip Item #109
+
+		`liSN`                   -> 1293024259886804993
+		`ItemName`               -> Verdant Flora Shoes
+		`nItemID`                -> 1073236
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `link505435` (177282)
+Account:   `plpw` (10887)
+
+	Equip Item #110
+
+		`liSN`                   -> 1293024259886804994
+		`ItemName`               -> Handmade Lucent Gauntlet
+		`nItemID`                -> 1282021
+		`nRUC`                   -> 7
+		`niPAD`                  -> 7
+		`niMAD`                  -> 13
+
+
+Character: `link505435` (177282)
+Account:   `plpw` (10887)
+
+	Equip Item #111
+
+		`liSN`                   -> 1293024291008417795
+		`ItemName`               -> Luna Lucent Gauntlet
+		`nItemID`                -> 1282000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+
+
+Character: `link505435` (177282)
+Account:   `plpw` (10887)
+
+	Equip Item #112
+
+		`liSN`                   -> 1293024291008417796
+		`ItemName`               -> Basic Lucent Wings
+		`nItemID`                -> 1353500
+		`nPosition`              -> 2
+		`niINT`                  -> 1
+		`niLUK`                  -> 1
+
+
+Character: `link505435` (177282)
+Account:   `plpw` (10887)
+
+	Equip Item #113
+
+		`liSN`                   -> 1293024291008417794
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `linkdw1234` (177283)
+Account:   `plpw` (10887)
+
+	Equip Item #114
+
+		`liSN`                   -> 1293024590737698816
+		`ItemName`               -> Noblesse Robe
+		`nItemID`                -> 1051334
+		`niPDD`                  -> 5
+
+
+Character: `linkdw1234` (177283)
+Account:   `plpw` (10887)
+
+	Equip Item #115
+
+		`liSN`                   -> 1293024590737698817
+		`ItemName`               -> Noblesse Shoes
+		`nItemID`                -> 1072785
+		`niPDD`                  -> 2
+
+
+Character: `linkdw1234` (177283)
+Account:   `plpw` (10887)
+
+	Equip Item #116
+
+		`liSN`                   -> 1293024590737698818
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `linkdw1234` (177283)
+Account:   `plpw` (10887)
+
+	Equip Item #117
+
+		`liSN`                   -> 1293024624086487043
+		`ItemName`               -> Long Sword
+		`nItemID`                -> 1302007
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+
+
+Character: `linkdw1234` (177283)
+Account:   `plpw` (10887)
+
+	Equip Item #118
+
+		`liSN`                   -> 1293024624086487042
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `linkcyg1234` (177285)
+Account:   `plpw` (10887)
+
+	Equip Item #119
+
+		`liSN`                   -> 1293024780001472512
+		`ItemName`               -> Noblesse Robe
+		`nItemID`                -> 1051334
+		`niPDD`                  -> 5
+
+
+Character: `linkcyg1234` (177285)
+Account:   `plpw` (10887)
+
+	Equip Item #120
+
+		`liSN`                   -> 1293024780001472513
+		`ItemName`               -> Noblesse Shoes
+		`nItemID`                -> 1072785
+		`niPDD`                  -> 2
+
+
+Character: `linkcyg1234` (177285)
+Account:   `plpw` (10887)
+
+	Equip Item #121
+
+		`liSN`                   -> 1293024780001472514
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `linkcyg1234` (177285)
+Account:   `plpw` (10887)
+
+	Equip Item #122
+
+		`liSN`                   -> 1293024810082897923
+		`ItemName`               -> Wooden Staff
+		`nItemID`                -> 1382000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 20
+		`niMAD`                  -> 25
+
+
+Character: `linkcyg1234` (177285)
+Account:   `plpw` (10887)
+
+	Equip Item #123
+
+		`liSN`                   -> 1293024810082897922
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `linkmihile54` (177286)
+Account:   `plpw` (10887)
+
+	Equip Item #124
+
+		`liSN`                   -> 1293024949149364224
+		`ItemName`               -> Undershirt
+		`nItemID`                -> 1040006
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `linkmihile54` (177286)
+Account:   `plpw` (10887)
+
+	Equip Item #125
+
+		`liSN`                   -> 1293024949149364225
+		`ItemName`               -> Brown Cotton Shorts
+		`nItemID`                -> 1060006
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `linkmihile54` (177286)
+Account:   `plpw` (10887)
+
+	Equip Item #126
+
+		`liSN`                   -> 1293024949149364226
+		`ItemName`               -> Blue Rubber Boots
+		`nItemID`                -> 1072038
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `linkmihile54` (177286)
+Account:   `plpw` (10887)
+
+	Equip Item #127
+
+		`liSN`                   -> 1293024949149364227
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `linkmihile54` (177286)
+Account:   `plpw` (10887)
+
+	Equip Item #128
+
+		`liSN`                   -> 1293024981864812546
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #129
+
+		`liSN`                   -> 1293025413093912576
+		`ItemName`               -> Yellow Muffler Outfit
+		`nItemID`                -> 1051355
+		`nPosition`              -> 30
+		`niPDD`                  -> 5
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #130
+
+		`liSN`                   -> 1293025413093912577
+		`ItemName`               -> Purple Adventure Shoes
+		`nItemID`                -> 1072834
+		`nPosition`              -> 31
+		`niPDD`                  -> 2
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #131
+
+		`liSN`                   -> 1293025413093912578
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nPosition`              -> 32
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #132
+
+		`liSN`                   -> 1293025447591940096
+		`ItemName`               -> Garnier
+		`nItemID`                -> 1472000
+		`nPosition`              -> 61
+		`nRUC`                   -> 7
+		`niPAD`                  -> 10
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #133
+
+		`liSN`                   -> 1293025447591940097
+		`ItemName`               -> Fruit Knife
+		`nItemID`                -> 1332007
+		`nPosition`              -> 62
+		`nRUC`                   -> 7
+		`niPAD`                  -> 22
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #134
+
+		`liSN`                   -> 1293025447587745794
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #135
+
+		`liSN`                   -> 1295827712493096960
+		`ItemName`               -> AbsoLab Blade Lord
+		`nItemID`                -> 1332274
+		`nPosition`              -> 128
+		`nCUC`                   -> 10
+		`nfiSTR`                 -> 80
+		`niDEX`                  -> 191
+		`nfiDEX`                 -> 35
+		`niLUK`                  -> 231
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 497
+		`nfiPAD`                 -> 59
+		`niMAD`                  -> 110
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nfiBDR`                 -> 12
+		`nIMDR`                  -> 10
+		`nfiDamR`                -> 6
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +13% 
+		`nSoulOptionID`          -> 591
+		`nSoulSocketID`          -> 11
+		`nSoulOption`            -> 306
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #136
+
+		`liSN`                   -> 1295827621107601408
+		`ItemName`               -> AbsoLab Katara
+		`nItemID`                -> 1342101
+		`nPosition`              -> 127
+		`nCUC`                   -> 7
+		`niDEX`                  -> 131
+		`niLUK`                  -> 199
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 334
+		`niMAD`                  -> 110
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +13% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #137
+
+		`liSN`                   -> 1267761383228043264
+		`ItemName`               -> Pink Holy Cup
+		`nItemID`                -> 1162025
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 48
+		`niINT`                  -> 5
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 50
+		`niMaxMP`                -> 50
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 5
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 8
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #138
+
+		`liSN`                   -> 1295837639861313536
+		`ItemName`               -> Arcane Umbra Thief Gloves
+		`nItemID`                -> 1082698
+		`nCUC`                   -> 9
+		`niSTR`                  -> 90
+		`nfiSTR`                 -> 36
+		`niDEX`                  -> 275
+		`niINT`                  -> 90
+		`nfiINT`                 -> 78
+		`niLUK`                  -> 275
+		`nfiLUK`                 -> 42
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 143
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 127
+		`niPDD`                  -> 1024
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 296
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> Critical Damage: +8% 
+		`nOption3`               -> Critical Damage: +8% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> LUK: +8% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #139
+
+		`liSN`                   -> 1293137707412926464
+		`ItemName`               -> Arcane Umbra Thief Shoes
+		`nItemID`                -> 1073161
+		`nCUC`                   -> 9
+		`niSTR`                  -> 90
+		`niDEX`                  -> 275
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 90
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 275
+		`nfiLUK`                 -> 77
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 141
+		`niMAD`                  -> 132
+		`nfiMAD`                 -> 7
+		`niPDD`                  -> 1024
+		`niSpeed`                -> 13
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 296
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #140
+
+		`liSN`                   -> 1267721670521774080
+		`ItemName`               -> Royal Assassin Hood
+		`nItemID`                -> 1003800
+		`nCUC`                   -> 13
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 224
+		`niLUK`                  -> 205
+		`nfiLUK`                 -> 76
+		`niMaxHP`                -> 675
+		`niMaxMP`                -> 661
+		`niPAD`                  -> 152
+		`nfiPAD`                 -> 6
+		`niMAD`                  -> 103
+		`niPDD`                  -> 988
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 10
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Skill Cooldown: -2 sec (-5% for under 10 sec, minimum cooldown of 10 sec) 
+		`nOption2`               -> Skill Cooldown: -2 sec (-5% for under 10 sec, minimum cooldown of 10 sec) 
+		`nOption3`               -> Skill Cooldown: -2 sec (-5% for under 10 sec, minimum cooldown of 10 sec) 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +1 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+		`nOption7`               -> null
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #141
+
+		`liSN`                   -> 1293030624931745792
+		`ItemName`               -> Superior Gollux Earrings
+		`nItemID`                -> 1032223
+		`nCUC`                   -> 9
+		`niSTR`                  -> 159
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 159
+		`niINT`                  -> 159
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 159
+		`nfiLUK`                 -> 40
+		`niMaxHP`                -> 405
+		`niMaxMP`                -> 405
+		`niPAD`                  -> 131
+		`niMAD`                  -> 131
+		`niPDD`                  -> 275
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 30
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> All Stats: +6% 
+		`nOption6`               -> LUK: +8% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #142
+
+		`liSN`                   -> 1267721708589277184
+		`ItemName`               -> Eagle Eye Assassin Shirt
+		`nItemID`                -> 1042257
+		`nCUC`                   -> 9
+		`niDEX`                  -> 182
+		`nfiDEX`                 -> 20
+		`niLUK`                  -> 177
+		`nfiLUK`                 -> 68
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 136
+		`niMAD`                  -> 103
+		`niPDD`                  -> 469
+		`nfiPDD`                 -> 40
+		`nfiSpeed`               -> 6
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+		`nOption7`               -> null
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #143
+
+		`liSN`                   -> 1267721692428623872
+		`ItemName`               -> Trixter Assassin Pants
+		`nItemID`                -> 1062168
+		`nCUC`                   -> 9
+		`niDEX`                  -> 182
+		`niLUK`                  -> 193
+		`nfiLUK`                 -> 48
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`nfiMaxMP`               -> 2700
+		`niPAD`                  -> 143
+		`niMAD`                  -> 103
+		`niPDD`                  -> 463
+		`nfiJump`                -> 7
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #144
+
+		`liSN`                   -> 1268878000569704448
+		`ItemName`               -> AbsoLab Bandit Shoes
+		`nItemID`                -> 1073034
+		`nPosition`              -> 126
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 188
+		`niLUK`                  -> 172
+		`nfiLUK`                 -> 89
+		`niMaxHP`                -> 255
+		`nfiMaxHP`               -> 1920
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 116
+		`niMAD`                  -> 92
+		`niPDD`                  -> 522
+		`niSpeed`                -> 46
+		`niJump`                 -> 44
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> LUK: +8% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #145
+
+		`liSN`                   -> 1268878090835320832
+		`ItemName`               -> AbsoLab Bandit Gloves
+		`nItemID`                -> 1082639
+		`nPosition`              -> 96
+		`nCUC`                   -> 9
+		`nfiSTR`                 -> 36
+		`niDEX`                  -> 192
+		`niLUK`                  -> 190
+		`nfiLUK`                 -> 54
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 123
+		`niMAD`                  -> 78
+		`niPDD`                  -> 490
+		`nfiJump`                -> 4
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> Critical Damage: +8% 
+		`nOption3`               -> Critical Damage: +8% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #146
+
+		`liSN`                   -> 1268878130169503744
+		`ItemName`               -> AbsoLab Bandit Cape
+		`nItemID`                -> 1102796
+		`nPosition`              -> 125
+		`nCUC`                   -> 9
+		`niSTR`                  -> 41
+		`niDEX`                  -> 174
+		`nfiDEX`                 -> 50
+		`niINT`                  -> 47
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 181
+		`nfiLUK`                 -> 84
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 125
+		`niMAD`                  -> 125
+		`niPDD`                  -> 744
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #147
+
+		`liSN`                   -> 1267782918663815168
+		`ItemName`               -> Scarlet Ring
+		`nItemID`                -> 1113070
+		`nCUC`                   -> 3
+		`niSTR`                  -> 86
+		`niDEX`                  -> 93
+		`niINT`                  -> 91
+		`niLUK`                  -> 97
+		`niMaxHP`                -> 417
+		`niMaxMP`                -> 421
+		`niPAD`                  -> 59
+		`niMAD`                  -> 55
+		`niPDD`                  -> 257
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> All Stats: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #148
+
+		`liSN`                   -> 1293030590911746048
+		`ItemName`               -> Superior Gollux Ring
+		`nItemID`                -> 1113075
+		`nCUC`                   -> 8
+		`niSTR`                  -> 151
+		`niDEX`                  -> 151
+		`niINT`                  -> 151
+		`niLUK`                  -> 151
+		`niMaxHP`                -> 505
+		`niMaxMP`                -> 505
+		`niPAD`                  -> 143
+		`niMAD`                  -> 143
+		`niPDD`                  -> 442
+		`niSpeed`                -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> All Stats: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #149
+
+		`liSN`                   -> 1293030594393018368
+		`ItemName`               -> Reinforced Gollux Ring
+		`nItemID`                -> 1113074
+		`nCUC`                   -> 6
+		`niSTR`                  -> 129
+		`niDEX`                  -> 129
+		`niINT`                  -> 129
+		`niLUK`                  -> 129
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`niPAD`                  -> 124
+		`niMAD`                  -> 124
+		`niPDD`                  -> 442
+		`niSpeed`                -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #150
+
+		`liSN`                   -> 1293038372817870848
+		`ItemName`               -> Superior Engraved Gollux Pendant
+		`nItemID`                -> 1122267
+		`nCUC`                   -> 8
+		`niSTR`                  -> 169
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 169
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 169
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 169
+		`nfiLUK`                 -> 68
+		`niMaxHP`                -> 555
+		`niMaxMP`                -> 555
+		`niPAD`                  -> 140
+		`niMAD`                  -> 140
+		`niPDD`                  -> 288
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> LUK: +8% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #151
+
+		`liSN`                   -> 1270360813982699520
+		`ItemName`               -> Superior Engraved Gollux Belt
+		`nItemID`                -> 1132246
+		`nPosition`              -> 13
+		`nCUC`                   -> 5
+		`niSTR`                  -> 199
+		`niDEX`                  -> 190
+		`niINT`                  -> 201
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 199
+		`nfiLUK`                 -> 24
+		`niMaxHP`                -> 477
+		`niMaxMP`                -> 470
+		`nfiMaxMP`               -> 1800
+		`niPAD`                  -> 157
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 156
+		`niPDD`                  -> 304
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #152
+
+		`liSN`                   -> 1293038320477151232
+		`ItemName`               -> AbsoLab Thief Shoulder
+		`nItemID`                -> 1152178
+		`nCUC`                   -> 3
+		`niSTR`                  -> 21
+		`niDEX`                  -> 153
+		`niINT`                  -> 25
+		`niLUK`                  -> 162
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 115
+		`niMAD`                  -> 112
+		`niPDD`                  -> 317
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #153
+
+		`liSN`                   -> 1267719869261144064
+		`ItemName`               -> Outlaw Heart
+		`nItemID`                -> 1672069
+		`nCUC`                   -> 12
+		`niSTR`                  -> 122
+		`niDEX`                  -> 122
+		`niINT`                  -> 122
+		`niLUK`                  -> 122
+		`niMaxHP`                -> 755
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 187
+		`niMAD`                  -> 103
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #154
+
+		`liSN`                   -> 1267789661678592000
+		`ItemName`               -> Ghost Ship Exorcist
+		`nItemID`                -> 1182060
+		`nCUC`                   -> 3
+		`niSTR`                  -> 129
+		`niDEX`                  -> 128
+		`niINT`                  -> 128
+		`niLUK`                  -> 127
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 98
+		`niMAD`                  -> 93
+		`niPDD`                  -> 210
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> LUK: +8% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #155
+
+		`liSN`                   -> 1270362994559406080
+		`ItemName`               -> Superior Engraved Gollux Pendant
+		`nItemID`                -> 1122267
+		`nCUC`                   -> 8
+		`niSTR`                  -> 169
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 169
+		`niINT`                  -> 169
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 169
+		`nfiLUK`                 -> 80
+		`niMaxHP`                -> 555
+		`niMaxMP`                -> 555
+		`niPAD`                  -> 140
+		`nfiPAD`                 -> 7
+		`niMAD`                  -> 140
+		`niPDD`                  -> 281
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +6% 
+		`nOption6`               -> LUK: +8% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #156
+
+		`liSN`                   -> 1295837921815011328
+		`ItemName`               -> Deluxe Android (F)
+		`nItemID`                -> 1662003
+		`nAttribute`             -> 40
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #157
+
+		`liSN`                   -> 1295916817352626176
+		`ItemName`               -> Dreamy Belt
+		`nItemID`                -> 1132308
+		`nCUC`                   -> 5
+		`niSTR`                  -> 206
+		`nfiSTR`                 -> 36
+		`niDEX`                  -> 209
+		`niINT`                  -> 215
+		`nfiINT`                 -> 42
+		`niLUK`                  -> 207
+		`nfiLUK`                 -> 155
+		`niMaxHP`                -> 418
+		`niMaxMP`                -> 424
+		`niPAD`                  -> 156
+		`niMAD`                  -> 155
+		`niPDD`                  -> 493
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> All Stats: +10% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #158
+
+		`liSN`                   -> 1295916716047601664
+		`ItemName`               -> Berserked
+		`nItemID`                -> 1012632
+		`nCUC`                   -> 7
+		`niSTR`                  -> 169
+		`nfiSTR`                 -> 88
+		`niDEX`                  -> 180
+		`niINT`                  -> 165
+		`nfiINT`                 -> 30
+		`niLUK`                  -> 169
+		`nfiLUK`                 -> 55
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 151
+		`niMAD`                  -> 139
+		`niPDD`                  -> 634
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +6% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #159
+
+		`liSN`                   -> 1295916761367056384
+		`ItemName`               -> Magic Eyepatch
+		`nItemID`                -> 1022278
+		`nCUC`                   -> 5
+		`niSTR`                  -> 157
+		`nfiSTR`                 -> 30
+		`niDEX`                  -> 163
+		`nfiDEX`                 -> 25
+		`niINT`                  -> 163
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 153
+		`nfiLUK`                 -> 90
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 133
+		`niMAD`                  -> 135
+		`niPDD`                  -> 954
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 25
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> LUK: +6% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #160
+
+		`liSN`                   -> 1295917274573705216
+		`ItemName`               -> Gold Maple Leaf Emblem
+		`nItemID`                -> 1190301
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> ATT: +13% 
+		`nOption3`               -> ATT: +13% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +13% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #161
+
+		`liCashItemSN`           -> 1295927273232408576
+		`ItemName`               -> Transparent Hat
+		`nItemID`                -> 1002186
+		`nAttribute`             -> 32
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #162
+
+		`liCashItemSN`           -> 1295925889347088384
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Face Accessory
+		`nItemID`                -> 1012057
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #163
+
+		`liCashItemSN`           -> 1295925889108013056
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Eye Accessory
+		`nItemID`                -> 1022048
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #164
+
+		`liCashItemSN`           -> 1295925889569386496
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Earrings
+		`nItemID`                -> 1032024
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #165
+
+		`liCashItemSN`           -> 1295926111296954368
+		`ItemName`               -> Doll's Nightwear
+		`nItemID`                -> 1053257
+		`nAttribute`             -> 32
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #166
+
+		`liCashItemSN`           -> 1295925889976233984
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Shoes
+		`nItemID`                -> 1072153
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #167
+
+		`liCashItemSN`           -> 1295925890190143488
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Gloves
+		`nItemID`                -> 1082102
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #168
+
+		`liCashItemSN`           -> 1295926196827320320
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Cape
+		`nItemID`                -> 1102039
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #169
+
+		`liCashItemSN`           -> 1295925889766518784
+		`ftDateExpire`           -> 1605600000000
+		`ItemName`               -> Transparent Katara
+		`nItemID`                -> 1342069
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #170
+
+		`liCashItemSN`           -> 1269557419026149376
+		`ItemName`               -> Universal Transparent Weapon
+		`nItemID`                -> 1702585
+		`nAttribute`             -> 32
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #171
+
+		`liSN`                   -> 1295932160120856576
+		`ItemName`               -> Vanquisher Of Nightmares
+		`nItemID`                -> 1143029
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`niMaxHP`                -> 1000
+		`niMaxMP`                -> 1000
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #172
+
+		`liSN`                   -> 1295947879059427328
+		`ItemName`               -> Rose
+		`nItemID`                -> 1162005
+		`nPosition`              -> 29
+		`niLUK`                  -> 3
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #173
+
+		`liSN`                   -> 1303252805993254912
+		`ItemName`               -> Arcane Umbra Guards
+		`nItemID`                -> 1472265
+		`nPosition`              -> 124
+		`nRUC`                   -> 8
+		`niDEX`                  -> 100
+		`niLUK`                  -> 100
+		`niPAD`                  -> 149
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +13% 
+		`nSoulOptionID`          -> 591
+		`nSoulSocketID`          -> 11
+		`nSoulOption`            -> 306
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #174
+
+		`liSN`                   -> 1303252896896405504
+		`ItemName`               -> Arcane Umbra Katara
+		`nItemID`                -> 1342104
+		`nCUC`                   -> 10
+		`niSTR`                  -> 30
+		`niDEX`                  -> 175
+		`niINT`                  -> 30
+		`niLUK`                  -> 240
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 481
+		`niMAD`                  -> 294
+		`nIUC`                   -> 2
+		`nAttribute`             -> 296
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +13% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #175
+
+		`liSN`                   -> 1302467611736604672
+		`ItemName`               -> Meister Ring
+		`nItemID`                -> 1113055
+		`nCUC`                   -> 3
+		`niSTR`                  -> 125
+		`niDEX`                  -> 123
+		`niINT`                  -> 118
+		`niLUK`                  -> 118
+		`niMaxHP`                -> 463
+		`niMaxMP`                -> 464
+		`niPAD`                  -> 122
+		`niMAD`                  -> 120
+		`niPDD`                  -> 454
+		`nIUC`                   -> 2
+		`nAttribute`             -> 136
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> LUK: +13% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK: +8% 
+		`nOption5`               -> LUK: +8% 
+		`nOption6`               -> LUK: +8% 
+		`sTitle`                 -> Laya
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #176
+
+		`liSN`                   -> 1303261105581330432
+		`ItemName`               -> Arcane Umbra Thief Cape
+		`nItemID`                -> 1102943
+		`nCUC`                   -> 9
+		`niSTR`                  -> 125
+		`niDEX`                  -> 270
+		`niINT`                  -> 125
+		`niLUK`                  -> 270
+		`nfiLUK`                 -> 77
+		`niMaxHP`                -> 255
+		`nfiMaxHP`               -> 3600
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 138
+		`niMAD`                  -> 138
+		`nfiMAD`                 -> 6
+		`niPDD`                  -> 1640
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 296
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> LUK: +13% 
+		`nOption2`               -> LUK: +10% 
+		`nOption3`               -> LUK: +13% 
+		`nOption4`               -> LUK per 10 Character Levels: +2 
+		`nOption5`               -> LUK per 10 Character Levels: +2 
+		`nOption6`               -> LUK per 10 Character Levels: +2 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #177
+
+		`liSN`                   -> 1303257051992035328
+		`ItemName`               -> Arcane Umbra Dagger
+		`nItemID`                -> 1332279
+		`nCUC`                   -> 10
+		`niSTR`                  -> 30
+		`niDEX`                  -> 275
+		`niINT`                  -> 30
+		`niLUK`                  -> 275
+		`nfiLUK`                 -> 44
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 664
+		`nfiPAD`                 -> 73
+		`niMAD`                  -> 294
+		`nfiPDD`                 -> 44
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 20
+		`nfiDamR`                -> 6
+		`nAttribute`             -> 296
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 23
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> Boss Monster Damage: +40% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +13% 
+		`nOption6`               -> ATT: +13% 
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #178
+
+		`liSN`                   -> 1295838204490129408
+		`ItemName`               -> Arcane Symbol: Vanishing Journey
+		`nItemID`                -> 1712001
+		`niLUK`                  -> 1900
+		`nArcaneForce`           -> 190
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 17
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #179
+
+		`liSN`                   -> 1295838209879810048
+		`ItemName`               -> Arcane Symbol: Chu Chu Island
+		`nItemID`                -> 1712002
+		`niLUK`                  -> 1900
+		`nArcaneForce`           -> 190
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 17
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #180
+
+		`liSN`                   -> 1295838212887126016
+		`ItemName`               -> Arcane Symbol: Lachelein
+		`nItemID`                -> 1712003
+		`niLUK`                  -> 1900
+		`nArcaneForce`           -> 190
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 17
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #181
+
+		`liSN`                   -> 1295838215969939456
+		`ItemName`               -> Arcane Symbol: Arcana
+		`nItemID`                -> 1712004
+		`niLUK`                  -> 1900
+		`nArcaneForce`           -> 190
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 17
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #182
+
+		`liSN`                   -> 1295838218905952256
+		`ItemName`               -> Arcane Symbol: Morass
+		`nItemID`                -> 1712005
+		`niLUK`                  -> 1900
+		`nArcaneForce`           -> 190
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 17
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #183
+
+		`liSN`                   -> 1295838221569335296
+		`ItemName`               -> Arcane Symbol: Esfera
+		`nItemID`                -> 1712006
+		`niLUK`                  -> 1900
+		`nArcaneForce`           -> 190
+		`nArcaneExp`             -> 28
+		`nArcaneLevel`           -> 17
+		`sTitle`                 -> Snow
+
+
+Character: `Snow` (177288)
+Account:   `plpw` (10887)
+
+	Equip Item #184
+
+		`liSN`                   -> 1295834558440321024
+		`ItemName`               -> Frenzy Totem
+		`nItemID`                -> 1202236
+		`niSTR`                  -> 30
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`nLevel`                 -> 1
+		`nAttribute`             -> 8
+		`sTitle`                 -> Snow
+
+
+Character: `ablink4234` (177289)
+Account:   `plpw` (10887)
+
+	Equip Item #185
+
+		`liSN`                   -> 1293025811523432448
+		`ItemName`               -> Nova Training Suit
+		`nItemID`                -> 1051293
+		`nRUC`                   -> 10
+
+
+Character: `ablink4234` (177289)
+Account:   `plpw` (10887)
+
+	Equip Item #186
+
+		`liSN`                   -> 1293025811523432449
+		`ItemName`               -> Nova Training Shoes
+		`nItemID`                -> 1071041
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `ablink4234` (177289)
+Account:   `plpw` (10887)
+
+	Equip Item #187
+
+		`liSN`                   -> 1293025811523432450
+		`ItemName`               -> Purple Haze
+		`nItemID`                -> 1222000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+
+
+Character: `ablink4234` (177289)
+Account:   `plpw` (10887)
+
+	Equip Item #188
+
+		`liSN`                   -> 1293025871388610563
+		`ItemName`               -> Purple Haze
+		`nItemID`                -> 1222001
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+
+
+Character: `ablink4234` (177289)
+Account:   `plpw` (10887)
+
+	Equip Item #189
+
+		`liSN`                   -> 1293025930796732416
+		`ItemName`               -> Green Soul Ring
+		`nItemID`                -> 1352604
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 899
+		`niPDD`                  -> 300
+
+
+Character: `ablink4234` (177289)
+Account:   `plpw` (10887)
+
+	Equip Item #190
+
+		`liSN`                   -> 1293025871388610562
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `kinesislink4` (177290)
+Account:   `plpw` (10887)
+
+	Equip Item #191
+
+		`liSN`                   -> 1293026041128022016
+		`ItemName`               -> School for the Gifted Uniform
+		`nItemID`                -> 1051443
+
+
+Character: `kinesislink4` (177290)
+Account:   `plpw` (10887)
+
+	Equip Item #192
+
+		`liSN`                   -> 1293026041128022017
+		`ItemName`               -> School for the Gifted Shoes
+		`nItemID`                -> 1073081
+
+
+Character: `kinesislink4` (177290)
+Account:   `plpw` (10887)
+
+	Equip Item #193
+
+		`liSN`                   -> 1293026041128022018
+		`ItemName`               -> Prototype Psy-limiter
+		`nItemID`                -> 1262000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+
+
+Character: `kinesislink4` (177290)
+Account:   `plpw` (10887)
+
+	Equip Item #194
+
+		`liSN`                   -> 1293026067048697859
+		`ItemName`               -> Prototype Psy-limiter
+		`nItemID`                -> 1262000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+
+
+Character: `kinesislink4` (177290)
+Account:   `plpw` (10887)
+
+	Equip Item #195
+
+		`liSN`                   -> 1293026067048697860
+		`ItemName`               -> Pawn Chess Piece
+		`nItemID`                -> 1353200
+		`nPosition`              -> 2
+		`niINT`                  -> 1
+		`niLUK`                  -> 1
+
+
+Character: `kinesislink4` (177290)
+Account:   `plpw` (10887)
+
+	Equip Item #196
+
+		`liSN`                   -> 1293026067048697858
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `zero0000` (177292)
+Account:   `plpw` (10887)
+
+	Equip Item #197
+
+		`liSN`                   -> 1293026220057030656
+		`ItemName`               -> Shadow Knight Suit
+		`nItemID`                -> 1052606
+		`nRUC`                   -> 7
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niPDD`                  -> 150
+
+
+Character: `zero0000` (177292)
+Account:   `plpw` (10887)
+
+	Equip Item #198
+
+		`liSN`                   -> 1293026220057030657
+		`ItemName`               -> Shadow Knight Shoes
+		`nItemID`                -> 1072814
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 1
+		`niPDD`                  -> 60
+
+
+Character: `zero0000` (177292)
+Account:   `plpw` (10887)
+
+	Equip Item #199
+
+		`liSN`                   -> 1293026220057030658
+		`ItemName`               -> Massive Shadow
+		`nItemID`                -> 1562000
+		`niPAD`                  -> 97
+
+
+Character: `zero0000` (177292)
+Account:   `plpw` (10887)
+
+	Equip Item #200
+
+		`liSN`                   -> 1293026220057030659
+		`ItemName`               -> Sharp Shadow
+		`nItemID`                -> 1572000
+		`niPAD`                  -> 95
+
+
+Character: `zero0000` (177292)
+Account:   `plpw` (10887)
+
+	Equip Item #201
+
+		`liSN`                   -> 1293026249601585154
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `sniperpew` (177345)
+Account:   `plpw` (10887)
+
+	Equip Item #202
+
+		`liSN`                   -> 1293047146794446848
+		`ItemName`               -> Purple Muffler Outfit
+		`nItemID`                -> 1051354
+		`niPDD`                  -> 5
+
+
+Character: `sniperpew` (177345)
+Account:   `plpw` (10887)
+
+	Equip Item #203
+
+		`liSN`                   -> 1293047146794446849
+		`ItemName`               -> Purple Adventure Shoes
+		`nItemID`                -> 1072834
+		`niPDD`                  -> 2
+
+
+Character: `sniperpew` (177345)
+Account:   `plpw` (10887)
+
+	Equip Item #204
+
+		`liSN`                   -> 1293047146794446850
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `sniperpew` (177345)
+Account:   `plpw` (10887)
+
+	Equip Item #205
+
+		`liSN`                   -> 1293047183783890947
+		`ItemName`               -> War Bow
+		`nItemID`                -> 1452002
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `sniperpew` (177345)
+Account:   `plpw` (10887)
+
+	Equip Item #206
+
+		`liSN`                   -> 1293047183783890946
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `hoyung123213` (177346)
+Account:   `plpw` (10887)
+
+	Equip Item #207
+
+		`liSN`                   -> 1293047748136005632
+		`ItemName`               -> Apprentice Sage Uniform
+		`nItemID`                -> 1051597
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+
+
+Character: `hoyung123213` (177346)
+Account:   `plpw` (10887)
+
+	Equip Item #208
+
+		`liSN`                   -> 1293047748136005633
+		`ItemName`               -> Apprentice Sage Shoes
+		`nItemID`                -> 1073369
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `hoyung123213` (177346)
+Account:   `plpw` (10887)
+
+	Equip Item #209
+
+		`liSN`                   -> 1293047748136005634
+		`ItemName`               -> Black Cloud Ritual Fan
+		`nItemID`                -> 1292029
+		`niPAD`                  -> 28
+
+
+Character: `hoyung123213` (177346)
+Account:   `plpw` (10887)
+
+	Equip Item #210
+
+		`liSN`                   -> 1293047770952896515
+		`ItemName`               -> Mano Fan Tassel
+		`nItemID`                -> 1353800
+		`nPosition`              -> 1
+		`niDEX`                  -> 3
+		`niLUK`                  -> 3
+
+
+Character: `hoyung123213` (177346)
+Account:   `plpw` (10887)
+
+	Equip Item #211
+
+		`liSN`                   -> 1293047770952896514
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `aranlink9090` (177347)
+Account:   `plpw` (10887)
+
+	Equip Item #212
+
+		`liSN`                   -> 1293047890499072000
+		`ItemName`               -> Simple Warrior Top
+		`nItemID`                -> 1042167
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `aranlink9090` (177347)
+Account:   `plpw` (10887)
+
+	Equip Item #213
+
+		`liSN`                   -> 1293047890499072001
+		`ItemName`               -> Simple Warrior Pants
+		`nItemID`                -> 1062115
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `aranlink9090` (177347)
+Account:   `plpw` (10887)
+
+	Equip Item #214
+
+		`liSN`                   -> 1293047890499072002
+		`ItemName`               -> Musashi Shoes
+		`nItemID`                -> 1072383
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `aranlink9090` (177347)
+Account:   `plpw` (10887)
+
+	Equip Item #215
+
+		`liSN`                   -> 1293047890499072003
+		`ItemName`               -> Basic Polearm
+		`nItemID`                -> 1442079
+		`nRUC`                   -> 7
+		`niPAD`                  -> 22
+
+
+Character: `aranlink9090` (177347)
+Account:   `plpw` (10887)
+
+	Equip Item #216
+
+		`liSN`                   -> 1293047919364149250
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `evanlink5050` (177350)
+Account:   `plpw` (10887)
+
+	Equip Item #217
+
+		`liSN`                   -> 1293048496202706944
+		`ItemName`               -> Checkered Shirt
+		`nItemID`                -> 1042180
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `evanlink5050` (177350)
+Account:   `plpw` (10887)
+
+	Equip Item #218
+
+		`liSN`                   -> 1293048496202706945
+		`ItemName`               -> Denim Skirt
+		`nItemID`                -> 1061160
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `evanlink5050` (177350)
+Account:   `plpw` (10887)
+
+	Equip Item #219
+
+		`liSN`                   -> 1293048496202706946
+		`ItemName`               -> Black Boots 
+		`nItemID`                -> 1072418
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `evanlink5050` (177350)
+Account:   `plpw` (10887)
+
+	Equip Item #220
+
+		`liSN`                   -> 1293048496202706947
+		`ItemName`               -> Pig Herding Stick
+		`nItemID`                -> 1302350
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `evanlink5050` (177350)
+Account:   `plpw` (10887)
+
+	Equip Item #221
+
+		`liSN`                   -> 1293048798481879043
+		`ItemName`               -> Wooden Staff
+		`nItemID`                -> 1382000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 20
+		`niMAD`                  -> 25
+
+
+Character: `evanlink5050` (177350)
+Account:   `plpw` (10887)
+
+	Equip Item #222
+
+		`liSN`                   -> 1293048798481879042
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #223
+
+		`liSN`                   -> 1293049605105381376
+		`ItemName`               -> Bladed Falcon's Happuri
+		`nItemID`                -> 1003567
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #224
+
+		`liSN`                   -> 1293049605105381377
+		`ItemName`               -> Bladed Falcon's Armor
+		`nItemID`                -> 1052473
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #225
+
+		`liSN`                   -> 1293049605105381378
+		`ItemName`               -> Bladed Falcon's Suneate
+		`nItemID`                -> 1072678
+		`nRUC`                   -> 5
+		`niPDD`                  -> 4
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #226
+
+		`liSN`                   -> 1293049605105381379
+		`ItemName`               -> Mist Cutter
+		`nItemID`                -> 1542044
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #227
+
+		`liSN`                   -> 1293049638177345539
+		`ItemName`               -> Simple Iron Sword
+		`nItemID`                -> 1542000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #228
+
+		`liSN`                   -> 1293049638177345540
+		`ItemName`               -> White Tiger Blade
+		`nItemID`                -> 1352804
+		`nPosition`              -> 2
+		`niSTR`                  -> 1
+
+
+Character: `hayatolink88` (177354)
+Account:   `plpw` (10887)
+
+	Equip Item #229
+
+		`liSN`                   -> 1293049638177345538
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `nwlink090` (177355)
+Account:   `plpw` (10887)
+
+	Equip Item #230
+
+		`liSN`                   -> 1293049866037227520
+		`ItemName`               -> Noblesse Robe
+		`nItemID`                -> 1051334
+		`niPDD`                  -> 5
+
+
+Character: `nwlink090` (177355)
+Account:   `plpw` (10887)
+
+	Equip Item #231
+
+		`liSN`                   -> 1293049866037227521
+		`ItemName`               -> Noblesse Shoes
+		`nItemID`                -> 1072785
+		`niPDD`                  -> 2
+
+
+Character: `nwlink090` (177355)
+Account:   `plpw` (10887)
+
+	Equip Item #232
+
+		`liSN`                   -> 1293049866037227522
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `nwlink090` (177355)
+Account:   `plpw` (10887)
+
+	Equip Item #233
+
+		`liSN`                   -> 1293049899398598659
+		`ItemName`               -> Garnier
+		`nItemID`                -> 1472000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 10
+
+
+Character: `nwlink090` (177355)
+Account:   `plpw` (10887)
+
+	Equip Item #234
+
+		`liSN`                   -> 1293049899398598660
+		`ItemName`               -> Fruit Knife
+		`nItemID`                -> 1332007
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`niPAD`                  -> 22
+
+
+Character: `nwlink090` (177355)
+Account:   `plpw` (10887)
+
+	Equip Item #235
+
+		`liSN`                   -> 1293049899398598658
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #236
+
+		`liSN`                   -> 1293050042630008832
+		`ItemName`               -> Deneb Top
+		`nItemID`                -> 1042288
+		`niPDD`                  -> 3
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #237
+
+		`liSN`                   -> 1293050042630008833
+		`ItemName`               -> Deneb Skirt
+		`nItemID`                -> 1061208
+		`niPDD`                  -> 2
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #238
+
+		`liSN`                   -> 1293050042630008834
+		`ItemName`               -> Deneb Shoes
+		`nItemID`                -> 1072891
+		`niPDD`                  -> 2
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #239
+
+		`liSN`                   -> 1293050042630008835
+		`ItemName`               -> Rusty Steel Knuckler
+		`nItemID`                -> 1482191
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #240
+
+		`liSN`                   -> 1293050078671540227
+		`ItemName`               -> Steel Knuckler
+		`nItemID`                -> 1482000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #241
+
+		`liSN`                   -> 1293050078671540228
+		`ItemName`               -> Blue Fox Marble
+		`nItemID`                -> 1353100
+		`nPosition`              -> 2
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+
+
+Character: `shadelink900` (177356)
+Account:   `plpw` (10887)
+
+	Equip Item #242
+
+		`liSN`                   -> 1293050078671540226
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `mechanicmule` (177357)
+Account:   `plpw` (10887)
+
+	Equip Item #243
+
+		`liSN`                   -> 1293050303612186624
+		`ItemName`               -> Red Swimming Suit
+		`nItemID`                -> 1051222
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `mechanicmule` (177357)
+Account:   `plpw` (10887)
+
+	Equip Item #244
+
+		`liSN`                   -> 1293050303612186625
+		`ItemName`               -> Leather Sandals
+		`nItemID`                -> 1072005
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `mechanicmule` (177357)
+Account:   `plpw` (10887)
+
+	Equip Item #245
+
+		`liSN`                   -> 1293050303612186626
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `mechanicmule` (177357)
+Account:   `plpw` (10887)
+
+	Equip Item #246
+
+		`liSN`                   -> 1293050339636940800
+		`ItemName`               -> Pistol
+		`nItemID`                -> 1492000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 13
+
+
+Character: `mechanicmule` (177357)
+Account:   `plpw` (10887)
+
+	Equip Item #247
+
+		`liSN`                   -> 1293050339632746498
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `jettlink9090` (177359)
+Account:   `plpw` (10887)
+
+	Equip Item #248
+
+		`liSN`                   -> 1293050479328358400
+		`ItemName`               -> Jett's Outfit
+		`nItemID`                -> 1051283
+		`nRUC`                   -> 10
+		`niPDD`                  -> 15
+
+
+Character: `jettlink9090` (177359)
+Account:   `plpw` (10887)
+
+	Equip Item #249
+
+		`liSN`                   -> 1293050479328358401
+		`ItemName`               -> Jett's Boots
+		`nItemID`                -> 1072661
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `jettlink9090` (177359)
+Account:   `plpw` (10887)
+
+	Equip Item #250
+
+		`liSN`                   -> 1293050479328358402
+		`ItemName`               -> Gaussfield Mark
+		`nItemID`                -> 1492150
+		`nRUC`                   -> 7
+		`niPAD`                  -> 13
+
+
+Character: `jettlink9090` (177359)
+Account:   `plpw` (10887)
+
+	Equip Item #251
+
+		`liSN`                   -> 1293050508914855938
+		`ItemName`               -> Pistol
+		`nItemID`                -> 1492000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 13
+
+
+Character: `jettlink9090` (177359)
+Account:   `plpw` (10887)
+
+	Equip Item #252
+
+		`liSN`                   -> 1293050508914855939
+		`ItemName`               -> Basic Fist
+		`nItemID`                -> 1352820
+		`nPosition`              -> 2
+		`niSTR`                  -> 1
+		`niDEX`                  -> 1
+
+
+Character: `jettlink9090` (177359)
+Account:   `plpw` (10887)
+
+	Equip Item #253
+
+		`liSN`                   -> 1293050508914855937
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `shadowerknif` (177361)
+Account:   `plpw` (10887)
+
+	Equip Item #254
+
+		`liSN`                   -> 1293050698057117696
+		`ItemName`               -> Blue Muffler Outfit
+		`nItemID`                -> 1051353
+		`niPDD`                  -> 5
+
+
+Character: `shadowerknif` (177361)
+Account:   `plpw` (10887)
+
+	Equip Item #255
+
+		`liSN`                   -> 1293050698057117697
+		`ItemName`               -> Yellow Adventure Shoes
+		`nItemID`                -> 1072833
+		`niPDD`                  -> 2
+
+
+Character: `shadowerknif` (177361)
+Account:   `plpw` (10887)
+
+	Equip Item #256
+
+		`liSN`                   -> 1293050698057117698
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `shadowerknif` (177361)
+Account:   `plpw` (10887)
+
+	Equip Item #257
+
+		`liSN`                   -> 1293050731993108483
+		`ItemName`               -> Garnier
+		`nItemID`                -> 1472000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 10
+
+
+Character: `shadowerknif` (177361)
+Account:   `plpw` (10887)
+
+	Equip Item #258
+
+		`liSN`                   -> 1293050731993108484
+		`ItemName`               -> Fruit Knife
+		`nItemID`                -> 1332007
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`niPAD`                  -> 22
+
+
+Character: `shadowerknif` (177361)
+Account:   `plpw` (10887)
+
+	Equip Item #259
+
+		`liSN`                   -> 1293050731993108482
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `blastermule` (177362)
+Account:   `plpw` (10887)
+
+	Equip Item #260
+
+		`liSN`                   -> 1293050886708523008
+		`ItemName`               -> Mini Brown Overalls
+		`nItemID`                -> 1051216
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `blastermule` (177362)
+Account:   `plpw` (10887)
+
+	Equip Item #261
+
+		`liSN`                   -> 1293050886708523009
+		`ItemName`               -> Dandy Silver Sneaks
+		`nItemID`                -> 1072497
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `blastermule` (177362)
+Account:   `plpw` (10887)
+
+	Equip Item #262
+
+		`liSN`                   -> 1293050886708523010
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `blastermule` (177362)
+Account:   `plpw` (10887)
+
+	Equip Item #263
+
+		`liSN`                   -> 1293050924696211459
+		`ItemName`               -> Hand Buster
+		`nItemID`                -> 1582000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+
+
+Character: `blastermule` (177362)
+Account:   `plpw` (10887)
+
+	Equip Item #264
+
+		`liSN`                   -> 1293050924696211460
+		`ItemName`               -> Rudimentary Charges
+		`nItemID`                -> 1353400
+		`nPosition`              -> 2
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+
+
+Character: `blastermule` (177362)
+Account:   `plpw` (10887)
+
+	Equip Item #265
+
+		`liSN`                   -> 1293050924696211458
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `linkmule1234` (183440)
+Account:   `plpw` (10887)
+
+	Equip Item #266
+
+		`liSN`                   -> 1295829343381221376
+		`ItemName`               -> Noblesse Robe
+		`nItemID`                -> 1051334
+		`niPDD`                  -> 5
+
+
+Character: `linkmule1234` (183440)
+Account:   `plpw` (10887)
+
+	Equip Item #267
+
+		`liSN`                   -> 1295829343381221377
+		`ItemName`               -> Noblesse Shoes
+		`nItemID`                -> 1072785
+		`niPDD`                  -> 2
+
+
+Character: `linkmule1234` (183440)
+Account:   `plpw` (10887)
+
+	Equip Item #268
+
+		`liSN`                   -> 1295829343381221378
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `linkmule1234` (183440)
+Account:   `plpw` (10887)
+
+	Equip Item #269
+
+		`liSN`                   -> 1295829380035121155
+		`ItemName`               -> War Bow
+		`nItemID`                -> 1452002
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `linkmule1234` (183440)
+Account:   `plpw` (10887)
+
+	Equip Item #270
+
+		`liSN`                   -> 1295829380035121154
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `Adelemule190` (183442)
+Account:   `plpw` (10887)
+
+	Equip Item #271
+
+		`liSN`                   -> 1295829535669088256
+		`ItemName`               -> null
+		`nItemID`                -> 1053526
+		`nRUC`                   -> 7
+		`niPDD`                  -> 10
+
+
+Character: `Adelemule190` (183442)
+Account:   `plpw` (10887)
+
+	Equip Item #272
+
+		`liSN`                   -> 1295829535669088257
+		`ItemName`               -> null
+		`nItemID`                -> 1073414
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `Adelemule190` (183442)
+Account:   `plpw` (10887)
+
+	Equip Item #273
+
+		`liSN`                   -> 1295829535669088258
+		`ItemName`               -> null
+		`nItemID`                -> 1213029
+		`niPAD`                  -> 15
+
+
+Character: `Adelemule190` (183442)
+Account:   `plpw` (10887)
+
+	Equip Item #274
+
+		`liSN`                   -> 1295829569718325249
+		`ItemName`               -> null
+		`nItemID`                -> 1354000
+		`nPosition`              -> 1
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+
+
+Character: `Adelemule190` (183442)
+Account:   `plpw` (10887)
+
+	Equip Item #275
+
+		`liSN`                   -> 1295829569718325248
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `cadenamule12` (183444)
+Account:   `plpw` (10887)
+
+	Equip Item #276
+
+		`liSN`                   -> 1295829731186569216
+		`ItemName`               -> Agent Suit
+		`nItemID`                -> 1051532
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `cadenamule12` (183444)
+Account:   `plpw` (10887)
+
+	Equip Item #277
+
+		`liSN`                   -> 1295829731186569217
+		`ItemName`               -> Agent Shoes
+		`nItemID`                -> 1073231
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `cadenamule12` (183444)
+Account:   `plpw` (10887)
+
+	Equip Item #278
+
+		`liSN`                   -> 1295829731186569218
+		`ItemName`               -> Practice Chain
+		`nItemID`                -> 1272026
+		`niPAD`                  -> 15
+
+
+Character: `cadenamule12` (183444)
+Account:   `plpw` (10887)
+
+	Equip Item #279
+
+		`liSN`                   -> 1295829764468248576
+		`ItemName`               -> Transmitter Type-D
+		`nItemID`                -> 1353300
+		`nPosition`              -> 1
+		`niDEX`                  -> 3
+		`niLUK`                  -> 3
+
+
+Character: `cadenamule12` (183444)
+Account:   `plpw` (10887)
+
+	Equip Item #280
+
+		`liSN`                   -> 1295829764455665666
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `merclink4234` (183445)
+Account:   `plpw` (10887)
+
+	Equip Item #281
+
+		`liSN`                   -> 1295829950347341824
+		`ItemName`               -> Elven Crystal Suit
+		`nItemID`                -> 1051237
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `merclink4234` (183445)
+Account:   `plpw` (10887)
+
+	Equip Item #282
+
+		`liSN`                   -> 1295829950347341825
+		`ItemName`               -> Elven Crystal Shoes
+		`nItemID`                -> 1072519
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `merclink4234` (183445)
+Account:   `plpw` (10887)
+
+	Equip Item #283
+
+		`liSN`                   -> 1295829950347341826
+		`ItemName`               -> Trusty & Faithful
+		`nItemID`                -> 1522038
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `merclink4234` (183445)
+Account:   `plpw` (10887)
+
+	Equip Item #284
+
+		`liSN`                   -> 1295830018794065920
+		`ItemName`               -> Trusty & Faithful
+		`nItemID`                -> 1522000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `merclink4234` (183445)
+Account:   `plpw` (10887)
+
+	Equip Item #285
+
+		`liSN`                   -> 1295830018794065921
+		`ItemName`               -> Magic Arrows
+		`nItemID`                -> 1352000
+		`nPosition`              -> 2
+
+
+Character: `merclink4234` (183445)
+Account:   `plpw` (10887)
+
+	Equip Item #286
+
+		`liSN`                   -> 1295830018777288706
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `tbmule213` (183448)
+Account:   `plpw` (10887)
+
+	Equip Item #287
+
+		`liSN`                   -> 1295830251519340544
+		`ItemName`               -> Noblesse Robe
+		`nItemID`                -> 1051334
+		`niPDD`                  -> 5
+
+
+Character: `tbmule213` (183448)
+Account:   `plpw` (10887)
+
+	Equip Item #288
+
+		`liSN`                   -> 1295830251519340545
+		`ItemName`               -> Noblesse Shoes
+		`nItemID`                -> 1072785
+		`niPDD`                  -> 2
+
+
+Character: `tbmule213` (183448)
+Account:   `plpw` (10887)
+
+	Equip Item #289
+
+		`liSN`                   -> 1295830251519340546
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `tbmule213` (183448)
+Account:   `plpw` (10887)
+
+	Equip Item #290
+
+		`liSN`                   -> 1295830287384711171
+		`ItemName`               -> Steel Knuckler
+		`nItemID`                -> 1482000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 18
+
+
+Character: `tbmule213` (183448)
+Account:   `plpw` (10887)
+
+	Equip Item #291
+
+		`liSN`                   -> 1295830287384711170
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `bamlink101` (183676)
+Account:   `plpw` (10887)
+
+	Equip Item #292
+
+		`liSN`                   -> 1295953585552748544
+		`ItemName`               -> Violet Strapless Dress
+		`nItemID`                -> 1051225
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `bamlink101` (183676)
+Account:   `plpw` (10887)
+
+	Equip Item #293
+
+		`liSN`                   -> 1295953585552748545
+		`ItemName`               -> Dandy Silver Sneaks
+		`nItemID`                -> 1072497
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `bamlink101` (183676)
+Account:   `plpw` (10887)
+
+	Equip Item #294
+
+		`liSN`                   -> 1295953585552748546
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `bamlink101` (183676)
+Account:   `plpw` (10887)
+
+	Equip Item #295
+
+		`liSN`                   -> 1295953619526488067
+		`ItemName`               -> Wooden Staff
+		`nItemID`                -> 1382000
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 20
+		`niMAD`                  -> 25
+
+
+Character: `bamlink101` (183676)
+Account:   `plpw` (10887)
+
+	Equip Item #296
+
+		`liSN`                   -> 1295953619526488066
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `wildlink101` (183677)
+Account:   `plpw` (10887)
+
+	Equip Item #297
+
+		`liSN`                   -> 1295953738162499584
+		`ItemName`               -> Red Swimming Suit
+		`nItemID`                -> 1051222
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `wildlink101` (183677)
+Account:   `plpw` (10887)
+
+	Equip Item #298
+
+		`liSN`                   -> 1295953738162499585
+		`ItemName`               -> Dandy Silver Sneaks
+		`nItemID`                -> 1072497
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `wildlink101` (183677)
+Account:   `plpw` (10887)
+
+	Equip Item #299
+
+		`liSN`                   -> 1295953738162499586
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `wildlink101` (183677)
+Account:   `plpw` (10887)
+
+	Equip Item #300
+
+		`liSN`                   -> 1295953764653600771
+		`ItemName`               -> Beginner Crossbowman's Crossbow
+		`nItemID`                -> 1462092
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 25
+
+
+Character: `wildlink101` (183677)
+Account:   `plpw` (10887)
+
+	Equip Item #301
+
+		`liSN`                   -> 1295953764653600770
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000
+
+
+Character: `herolink101` (183681)
+Account:   `plpw` (10887)
+
+	Equip Item #302
+
+		`liSN`                   -> 1295954104191021056
+		`ItemName`               -> Purple Muffler Outfit
+		`nItemID`                -> 1051354
+		`niPDD`                  -> 5
+
+
+Character: `herolink101` (183681)
+Account:   `plpw` (10887)
+
+	Equip Item #303
+
+		`liSN`                   -> 1295954104191021057
+		`ItemName`               -> Yellow Adventure Shoes
+		`nItemID`                -> 1072833
+		`niPDD`                  -> 2
+
+
+Character: `herolink101` (183681)
+Account:   `plpw` (10887)
+
+	Equip Item #304
+
+		`liSN`                   -> 1295954104191021058
+		`ItemName`               -> Sword
+		`nItemID`                -> 1302000
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `herolink101` (183681)
+Account:   `plpw` (10887)
+
+	Equip Item #305
+
+		`liSN`                   -> 1295954128874377219
+		`ItemName`               -> Long Sword
+		`nItemID`                -> 1302007
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+
+
+Character: `herolink101` (183681)
+Account:   `plpw` (10887)
+
+	Equip Item #306
+
+		`liSN`                   -> 1295954128874377218
+		`ItemName`               -> Crusader Codex
+		`nItemID`                -> 1172000

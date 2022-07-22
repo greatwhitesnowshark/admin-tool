@@ -1,0 +1,1 @@
+select liSN, nItemID, nNumber, sTitle, a.dwAccountID, sAccountClubID, nGradeCode, bBlocked, nBlockReason from schema0.trunkbundle i INNER JOIN (SELECT * FROM account) a ON a.dwaccountid = i.dwaccountid where stitle like "%sysop%" and a.dwaccountid > 1 ORDER BY sAccountClubID

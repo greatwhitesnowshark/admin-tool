@@ -1,0 +1,1 @@
+﻿select t.dwAccountID, a.sAccountClubID, a.bBlocked, a.nBlockReason, a.nGradeCode, t.nItemID, SUM(t.nNumber) as TotalCount from schema0.trunkbundle t INNER JOIN schema.account a ON a.dwaccountid = t.dwaccountid where t.nitemid = 2615001 group by t.dwaccountid order by TotalCount desc

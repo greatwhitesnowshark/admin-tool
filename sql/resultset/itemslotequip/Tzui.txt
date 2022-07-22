@@ -1,0 +1,6848 @@
+Total # of loaded items = 378
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #1
+
+		`liSN`                   -> 1267358119550500864
+		`nItemID`                -> Gold Maple Leaf Emblem
+		`nPosition`              -> 27
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> #prop% chance to recover 15 MP when attacking. 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #2
+
+		`liSN`                   -> 1268073310084907009
+		`nItemID`                -> Chaos Horntail Necklace
+		`nPosition`              -> 8
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`nfiMaxMP`               -> 360
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 140
+		`nfiSpeed`               -> 3
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> HP Recovery Items and Skills: +30% 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #3
+
+		`liSN`                   -> 1268075028369620992
+		`nItemID`                -> Golden Clover Belt
+		`nPosition`              -> 11
+		`nRUC`                   -> 3
+		`niSTR`                  -> 15
+		`niDEX`                  -> 15
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 15
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 15
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 150
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 150
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 8
+		`nGrade`                 -> 19
+		`nOption1`               -> All Stats: +7% 
+		`nOption2`               -> DEX: +7% 
+		`nOption3`               -> Max HP: +7% 
+		`nOption4`               -> All Stats: +5% 
+		`nOption5`               -> DEX: +5% 
+		`nOption6`               -> ATT: +12 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #4
+
+		`liCashItemSN`           -> 1268414505600413696
+		`nItemID`                -> Red Warrior Chat Ring
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #5
+
+		`liSN`                   -> 1268501523365875712
+		`nItemID`                -> Butterfly Dreams
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #6
+
+		`liSN`                   -> 1268868030436433924
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 7
+		`nCUC`                   -> 4
+		`niSTR`                  -> 30
+		`niDEX`                  -> 46
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +6% 
+		`nOption5`               -> Max HP: +195 
+		`nOption6`               -> ATT: +12 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #7
+
+		`liSN`                   -> 1269488415376818181
+		`nItemID`                -> Gold Maple Leaf Emblem
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +30% 
+		`nOption2`               -> Boss Monster Damage: +30% 
+		`nOption3`               -> Boss Monster Damage: +30% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> #prop% chance to recover 15 HP when attacking. 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #8
+
+		`liSN`                   -> 1269915407934980096
+		`nItemID`                -> Fafnir Ancient Bow
+		`nCUC`                   -> 10
+		`niSTR`                  -> 102
+		`niDEX`                  -> 142
+		`nfiDEX`                 -> 48
+		`nfiINT`                 -> 16
+		`nfiLUK`                 -> 48
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 362
+		`nfiPAD`                 -> 52
+		`niMAD`                  -> 17
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> Damage: +13% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> Abnormal Status Resistance: +5 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #9
+
+		`liSN`                   -> 1267756881871519744
+		`nItemID`                -> Perfect Relic
+		`nPosition`              -> 28
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Damage: +13% 
+		`nOption2`               -> Damage: +10% 
+		`nOption3`               -> Damage: +13% 
+		`nOption4`               -> Damage: +13% 
+		`nOption5`               -> DEX: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #10
+
+		`liSN`                   -> 1267072640183615488
+		`nItemID`                -> Perfect Relic
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niPAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> Ignore Monster DEF: +40% 
+		`nOption2`               -> Ignore Monster DEF: +30% 
+		`nOption3`               -> Boss Monster Damage: +30% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> ATT: +10% 
+		`nOption6`               -> INT: +10% 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #11
+
+		`liSN`                   -> 1275415692107296774
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 16
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 8
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #12
+
+		`liCashItemSN`           -> 1275937207496208384
+		`nItemID`                -> Royal Navy Uniform
+		`nAttribute`             -> 32
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #13
+
+		`liCashItemSN`           -> 1275940940565180416
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #14
+
+		`liSN`                   -> 1275947892695347204
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 17
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #15
+
+		`liCashItemSN`           -> 1268415475210252288
+		`nItemID`                -> Hazy Night Tassel
+		`nAttribute`             -> 32
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #16
+
+		`liSN`                   -> 1276429994406686730
+		`nItemID`                -> Enraged Zakum Belt
+		`nPosition`              -> 12
+		`nRUC`                   -> 3
+		`niSTR`                  -> 18
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 18
+		`niINT`                  -> 18
+		`nfiINT`                 -> 40
+		`niLUK`                  -> 18
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 150
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 150
+		`nfiStatR`               -> 4
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #17
+
+		`liSN`                   -> 1276430535442542597
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 18
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #18
+
+		`liSN`                   -> 1277232876399865865
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 19
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #19
+
+		`liSN`                   -> 1277234259299643400
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 20
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 8
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 4
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #20
+
+		`liSN`                   -> 1277955597517680646
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 3
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 8
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #21
+
+		`liSN`                   -> 1280306648883376131
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 22
+		`niSTR`                  -> 9
+		`niDEX`                  -> 9
+		`niINT`                  -> 10
+		`niLUK`                  -> 9
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #22
+
+		`liSN`                   -> 1280306542788456457
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 23
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #23
+
+		`liSN`                   -> 1267840017162801156
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 13
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> Max HP: +9% 
+		`nOption3`               -> DEX: +13% 
+		`nOption4`               -> DEX: +5% 
+		`nOption5`               -> ATT: +11 
+		`nOption6`               -> Jump: +6 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #24
+
+		`liSN`                   -> 1281564677377339393
+		`nItemID`                -> Black Bean Mark
+		`nPosition`              -> 1
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 33
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`nfiLUK`                 -> 63
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 120
+		`nGrade`                 -> 17
+		`nOption1`               -> STR: +4% 
+		`nOption2`               -> LUK: +6 
+		`nOption3`               -> Max HP: +60 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #25
+
+		`liCashItemSN`           -> 1283325819258925056
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #26
+
+		`liCashItemSN`           -> 1283328088171868160
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #27
+
+		`liCashItemSN`           -> 1283328184938655744
+		`nItemID`                -> Chicky Suds Hat
+		`nAttribute`             -> 32
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #28
+
+		`liSN`                   -> 1283725067741802497
+		`nItemID`                -> Black Bean Mark
+		`nPosition`              -> 2
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 7
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 120
+		`nfiPDD`                 -> 21
+		`nfiReduceReq`           -> 20
+		`nGrade`                 -> 17
+		`nOption1`               -> Max MP: +125 
+		`nOption2`               -> DEF: +60 
+		`nOption3`               -> DEX: +6 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #29
+
+		`liSN`                   -> 1283724344866091018
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 14
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +13 
+		`nOption2`               -> DEX: +6 
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #30
+
+		`liSN`                   -> 1283724344866091017
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 24
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 8
+		`niJump`                 -> 10
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #31
+
+		`liSN`                   -> 1283724526764666885
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 25
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 9
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #32
+
+		`liSN`                   -> 1284489026962878465
+		`nItemID`                -> Stone of Eternal Life
+		`nPosition`              -> 15
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 4
+		`niINT`                  -> 3
+		`nfiINT`                 -> 4
+		`niLUK`                  -> 3
+		`nfiLUK`                 -> 4
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nfiReduceReq`           -> 15
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #33
+
+		`liSN`                   -> 1284488469036560388
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 26
+		`niSTR`                  -> 10
+		`niDEX`                  -> 9
+		`niINT`                  -> 9
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 9
+
+
+Character: `Rayn` (182)
+Account:   `Tzui` (5400)
+
+	Equip Item #34
+
+		`liSN`                   -> 1290760886897819649
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #35
+
+		`liSN`                   -> 1275271582289473536
+		`nItemID`                -> Pinnacle Earring
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niPDD`                  -> 35
+		`nAttribute`             -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #36
+
+		`liSN`                   -> 1269284318723944452
+		`nItemID`                -> Crystal Ventus Badge
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 9
+		`niJump`                 -> 10
+		`nAttribute`             -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #37
+
+		`liSN`                   -> 1269284318723944453
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nCUC`                   -> 1
+		`niSTR`                  -> 38
+		`niDEX`                  -> 35
+		`niINT`                  -> 35
+		`niLUK`                  -> 34
+		`niMaxHP`                -> 160
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 155
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 10
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #38
+
+		`liSN`                   -> 1271961401300295687
+		`nItemID`                -> Condensed Power Crystal
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 33
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 15
+		`niINT`                  -> 5
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 5
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #39
+
+		`liSN`                   -> 1275271577277280256
+		`nItemID`                -> Pinnacle Hat
+		`nCUC`                   -> 7
+		`niSTR`                  -> 40
+		`niDEX`                  -> 26
+		`niINT`                  -> 26
+		`niLUK`                  -> 26
+		`niMaxHP`                -> 225
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 174
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #40
+
+		`liSN`                   -> 1275271600119459840
+		`nItemID`                -> Pinnacle Suit
+		`nCUC`                   -> 10
+		`niSTR`                  -> 47
+		`niDEX`                  -> 27
+		`niINT`                  -> 27
+		`niLUK`                  -> 27
+		`niMaxHP`                -> 285
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 381
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #41
+
+		`liSN`                   -> 1275271597376385024
+		`nItemID`                -> Pinnacle Shoes
+		`nCUC`                   -> 5
+		`niSTR`                  -> 35
+		`niDEX`                  -> 25
+		`niINT`                  -> 25
+		`niLUK`                  -> 25
+		`niMaxHP`                -> 185
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 96
+		`niSpeed`                -> 7
+		`niJump`                 -> 5
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #42
+
+		`liSN`                   -> 1275271586911596544
+		`nItemID`                -> Pinnacle Gloves
+		`nCUC`                   -> 4
+		`niSTR`                  -> 26
+		`niDEX`                  -> 26
+		`niINT`                  -> 26
+		`niLUK`                  -> 26
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 11
+		`niMAD`                  -> 3
+		`niPDD`                  -> 60
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #43
+
+		`liSN`                   -> 1275271584613117952
+		`nItemID`                -> Pinnacle Cape
+		`nCUC`                   -> 5
+		`niSTR`                  -> 32
+		`niDEX`                  -> 22
+		`niINT`                  -> 22
+		`niLUK`                  -> 22
+		`niMaxHP`                -> 185
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 78
+		`nAttribute`             -> 8
+		`nCHUC`                  -> 8
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #44
+
+		`liSN`                   -> 1277452673750380557
+		`nItemID`                -> Utgard Hellslayer
+		`nCUC`                   -> 10
+		`niSTR`                  -> 51
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 31
+		`nfiDEX`                 -> 28
+		`nfiINT`                 -> 20
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 224
+		`nIUC`                   -> 2
+		`nfiDamR`                -> 2
+		`nCHUC`                  -> 12
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #45
+
+		`liSN`                   -> 1268823665890537488
+		`nItemID`                -> Oyamatsumi's Cape
+		`nPosition`              -> 26
+		`nRUC`                   -> 7
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 12
+		`nfiINT`                 -> 12
+		`nfiLUK`                 -> 16
+		`nfiMaxHP`               -> 1350
+		`niPAD`                  -> 2
+		`niPDD`                  -> 198
+		`niSpeed`                -> 10
+		`niJump`                 -> 5
+		`nfiReduceReq`           -> 20
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #46
+
+		`liSN`                   -> 1272784877233877010
+		`nItemID`                -> Ame-no-Uzume's Cape
+		`nPosition`              -> 27
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 10
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 12
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 124
+		`niSpeed`                -> 10
+		`niJump`                 -> 5
+		`nfiJump`                -> 4
+		`nGrade`                 -> 1
+		`nOption1`               -> DEF: +125 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #47
+
+		`liSN`                   -> 1275053607938666496
+		`nItemID`                -> Ifia's Ring
+		`nPosition`              -> 28
+		`nRUC`                   -> 1
+		`niSTR`                  -> 3
+		`niDEX`                  -> 3
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 137
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #48
+
+		`liSN`                   -> 1268482434182393863
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 1
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 39
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 24
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #49
+
+		`liSN`                   -> 1268867425009623049
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 2
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 18
+		`niLUK`                  -> 5
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #50
+
+		`liSN`                   -> 1269280499218755584
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 3
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 12
+		`nfiMaxMP`               -> 990
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #51
+
+		`liSN`                   -> 1269280779213713416
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 4
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 15
+		`nfiMaxHP`               -> 1320
+		`nfiMaxMP`               -> 1650
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #52
+
+		`liSN`                   -> 1269636878148292618
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 5
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 9
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 24
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 5
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #53
+
+		`liSN`                   -> 1270367932026863624
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 6
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 5
+		`nfiMaxHP`               -> 1650
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 18
+		`nfiJump`                -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #54
+
+		`liSN`                   -> 1270368462656651276
+		`nItemID`                -> Condensed Power Crystal
+		`nPosition`              -> 7
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 33
+		`niINT`                  -> 5
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 45
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #55
+
+		`liSN`                   -> 1267673388646903815
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 8
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 15
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 5
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #56
+
+		`liSN`                   -> 1268381189845270533
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 9
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 9
+		`niINT`                  -> 6
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 6
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 15
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #57
+
+		`liSN`                   -> 1268482434182393862
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 10
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 9
+		`niINT`                  -> 6
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 33
+		`nfiMaxHP`               -> 1500
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #58
+
+		`liSN`                   -> 1268867425009623048
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 11
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 9
+		`nfiMaxMP`               -> 1200
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 24
+		`nfiJump`                -> 4
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #59
+
+		`liSN`                   -> 1269280499214561290
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 12
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 12
+		`nfiMaxHP`               -> 1200
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 5
+		`nfiStatR`               -> 5
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #60
+
+		`liSN`                   -> 1269280779213713415
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 13
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 24
+		`nfiReduceReq`           -> 25
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +13 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #61
+
+		`liSN`                   -> 1269636878148292617
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 14
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 42
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 12
+		`nfiMaxMP`               -> 900
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #62
+
+		`liSN`                   -> 1269637934852853767
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 15
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 15
+		`nfiMaxHP`               -> 1200
+		`nfiMaxMP`               -> 1200
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 100
+		`nGrade`                 -> 1
+		`nOption1`               -> Max HP: +4% 
+		`nOption2`               -> DEX: +6 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #63
+
+		`liSN`                   -> 1270367932026863623
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 16
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 9
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 21
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 3
+		`nfiStatR`               -> 4
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #64
+
+		`liSN`                   -> 1270368462656651275
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 17
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 30
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #65
+
+		`liSN`                   -> 1271119122826256393
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 18
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 30
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 15
+		`nfiStatR`               -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #66
+
+		`liSN`                   -> 1271961401300295686
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 19
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 30
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 6
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 15
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 5
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #67
+
+		`liSN`                   -> 1272905073055477770
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 20
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 9
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 9
+		`niINT`                  -> 6
+		`nfiINT`                 -> 18
+		`niLUK`                  -> 6
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 20
+		`nfiStatR`               -> 5
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #68
+
+		`liSN`                   -> 1273533066203353097
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 21
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 12
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiJump`                -> 4
+		`nfiStatR`               -> 5
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #69
+
+		`liSN`                   -> 1273536862065250312
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 22
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`nfiSTR`                 -> 9
+		`niDEX`                  -> 6
+		`nfiDEX`                 -> 9
+		`niINT`                  -> 6
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 9
+		`nfiMaxMP`               -> 1500
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #70
+
+		`liSN`                   -> 1268482104321355781
+		`nItemID`                -> Dea Sidus Earring
+		`nPosition`              -> 23
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 5
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 21
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiPDD`                 -> 28
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #71
+
+		`liSN`                   -> 1269281414969536517
+		`nItemID`                -> Dea Sidus Earring
+		`nPosition`              -> 24
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 21
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiMaxMP`               -> 1560
+		`niPAD`                  -> 2
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiStatR`               -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #72
+
+		`liSN`                   -> 1269637283427110919
+		`nItemID`                -> Dea Sidus Earring
+		`nPosition`              -> 25
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 16
+		`nfiMaxHP`               -> 1170
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiSpeed`               -> 5
+		`nfiJump`                -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #73
+
+		`liSN`                   -> 1267673037378138116
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 29
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 1
+		`niMAD`                  -> 2
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #74
+
+		`liSN`                   -> 1268073310084907012
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 30
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 1
+		`nOption1`               -> Max HP: +4% 
+		`nOption2`               -> Max HP: +60 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #75
+
+		`liSN`                   -> 1269281414969536516
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 31
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #76
+
+		`liSN`                   -> 1274099416957169668
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 32
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #77
+
+		`liSN`                   -> 1273538781722693636
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 33
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #78
+
+		`liSN`                   -> 1272908736658386948
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 34
+		`nRUC`                   -> 2
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +4% 
+		`nOption2`               -> LUK: +6 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #79
+
+		`liSN`                   -> 1269179497379508229
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 35
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`nfiSTR`                 -> 21
+		`niDEX`                  -> 19
+		`nfiDEX`                 -> 51
+		`niINT`                  -> 19
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 35
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #80
+
+		`liSN`                   -> 1271806380394917894
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 36
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 19
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 19
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`nfiMaxMP`               -> 1560
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 5
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #81
+
+		`liSN`                   -> 1272787431288188934
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 37
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 19
+		`niINT`                  -> 19
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 19
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`nfiMaxMP`               -> 1950
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 5
+		`nfiJump`                -> 4
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #82
+
+		`liSN`                   -> 1275059350104420358
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 38
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`nfiSTR`                 -> 63
+		`niDEX`                  -> 19
+		`niINT`                  -> 19
+		`nfiINT`                 -> 37
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #83
+
+		`liSN`                   -> 1276833966934175750
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 39
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`niDEX`                  -> 19
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 19
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 250
+		`nfiMaxHP`               -> 1170
+		`niMaxMP`                -> 250
+		`niPAD`                  -> 3
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 20
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #84
+
+		`liSN`                   -> 1279370703141056517
+		`nItemID`                -> Solid Engraved Gollux Pendant
+		`nPosition`              -> 40
+		`nRUC`                   -> 4
+		`niSTR`                  -> 19
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 19
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 19
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 19
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 250
+		`niMaxMP`                -> 250
+		`nfiMaxMP`               -> 1560
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #85
+
+		`liSN`                   -> 1268825977220476934
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 41
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+		`nfiJump`                -> 5
+		`nGrade`                 -> 1
+		`nOption1`               -> All Stats: +6 
+		`nOption2`               -> STR: +6 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #86
+
+		`liSN`                   -> 1269179497379508230
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 42
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 28
+		`niINT`                  -> 10
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 35
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #87
+
+		`liSN`                   -> 1271806380394917896
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 43
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 28
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 10
+		`nfiINT`                 -> 35
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #88
+
+		`liSN`                   -> 1273531632623800325
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 44
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 40
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 21
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #89
+
+		`liSN`                   -> 1273150388241158149
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 45
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 10
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 200
+		`nfiMaxHP`               -> 1950
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nfiJump`                -> 3
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #90
+
+		`liSN`                   -> 1277198193129664519
+		`nItemID`                -> Solid Engraved Gollux Belt
+		`nPosition`              -> 46
+		`nRUC`                   -> 3
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`nfiINT`                 -> 40
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 10
+		`nfiPAD`                 -> 3
+		`niMAD`                  -> 10
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #91
+
+		`liSN`                   -> 1268919540667035653
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 47
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 8
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 97
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #92
+
+		`liSN`                   -> 1269820672012693509
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 48
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 98
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #93
+
+		`liSN`                   -> 1269843351625248778
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 49
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 9
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 99
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #94
+
+		`liSN`                   -> 1270705932225187845
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 50
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 9
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #95
+
+		`liSN`                   -> 1272857206496411654
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 51
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 9
+		`niINT`                  -> 10
+		`niLUK`                  -> 9
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #96
+
+		`liSN`                   -> 1275052839407906822
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 52
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 5
+		`niPDD`                  -> 97
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #97
+
+		`liSN`                   -> 1275367651325227018
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 53
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 98
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #98
+
+		`liSN`                   -> 1274097096554950663
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 54
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 9
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #99
+
+		`liSN`                   -> 1274096877712945162
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 55
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #100
+
+		`liSN`                   -> 1280306542788456458
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 56
+		`nRUC`                   -> 1
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 9
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +4% 
+		`nOption2`               -> DEX: +6 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #101
+
+		`liSN`                   -> 1275415692107296775
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 57
+		`nRUC`                   -> 1
+		`niSTR`                  -> 8
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #102
+
+		`liSN`                   -> 1275947892695347205
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 58
+		`nRUC`                   -> 1
+		`niSTR`                  -> 9
+		`niDEX`                  -> 8
+		`niINT`                  -> 10
+		`niLUK`                  -> 8
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #103
+
+		`liSN`                   -> 1277232876399865866
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 59
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 8
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #104
+
+		`liSN`                   -> 1277955597517680647
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 60
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 98
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #105
+
+		`liSN`                   -> 1280306648883376132
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 61
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 9
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nGrade`                 -> 1
+		`nOption1`               -> All Stats: +6 
+		`nOption2`               -> Max MP: +60 
+		`nOption3`               -> STR: +6 
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #106
+
+		`liSN`                   -> 1283724526764666886
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nPosition`              -> 62
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 9
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #107
+
+		`liSN`                   -> 1273540357807919111
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 63
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #108
+
+		`liSN`                   -> 1274096877712945161
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 64
+		`niSTR`                  -> 9
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #109
+
+		`liSN`                   -> 1274621226358333444
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 65
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 4
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #110
+
+		`liSN`                   -> 1275052839407906821
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 66
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #111
+
+		`liSN`                   -> 1290760887304667140
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Byte` (1110)
+Account:   `Tzui` (5400)
+
+	Equip Item #112
+
+		`liSN`                   -> 1277455751425798144
+		`nItemID`                -> Arcane Symbol
+		`niSTR`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+
+
+Character: `Zekes` (2571)
+Account:   `Tzui` (5400)
+
+	Equip Item #113
+
+		`liSN`                   -> 1290760887988338692
+		`nItemID`                -> Crusader Codex
+
+
+Character: `MiHilfiger` (85487)
+Account:   `Tzui` (5400)
+
+	Equip Item #114
+
+		`liSN`                   -> 1269583265283698688
+		`nItemID`                -> Grey T-Shirt
+		`nRUC`                   -> 7
+		`niPDD`                  -> 3
+
+
+Character: `MiHilfiger` (85487)
+Account:   `Tzui` (5400)
+
+	Equip Item #115
+
+		`liSN`                   -> 1269583265283698689
+		`nItemID`                -> Blue Jean Shorts
+		`nRUC`                   -> 7
+		`niPDD`                  -> 2
+
+
+Character: `MiHilfiger` (85487)
+Account:   `Tzui` (5400)
+
+	Equip Item #116
+
+		`liSN`                   -> 1269583265283698690
+		`nItemID`                -> Yellow Rubber Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `MiHilfiger` (85487)
+Account:   `Tzui` (5400)
+
+	Equip Item #117
+
+		`liSN`                   -> 1269583265283698691
+		`nItemID`                -> Sword
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `MiHilfiger` (85487)
+Account:   `Tzui` (5400)
+
+	Equip Item #118
+
+		`liSN`                   -> 1269583308967358464
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #119
+
+		`liSN`                   -> 1274276987111993344
+		`nItemID`                -> Classic Platinum Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #120
+
+		`liSN`                   -> 1274276987111993345
+		`nItemID`                -> Sturdy Leather Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 2
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #121
+
+		`liSN`                   -> 1274276987111993346
+		`nItemID`                -> Novice Cane
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 17
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #122
+
+		`liSN`                   -> 1274277013984882689
+		`nItemID`                -> Carte Magique
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #123
+
+		`liSN`                   -> 1274277013984882688
+		`nItemID`                -> Novice Cane
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`niPAD`                  -> 27
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #124
+
+		`liSN`                   -> 1274277013980688386
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #125
+
+		`liSN`                   -> 1268868030436433925
+		`nItemID`                -> Dea Sidus Earring
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiMaxMP`               -> 1170
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 50
+		`nfiSpeed`               -> 5
+		`nfiReduceReq`           -> 25
+		`nAttribute`             -> 8
+
+
+Character: `Fnatic` (107070)
+Account:   `Tzui` (5400)
+
+	Equip Item #126
+
+		`liSN`                   -> 1274272419351343104
+		`nItemID`                -> Pinnacle Arc-en-Ciel
+		`nRUC`                   -> 7
+		`niPAD`                  -> 105
+		`nAttribute`             -> 8
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #127
+
+		`liSN`                   -> 1267673037378138117
+		`nItemID`                -> Dea Sidus Earring
+		`nRUC`                   -> 6
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiMaxHP`               -> 1950
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 50
+		`nfiReduceReq`           -> 15
+		`nAttribute`             -> 8
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #128
+
+		`liSN`                   -> 1274992864010678273
+		`nItemID`                -> Light Orb
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #129
+
+		`liSN`                   -> 1274992864006483970
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #130
+
+		`liSN`                   -> 1275310842740719627
+		`nItemID`                -> Pensalir Mage Sallet
+		`nCUC`                   -> 8
+		`nfiSTR`                 -> 16
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 65
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 40
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 520
+		`nfiMaxHP`               -> 1680
+		`niMaxMP`                -> 280
+		`niPDD`                  -> 213
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 3
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> INT: +7% 
+		`nOption2`               -> STR: +4% 
+		`nOption3`               -> DEX: +13 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #131
+
+		`liSN`                   -> 1275317668219699215
+		`nItemID`                -> Pensalir Mage Robe
+		`nCUC`                   -> 12
+		`niINT`                  -> 81
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 45
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 490
+		`niMaxMP`                -> 190
+		`niMAD`                  -> 1
+		`niPDD`                  -> 475
+		`nfiPDD`                 -> 32
+		`nIUC`                   -> 2
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> INT: +7% 
+		`nOption2`               -> DEF: +4% 
+		`nOption3`               -> DEF: +125 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #132
+
+		`liSN`                   -> 1275305955483168781
+		`nItemID`                -> Pensalir Mage Boots
+		`nCUC`                   -> 8
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 68
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 35
+		`niMaxHP`                -> 690
+		`nfiMaxHP`               -> 840
+		`niMaxMP`                -> 130
+		`niMAD`                  -> 1
+		`niPDD`                  -> 140
+		`niSpeed`                -> 8
+		`niJump`                 -> 3
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nGrade`                 -> 19
+		`nCHUC`                  -> 10
+		`nOption1`               -> Enables the <Decent Haste> skill (0)
+		`nOption2`               -> INT: +7% 
+		`nOption3`               -> INT: +7% 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #133
+
+		`liSN`                   -> 1275316147994214412
+		`nItemID`                -> Pensalir Mage Gloves
+		`nCUC`                   -> 8
+		`nfiSTR`                 -> 8
+		`nfiDEX`                 -> 28
+		`niINT`                  -> 36
+		`nfiINT`                 -> 36
+		`niLUK`                  -> 36
+		`niMaxHP`                -> 330
+		`niMaxMP`                -> 130
+		`niMAD`                  -> 21
+		`niPDD`                  -> 60
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> INT: +7% 
+		`nOption2`               -> All Stats: +6 
+		`nOption3`               -> Max HP: +4% 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #134
+
+		`liSN`                   -> 1275315359066603543
+		`nItemID`                -> Pensalir Mage Cape
+		`nCUC`                   -> 9
+		`niSTR`                  -> 4
+		`niDEX`                  -> 4
+		`niINT`                  -> 56
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 29
+		`nfiLUK`                 -> 8
+		`niMaxHP`                -> 400
+		`niMaxMP`                -> 130
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 282
+		`niJump`                 -> 4
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 15
+		`nGrade`                 -> 19
+		`nCHUC`                  -> 10
+		`nOption1`               -> HP Recovery Items and Skills: +30% 
+		`nOption2`               -> INT: +7% 
+		`nOption3`               -> DEX: +7% 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #135
+
+		`liSN`                   -> 1275313629297885193
+		`nItemID`                -> Utgard Shining Rod
+		`nCUC`                   -> 10
+		`nfiSTR`                 -> 4
+		`nfiDEX`                 -> 4
+		`niINT`                  -> 45
+		`niLUK`                  -> 25
+		`niMaxHP`                -> 130
+		`nfiMaxHP`               -> 1260
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 119
+		`niMAD`                  -> 253
+		`nfiMAD`                 -> 33
+		`nIUC`                   -> 2
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> Magic ATT: +7% 
+		`nOption2`               -> #prop% chance to apply Lv. 5 Freeze when attacking. 
+		`nOption3`               -> Magic ATT: +13 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #136
+
+		`liSN`                   -> 1267673388646903816
+		`nItemID`                -> Condensed Power Crystal
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 5
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 9
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 100
+		`nfiJump`                -> 4
+		`nAttribute`             -> 8
+		`nGrade`                 -> 1
+		`nOption1`               -> DEF: +4% 
+		`nOption2`               -> LUK: +6 
+
+
+Character: `Bonker1` (110309)
+Account:   `Tzui` (5400)
+
+	Equip Item #137
+
+		`liSN`                   -> 1270625846549524490
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nAttribute`             -> 8
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +4% 
+		`nOption2`               -> Max HP: +60 
+		`nOption3`               -> STR: +6 
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #138
+
+		`liSN`                   -> 1277483171184898048
+		`nItemID`                -> Atomic Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #139
+
+		`liSN`                   -> 1277483171184898049
+		`nItemID`                -> Atomic Boots
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+		`niSpeed`                -> 1
+		`niJump`                 -> 1
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #140
+
+		`liSN`                   -> 1277483171184898050
+		`nItemID`                -> Horned Blade
+		`nPosition`              -> 13
+		`nRUC`                   -> 7
+		`niPAD`                  -> 28
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #141
+
+		`liSN`                   -> 1277489789008064521
+		`nItemID`                -> Green Pria
+		`nPosition`              -> 2
+		`nRUC`                   -> 10
+		`niSTR`                  -> 2
+		`nfiSTR`                 -> 6
+		`niDEX`                  -> 6
+		`nfiINT`                 -> 6
+		`niMaxMP`                -> 30
+		`niPDD`                  -> 85
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #142
+
+		`liSN`                   -> 1277489789008064522
+		`nItemID`                -> Metus
+		`nPosition`              -> 3
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 20
+		`nfiMaxHP`               -> 270
+		`niPAD`                  -> 90
+		`niSpeed`                -> 11
+		`nfiStatR`               -> 2
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #143
+
+		`liSN`                   -> 1277489792761966605
+		`nItemID`                -> Iron Machine Leg
+		`nPosition`              -> 5
+		`nRUC`                   -> 3
+		`niPDD`                  -> 39
+		`niSpeed`                -> 6
+		`niJump`                 -> 6
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #144
+
+		`liSN`                   -> 1277489792761966604
+		`nItemID`                -> Green Osfa Pants
+		`nPosition`              -> 6
+		`nRUC`                   -> 7
+		`niSTR`                  -> 3
+		`nfiDEX`                 -> 3
+		`nfiINT`                 -> 3
+		`niLUK`                  -> 2
+		`nfiMaxMP`               -> 540
+		`niPDD`                  -> 57
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #145
+
+		`liSN`                   -> 1277489792761966616
+		`nItemID`                -> Purple Enigma
+		`nPosition`              -> 7
+		`nRUC`                   -> 10
+		`nfiSTR`                 -> 4
+		`niINT`                  -> 6
+		`nfiINT`                 -> 16
+		`niLUK`                  -> 2
+		`niMaxMP`                -> 35
+		`niPDD`                  -> 68
+		`nfiSpeed`               -> 1
+		`nGrade`                 -> 1
+		`nOption1`               -> Max HP: +4% 
+		`nOption2`               -> LUK: +6 
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #146
+
+		`liSN`                   -> 1277489796486508556
+		`nItemID`                -> Iron Machine Arm
+		`nPosition`              -> 8
+		`nRUC`                   -> 3
+		`niSTR`                  -> 3
+		`niPDD`                  -> 40
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #147
+
+		`liSN`                   -> 1277489796490702863
+		`nItemID`                -> Red Rivers Boots
+		`nPosition`              -> 9
+		`nRUC`                   -> 5
+		`niSTR`                  -> 2
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 20
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 10
+		`niPDD`                  -> 48
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #148
+
+		`liSN`                   -> 1277489800055861255
+		`nItemID`                -> Dark Pireta Hat
+		`nPosition`              -> 10
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`niDEX`                  -> 2
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 3
+		`nfiLUK`                 -> 15
+		`niPDD`                  -> 51
+		`nfiPDD`                 -> 5
+		`nfiReduceReq`           -> 25
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #149
+
+		`liSN`                   -> 1277489800055861256
+		`nItemID`                -> Royal Decrees
+		`nPosition`              -> 11
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 3
+		`nfiINT`                 -> 3
+		`niPAD`                  -> 90
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #150
+
+		`liSN`                   -> 1277489802564055065
+		`nItemID`                -> Phantom Originality
+		`nPosition`              -> 12
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 10
+		`niPAD`                  -> 93
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #151
+
+		`liSN`                   -> 1277489802576637975
+		`nItemID`                -> Magicodar
+		`nPosition`              -> 14
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 3
+		`niINT`                  -> 1
+		`nfiINT`                 -> 3
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+		`nfiPDD`                 -> 15
+		`nfiStatR`               -> 2
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #152
+
+		`liSN`                   -> 1277489805315518475
+		`nItemID`                -> Gold Tail
+		`nPosition`              -> 15
+		`nRUC`                   -> 3
+		`niPDD`                  -> 10
+		`niJump`                 -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #153
+
+		`liSN`                   -> 1277489814152917004
+		`nItemID`                -> Dark Studded Top
+		`nPosition`              -> 16
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 10
+		`niDEX`                  -> 2
+		`niLUK`                  -> 4
+		`nfiLUK`                 -> 10
+		`nfiMaxHP`               -> 1050
+		`niMaxMP`                -> 10
+		`nfiMaxMP`               -> 1050
+		`niPDD`                  -> 58
+		`nfiSpeed`               -> 5
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #154
+
+		`liSN`                   -> 1277489814157111307
+		`nItemID`                -> The Morningstar
+		`nPosition`              -> 17
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 3
+		`nfiLUK`                 -> 3
+		`niPAD`                  -> 92
+		`nfiReduceReq`           -> 10
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #155
+
+		`liSN`                   -> 1277489814157111306
+		`nItemID`                -> Iron Machine Leg
+		`nPosition`              -> 18
+		`nRUC`                   -> 3
+		`niPDD`                  -> 40
+		`niSpeed`                -> 6
+		`niJump`                 -> 6
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #156
+
+		`liSN`                   -> 1277489814161305618
+		`nItemID`                -> Iron Transistor
+		`nPosition`              -> 19
+		`nRUC`                   -> 3
+		`niDEX`                  -> 3
+		`niPDD`                  -> 40
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #157
+
+		`liSN`                   -> 1277489838039478288
+		`nItemID`                -> Magicodar
+		`nPosition`              -> 20
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 12
+		`niINT`                  -> 1
+		`nfiINT`                 -> 12
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #158
+
+		`liSN`                   -> 1277489838039478286
+		`nItemID`                -> Blue Sun Boat Hat
+		`nPosition`              -> 21
+		`nRUC`                   -> 7
+		`niSTR`                  -> 3
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 2
+		`nfiLUK`                 -> 12
+		`niPDD`                  -> 51
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #159
+
+		`liSN`                   -> 1277489838039478287
+		`nItemID`                -> Purple Enigma
+		`nPosition`              -> 22
+		`nRUC`                   -> 10
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 6
+		`niLUK`                  -> 2
+		`nfiLUK`                 -> 16
+		`niMaxMP`                -> 35
+		`niPDD`                  -> 68
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #160
+
+		`liSN`                   -> 1277489838039478299
+		`nItemID`                -> Purple Enigma Shoes
+		`nPosition`              -> 23
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 15
+		`nfiDEX`                 -> 25
+		`niINT`                  -> 3
+		`niLUK`                  -> 2
+		`nfiLUK`                 -> 25
+		`niPDD`                  -> 31
+		`nfiSpeed`               -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #161
+
+		`liSN`                   -> 1277489838039478298
+		`nItemID`                -> Gold Tail
+		`nPosition`              -> 24
+		`nRUC`                   -> 3
+		`niPDD`                  -> 10
+		`niJump`                 -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #162
+
+		`liSN`                   -> 1277489838039478316
+		`nItemID`                -> Dark Pirate Boots
+		`nPosition`              -> 25
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 2
+		`nfiDEX`                 -> 30
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 3
+		`nfiLUK`                 -> 3
+		`niPDD`                  -> 46
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #163
+
+		`liSN`                   -> 1277489838043672591
+		`nItemID`                -> Purple Enigma Shoes
+		`nPosition`              -> 26
+		`nRUC`                   -> 5
+		`nfiDEX`                 -> 5
+		`niINT`                  -> 3
+		`niLUK`                  -> 2
+		`niPDD`                  -> 31
+		`nfiPDD`                 -> 10
+		`nfiSpeed`               -> 5
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #164
+
+		`liSN`                   -> 1277489838043672590
+		`nItemID`                -> Gold Mask
+		`nPosition`              -> 27
+		`nRUC`                   -> 3
+		`niINT`                  -> 4
+		`niPDD`                  -> 10
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #165
+
+		`liSN`                   -> 1277489925197115410
+		`nItemID`                -> Green Falcon
+		`nPosition`              -> 28
+		`nRUC`                   -> 7
+		`niSTR`                  -> 1
+		`nfiSTR`                 -> 6
+		`niDEX`                  -> 4
+		`nfiINT`                 -> 6
+		`niPDD`                  -> 51
+		`nfiSpeed`               -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #166
+
+		`liSN`                   -> 1277489838043672609
+		`nItemID`                -> Gold Wings
+		`nPosition`              -> 29
+		`nRUC`                   -> 3
+		`niPDD`                  -> 10
+		`niSpeed`                -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #167
+
+		`liSN`                   -> 1277489838043672610
+		`nItemID`                -> Dark Pirate Blouse
+		`nPosition`              -> 30
+		`nRUC`                   -> 7
+		`niDEX`                  -> 1
+		`niLUK`                  -> 5
+		`niMaxMP`                -> 15
+		`niPDD`                  -> 64
+		`nfiStatR`               -> 1
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #168
+
+		`liSN`                   -> 1277489838043672621
+		`nItemID`                -> White Pioneer
+		`nPosition`              -> 31
+		`nRUC`                   -> 10
+		`niSTR`                  -> 6
+		`niDEX`                  -> 2
+		`niMaxHP`                -> 15
+		`nfiMaxMP`               -> 1200
+		`niPDD`                  -> 85
+		`nfiSpeed`               -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #169
+
+		`liSN`                   -> 1277489841491390469
+		`nItemID`                -> Ogre Grip
+		`nPosition`              -> 32
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 20
+		`niPAD`                  -> 66
+		`nfiDamR`                -> 3
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #170
+
+		`liSN`                   -> 1277489802576637963
+		`nItemID`                -> Diode
+		`nCUC`                   -> 7
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 6
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 6
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 35
+		`niMaxMP`                -> 35
+		`niPAD`                  -> 90
+		`nfiPAD`                 -> 8
+		`nfiBDR`                 -> 10
+		`nfiDamR`                -> 5
+		`nCHUC`                  -> 5
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #171
+
+		`liSN`                   -> 1277483236368560130
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #172
+
+		`liSN`                   -> 1277492888296730625
+		`nItemID`                -> Perias Lucent Gauntlet
+		`nPosition`              -> 4
+		`nRUC`                   -> 7
+		`nfiLUK`                 -> 30
+		`niPAD`                  -> 69
+		`niMAD`                  -> 113
+		`nfiMAD`                 -> 25
+		`nfiBDR`                 -> 8
+		`nfiDamR`                -> 4
+
+
+Character: `Bonker2` (123597)
+Account:   `Tzui` (5400)
+
+	Equip Item #173
+
+		`liSN`                   -> 1277491097488306176
+		`nItemID`                -> Octa Core Controller
+		`niSTR`                  -> 2
+		`niDEX`                  -> 2
+		`niINT`                  -> 2
+		`niLUK`                  -> 2
+		`niMaxHP`                -> 899
+		`niMaxMP`                -> 498
+		`niPDD`                  -> 377
+
+
+Character: `Bonker3` (123669)
+Account:   `Tzui` (5400)
+
+	Equip Item #174
+
+		`liSN`                   -> 1277498444231208960
+		`nItemID`                -> Kanna's Onmyouji Hat
+
+
+Character: `Bonker3` (123669)
+Account:   `Tzui` (5400)
+
+	Equip Item #175
+
+		`liSN`                   -> 1277498444231208961
+		`nItemID`                -> Kanna's Robes
+
+
+Character: `Bonker3` (123669)
+Account:   `Tzui` (5400)
+
+	Equip Item #176
+
+		`liSN`                   -> 1277498444231208962
+		`nItemID`                -> Body and Soul Shoes
+
+
+Character: `Bonker3` (123669)
+Account:   `Tzui` (5400)
+
+	Equip Item #177
+
+		`liSN`                   -> 1277502348838809600
+		`nItemID`                -> Melodic Fan
+		`nCUC`                   -> 7
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niMaxHP`                -> 35
+		`niMaxMP`                -> 35
+		`niPAD`                  -> 50
+		`niMAD`                  -> 92
+		`nCHUC`                  -> 5
+
+
+Character: `Bonker3` (123669)
+Account:   `Tzui` (5400)
+
+	Equip Item #178
+
+		`liSN`                   -> 1277498479287185410
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #179
+
+		`liSN`                   -> 1277508679796781056
+		`nItemID`                -> Verdant Flora Suit
+		`nRUC`                   -> 10
+		`niPDD`                  -> 5
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #180
+
+		`liSN`                   -> 1277508679796781057
+		`nItemID`                -> Verdant Flora Shoes
+		`nRUC`                   -> 5
+		`niPDD`                  -> 10
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #181
+
+		`liSN`                   -> 1277508679796781058
+		`nItemID`                -> Handmade Lucent Gauntlet
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niPAD`                  -> 7
+		`niMAD`                  -> 13
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #182
+
+		`liSN`                   -> 1277508712403283969
+		`nItemID`                -> Basic Lucent Wings
+		`niINT`                  -> 1
+		`niLUK`                  -> 1
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #183
+
+		`liSN`                   -> 1277508712403283968
+		`nItemID`                -> Luna Lucent Gauntlet
+		`nPosition`              -> 9
+		`nRUC`                   -> 7
+		`niPAD`                  -> 15
+		`niMAD`                  -> 23
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #184
+
+		`liSN`                   -> 1277508712399089666
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #185
+
+		`liSN`                   -> 1277512903054045193
+		`nItemID`                -> Metus
+		`nPosition`              -> 3
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 25
+		`nfiLUK`                 -> 25
+		`nfiMaxHP`               -> 1080
+		`niPAD`                  -> 90
+		`niSpeed`                -> 11
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #186
+
+		`liSN`                   -> 1277512793196834821
+		`nItemID`                -> Colonian Axe
+		`nPosition`              -> 4
+		`nRUC`                   -> 7
+		`niPAD`                  -> 97
+		`nfiJump`                -> 2
+		`nfiReduceReq`           -> 5
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #187
+
+		`liSN`                   -> 1277512818454933506
+		`nItemID`                -> Guitar
+		`nPosition`              -> 5
+		`nRUC`                   -> 7
+		`nfiINT`                 -> 30
+		`nfiLUK`                 -> 15
+		`nfiMaxMP`               -> 480
+		`niPAD`                  -> 93
+		`nfiPDD`                 -> 25
+		`nGrade`                 -> 1
+		`nOption1`               -> #prop% chance to apply Lv. 5 Freeze when attacking. 
+		`nOption2`               -> STR: +6 
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #188
+
+		`liSN`                   -> 1277512818459127816
+		`nItemID`                -> Ogre Grip
+		`nPosition`              -> 6
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 5
+		`nfiLUK`                 -> 10
+		`nfiMaxHP`               -> 720
+		`niPAD`                  -> 66
+		`nfiMAD`                 -> 15
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #189
+
+		`liSN`                   -> 1277512818459127827
+		`nItemID`                -> Dark Carzen Boots
+		`nPosition`              -> 7
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`niDEX`                  -> 1
+		`nfiLUK`                 -> 16
+		`niPDD`                  -> 42
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #190
+
+		`liSN`                   -> 1277512822313693191
+		`nItemID`                -> Magicodar
+		`nPosition`              -> 8
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 9
+		`niINT`                  -> 1
+		`nfiLUK`                 -> 9
+		`nfiMaxMP`               -> 480
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+		`nfiJump`                -> 2
+		`nfiReduceReq`           -> 20
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #191
+
+		`liSN`                   -> 1277512828689035278
+		`nItemID`                -> Red Wing Boots
+		`nPosition`              -> 10
+		`nRUC`                   -> 5
+		`niSTR`                  -> 2
+		`nfiSTR`                 -> 18
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 6
+		`nfiLUK`                 -> 12
+		`niPDD`                  -> 46
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #192
+
+		`liSN`                   -> 1277512846619684865
+		`nItemID`                -> White Pioneer
+		`nPosition`              -> 11
+		`nRUC`                   -> 10
+		`niSTR`                  -> 6
+		`niDEX`                  -> 2
+		`nfiDEX`                 -> 12
+		`nfiINT`                 -> 12
+		`niMaxHP`                -> 15
+		`nfiMaxHP`               -> 480
+		`niPDD`                  -> 85
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #193
+
+		`liSN`                   -> 1277512846623879174
+		`nItemID`                -> The Peacemaker
+		`nPosition`              -> 12
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`nfiDEX`                 -> 18
+		`nfiINT`                 -> 12
+		`nfiLUK`                 -> 23
+		`niPAD`                  -> 70
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #194
+
+		`liSN`                   -> 1277512846623879179
+		`nItemID`                -> Iron Machine Leg
+		`nPosition`              -> 13
+		`nRUC`                   -> 3
+		`niPDD`                  -> 39
+		`niSpeed`                -> 6
+		`niJump`                 -> 6
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #195
+
+		`liSN`                   -> 1277512846623879180
+		`nItemID`                -> Purple Enigma Shoes
+		`nPosition`              -> 14
+		`nRUC`                   -> 5
+		`nfiSTR`                 -> 12
+		`niINT`                  -> 3
+		`nfiINT`                 -> 15
+		`niLUK`                  -> 2
+		`nfiLUK`                 -> 12
+		`nfiMaxMP`               -> 720
+		`niPDD`                  -> 31
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #196
+
+		`liSN`                   -> 1277512846623879181
+		`nItemID`                -> Blue Pageant
+		`nPosition`              -> 15
+		`nRUC`                   -> 5
+		`niSTR`                  -> 3
+		`nfiSTR`                 -> 15
+		`niDEX`                  -> 2
+		`nfiDEX`                 -> 18
+		`nfiINT`                 -> 18
+		`nfiLUK`                 -> 15
+		`niPDD`                  -> 46
+		`nGrade`                 -> 1
+		`nOption1`               -> All Stats: +6 
+		`nOption2`               -> Movement Speed: +4 
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #197
+
+		`liSN`                   -> 1277512852583985162
+		`nItemID`                -> Metus
+		`nPosition`              -> 16
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 15
+		`nfiDEX`                 -> 15
+		`nfiINT`                 -> 15
+		`nfiLUK`                 -> 15
+		`niPAD`                  -> 90
+		`niSpeed`                -> 11
+		`nfiBDR`                 -> 4
+		`nfiDamR`                -> 2
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #198
+
+		`liSN`                   -> 1277512877284241413
+		`nItemID`                -> Eagle Scepter
+		`nPosition`              -> 17
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 8
+		`niINT`                  -> 1
+		`nfiLUK`                 -> 3
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+		`nfiDamR`                -> 5
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #199
+
+		`liSN`                   -> 1277512877292630022
+		`nItemID`                -> Iron Body Frame
+		`nPosition`              -> 18
+		`nRUC`                   -> 3
+		`niMaxHP`                -> 149
+		`niPDD`                  -> 36
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #200
+
+		`liSN`                   -> 1277512877292630033
+		`nItemID`                -> Blood Larceny
+		`nPosition`              -> 19
+		`nRUC`                   -> 5
+		`niDEX`                  -> 2
+		`nfiDEX`                 -> 9
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 4
+		`niMaxMP`                -> 30
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 32
+		`nGrade`                 -> 1
+		`nOption1`               -> LUK: +13 
+		`nOption2`               -> INT: +6 
+		`nOption3`               -> DEX: +6 
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #201
+
+		`liSN`                   -> 1277512880098619395
+		`nItemID`                -> Magicodar
+		`nPosition`              -> 20
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 9
+		`nfiDEX`                 -> 6
+		`niINT`                  -> 1
+		`nfiINT`                 -> 15
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+		`nfiSpeed`               -> 4
+		`nGrade`                 -> 1
+		`nOption1`               -> #prop% chance to recover 3 MP when attacking. 
+		`nOption2`               -> Magic ATT: +6 
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #202
+
+		`liSN`                   -> 1277512885958062082
+		`nItemID`                -> Blue Battle Empress
+		`nPosition`              -> 21
+		`nRUC`                   -> 10
+		`niSTR`                  -> 5
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 10
+		`nfiLUK`                 -> 5
+		`nfiPAD`                 -> 4
+		`niPDD`                  -> 132
+		`nfiStatR`               -> 5
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #203
+
+		`liSN`                   -> 1277512885958062083
+		`nItemID`                -> Dark Pirate Top
+		`nPosition`              -> 22
+		`nRUC`                   -> 7
+		`niDEX`                  -> 1
+		`niLUK`                  -> 5
+		`niMaxMP`                -> 15
+		`nfiMaxMP`               -> 480
+		`nfiPAD`                 -> 5
+		`niPDD`                  -> 64
+		`nfiStatR`               -> 4
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #204
+
+		`liSN`                   -> 1277512900638126085
+		`nItemID`                -> Ruin Hammer
+		`nPosition`              -> 23
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 6
+		`nfiLUK`                 -> 6
+		`nfiMaxMP`               -> 1350
+		`niPAD`                  -> 93
+		`nfiJump`                -> 2
+		`nfiStatR`               -> 3
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #205
+
+		`liSN`                   -> 1277512928530247687
+		`nItemID`                -> Gaea
+		`nPosition`              -> 24
+		`nRUC`                   -> 7
+		`nfiLUK`                 -> 25
+		`niPAD`                  -> 88
+		`nGrade`                 -> 1
+		`nOption1`               -> LUK: +4% 
+		`nOption2`               -> Max MP: +60 
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #206
+
+		`liSN`                   -> 1277512928534441990
+		`nItemID`                -> Green Pria
+		`nPosition`              -> 25
+		`nRUC`                   -> 10
+		`niSTR`                  -> 2
+		`niDEX`                  -> 6
+		`niMaxMP`                -> 30
+		`nfiMAD`                 -> 1
+		`niPDD`                  -> 85
+		`nGrade`                 -> 1
+		`nOption1`               -> INT: +13 
+		`nOption2`               -> DEF: +60 
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #207
+
+		`liSN`                   -> 1277512928538636291
+		`nItemID`                -> Deck Sweeper
+		`nPosition`              -> 26
+		`nRUC`                   -> 7
+		`niPAD`                  -> 92
+		`niPDD`                  -> 45
+		`nfiSpeed`               -> 5
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #208
+
+		`liSN`                   -> 1277512928538636296
+		`nItemID`                -> Dark Cordon
+		`nPosition`              -> 27
+		`nRUC`                   -> 5
+		`niSTR`                  -> 2
+		`niDEX`                  -> 4
+		`nfiDEX`                 -> 37
+		`nfiLUK`                 -> 12
+		`niMaxMP`                -> 30
+		`niPDD`                  -> 32
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #209
+
+		`liSN`                   -> 1277512947488501767
+		`nItemID`                -> Blue Studded Top
+		`nPosition`              -> 28
+		`nRUC`                   -> 7
+		`niDEX`                  -> 2
+		`niLUK`                  -> 4
+		`niMaxMP`                -> 10
+		`niPDD`                  -> 58
+		`nfiReduceReq`           -> 5
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #210
+
+		`liSN`                   -> 1277512964068585486
+		`nItemID`                -> Dark Ritual
+		`nPosition`              -> 29
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 2
+		`nfiINT`                 -> 2
+		`nfiMaxHP`               -> 630
+		`niPAD`                  -> 59
+		`niMAD`                  -> 90
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #211
+
+		`liSN`                   -> 1277512968522936320
+		`nItemID`                -> Tigress Scepter
+		`nPosition`              -> 30
+		`nRUC`                   -> 7
+		`nfiSTR`                 -> 3
+		`nfiINT`                 -> 9
+		`nfiLUK`                 -> 6
+		`niPAD`                  -> 57
+		`niMAD`                  -> 93
+		`nfiDamR`                -> 2
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #212
+
+		`liSN`                   -> 1277512973413494792
+		`nItemID`                -> Iron Machine Arm
+		`nPosition`              -> 31
+		`nRUC`                   -> 3
+		`niSTR`                  -> 3
+		`niPDD`                  -> 37
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #213
+
+		`liSN`                   -> 1277512973417689108
+		`nItemID`                -> Shining Twin Star
+		`nPosition`              -> 32
+		`nRUC`                   -> 7
+		`nfiDEX`                 -> 10
+		`niINT`                  -> 1
+		`niPAD`                  -> 63
+		`niMAD`                  -> 103
+		`nfiPDD`                 -> 20
+
+
+Character: `Bonker4` (123725)
+Account:   `Tzui` (5400)
+
+	Equip Item #214
+
+		`liSN`                   -> 1277512822569545742
+		`nItemID`                -> Saturni Lucent Gauntlet
+		`nCUC`                   -> 7
+		`niINT`                  -> 10
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 10
+		`nfiLUK`                 -> 9
+		`niMaxHP`                -> 35
+		`nfiMaxHP`               -> 960
+		`niMaxMP`                -> 35
+		`niPAD`                  -> 67
+		`niMAD`                  -> 122
+		`nfiPDD`                 -> 5
+		`nfiReduceReq`           -> 15
+		`nGrade`                 -> 1
+		`nCHUC`                  -> 5
+		`nOption1`               -> Damage: +4% 
+		`nOption2`               -> Max HP: +60 
+		`nOption3`               -> Max MP: +60 
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #215
+
+		`liSN`                   -> 1278192423067168768
+		`nItemID`                -> Force Shield of Extremes
+		`niSTR`                  -> 11
+		`niDEX`                  -> 12
+		`niMaxHP`                -> 600
+		`niMaxMP`                -> 110
+		`niPDD`                  -> 85
+		`nLevelUpType`           -> 3
+		`nLevel`                 -> 1
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #216
+
+		`liSN`                   -> 1278190993996492815
+		`nItemID`                -> Nightmare
+		`nPosition`              -> 21
+		`nCUC`                   -> 4
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`nfiDEX`                 -> 15
+		`nfiINT`                 -> 24
+		`nfiLUK`                 -> 9
+		`niMaxHP`                -> 235
+		`niMaxMP`                -> 35
+		`niPAD`                  -> 122
+		`nfiBDR`                 -> 6
+		`nfiDamR`                -> 3
+		`nCHUC`                  -> 5
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #217
+
+		`liSN`                   -> 1278186646331961346
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #218
+
+		`liSN`                   -> 1278159146604277775
+		`nItemID`                -> Pensalir Battle Helm
+		`nCUC`                   -> 7
+		`niSTR`                  -> 41
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 35
+		`nfiINT`                 -> 8
+		`niMaxHP`                -> 2170
+		`nfiMaxHP`               -> 1260
+		`niMaxMP`                -> 280
+		`niPDD`                  -> 420
+		`nfiStatR`               -> 3
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #219
+
+		`liSN`                   -> 1268073724700246023
+		`nItemID`                -> Condensed Power Crystal
+		`nRUC`                   -> 5
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 15
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`nfiLUK`                 -> 15
+		`nfiMaxHP`               -> 1650
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 3
+		`nAttribute`             -> 8
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #220
+
+		`liSN`                   -> 1276430741101850631
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nRUC`                   -> 3
+		`niSTR`                  -> 6
+		`niDEX`                  -> 6
+		`niINT`                  -> 6
+		`niLUK`                  -> 6
+		`nfiLUK`                 -> 24
+		`nfiMaxHP`               -> 1500
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #221
+
+		`liSN`                   -> 1275947431703588864
+		`nItemID`                -> Will o' the Wisps
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 28
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 100
+		`nfiMaxHP`               -> 1170
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 28
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #222
+
+		`liSN`                   -> 1278158839639945224
+		`nItemID`                -> Pensalir Battle Mail
+		`nCUC`                   -> 8
+		`niSTR`                  -> 45
+		`niDEX`                  -> 45
+		`niMaxHP`                -> 2290
+		`nfiMaxHP`               -> 2100
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 1
+		`niPDD`                  -> 940
+		`nfiSpeed`               -> 5
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #223
+
+		`liSN`                   -> 1278158993717702667
+		`nItemID`                -> Pensalir Battle Boots
+		`nCUC`                   -> 5
+		`niSTR`                  -> 40
+		`niDEX`                  -> 34
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 1480
+		`nfiMaxHP`               -> 1680
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 1
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 231
+		`niSpeed`                -> 8
+		`niJump`                 -> 3
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #224
+
+		`liSN`                   -> 1278159221837508617
+		`nItemID`                -> Pensalir Battle Gloves
+		`nCUC`                   -> 4
+		`niSTR`                  -> 36
+		`niDEX`                  -> 35
+		`niMaxHP`                -> 330
+		`nfiMaxHP`               -> 1260
+		`niMaxMP`                -> 130
+		`nfiMaxMP`               -> 840
+		`niPAD`                  -> 13
+		`niPDD`                  -> 100
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #225
+
+		`liSN`                   -> 1278162882126917647
+		`nItemID`                -> Pensalir Battle Cape
+		`nCUC`                   -> 5
+		`niSTR`                  -> 29
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 29
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`nfiLUK`                 -> 8
+		`niMaxHP`                -> 1480
+		`nfiMaxHP`               -> 1260
+		`niMaxMP`                -> 130
+		`niPDD`                  -> 280
+		`niJump`                 -> 4
+		`nfiJump`                -> 4
+		`nfiStatR`               -> 5
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #226
+
+		`liSN`                   -> 1278162576429264912
+		`nItemID`                -> Utgard Desperado
+		`nCUC`                   -> 6
+		`niSTR`                  -> 25
+		`niDEX`                  -> 25
+		`nfiDEX`                 -> 24
+		`niMaxHP`                -> 730
+		`nfiMaxHP`               -> 2100
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 192
+		`nGrade`                 -> 18
+		`nCHUC`                  -> 10
+		`nOption1`               -> Max HP: +7% 
+		`nOption2`               -> ATT: +13 
+		`nOption3`               -> #prop% chance to apply Lv. 5 Freeze when attacking. 
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #227
+
+		`liSN`                   -> 1274621226358333445
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 9
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nAttribute`             -> 8
+
+
+Character: `Bonker5` (126750)
+Account:   `Tzui` (5400)
+
+	Equip Item #228
+
+		`liSN`                   -> 1274097096554950662
+		`nItemID`                -> Crystal Ventus Badge
+		`niSTR`                  -> 9
+		`niDEX`                  -> 8
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+		`nAttribute`             -> 8
+
+
+Character: `Bonker6` (137604)
+Account:   `Tzui` (5400)
+
+	Equip Item #229
+
+		`liSN`                   -> 1280827172063526916
+		`nItemID`                -> Magic Arrows
+
+
+Character: `Bonker6` (137604)
+Account:   `Tzui` (5400)
+
+	Equip Item #230
+
+		`liSN`                   -> 1280827172063526914
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker6` (137604)
+Account:   `Tzui` (5400)
+
+	Equip Item #231
+
+		`liSN`                   -> 1281039533248589826
+		`nItemID`                -> Utgard Dual Bowguns
+		`nCUC`                   -> 5
+		`niSTR`                  -> 25
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 35
+		`nfiINT`                 -> 24
+		`nfiLUK`                 -> 8
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 176
+		`niSpeed`                -> 14
+		`nfiBDR`                 -> 10
+		`nfiDamR`                -> 5
+		`nfiStatR`               -> 4
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker6` (137604)
+Account:   `Tzui` (5400)
+
+	Equip Item #232
+
+		`liSN`                   -> 1281040974507913216
+		`nItemID`                -> Arcane Symbol
+		`niDEX`                  -> 300
+		`nArcaneForce`           -> 30
+		`nArcaneExp`             -> 1
+		`nArcaneLevel`           -> 1
+
+
+Character: `Bonker7` (138517)
+Account:   `Tzui` (5400)
+
+	Equip Item #233
+
+		`liSN`                   -> 1281056922535178242
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker7` (138517)
+Account:   `Tzui` (5400)
+
+	Equip Item #234
+
+		`liSN`                   -> 1281065624264753170
+		`nItemID`                -> Casa Crow
+		`nCUC`                   -> 6
+		`niSTR`                  -> 10
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 16
+		`nfiDEX`                 -> 12
+		`nfiINT`                 -> 18
+		`niMaxHP`                -> 35
+		`nfiMaxHP`               -> 1350
+		`niMaxMP`                -> 35
+		`niPAD`                  -> 126
+		`niSpeed`                -> 11
+		`nCHUC`                  -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #235
+
+		`liSN`                   -> 1281113512952971265
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #236
+
+		`liSN`                   -> 1278926861753348096
+		`nItemID`                -> Ereve Brilliance
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nGrade`                 -> 20
+		`nOption1`               -> ATT: +13% 
+		`nOption2`               -> Boss Monster Damage: +35% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> Boss Monster Damage: +12% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #237
+
+		`liSN`                   -> 1272905723516530688
+		`nItemID`                -> Will o' the Wisps
+		`nPosition`              -> 30
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 51
+		`niINT`                  -> 7
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 4
+		`nGrade`                 -> 20
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> LUK: +10% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #238
+
+		`liSN`                   -> 1276433200100651012
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 63
+		`nRUC`                   -> 3
+		`niSTR`                  -> 5
+		`niDEX`                  -> 5
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nIUC`                   -> 1
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> Max MP: +9% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #239
+
+		`liSN`                   -> 1283894045374029831
+		`nItemID`                -> Reinforced Engraved Gollux Pendant
+		`nPosition`              -> 74
+		`nRUC`                   -> 5
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 23
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 23
+		`nfiINT`                 -> 12
+		`niLUK`                  -> 23
+		`nfiLUK`                 -> 32
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 15
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nOption1`               -> Mesos Obtained: +20% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> HP Recovery Items and Skills: +30% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #240
+
+		`liSN`                   -> 1285563405721382912
+		`nItemID`                -> Gold Cygnus Emblem
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> Boss Monster Damage: +40% 
+		`nOption2`               -> ATT: +10% 
+		`nOption3`               -> Boss Monster Damage: +40% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> Critical Rate: +10% 
+		`nOption6`               -> ATT: +10% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #241
+
+		`liSN`                   -> 1285548856020545536
+		`nItemID`                -> AbsoLab Sureshot Bow
+		`nCUC`                   -> 10
+		`niSTR`                  -> 126
+		`niDEX`                  -> 166
+		`nfiINT`                 -> 63
+		`niMaxHP`                -> 255
+		`nfiMaxHP`               -> 3360
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 403
+		`nfiPAD`                 -> 99
+		`niMAD`                  -> 18
+		`niSpeed`                -> 12
+		`nIUC`                   -> 2
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> Ignore Monster DEF: +35% 
+		`nOption2`               -> ATT: +10% 
+		`nOption3`               -> ATT: +10% 
+		`nOption4`               -> ATT: +13% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> ATT: +10% 
+		`nSoulOptionID`          -> 410
+		`nSoulSocketID`          -> 5
+		`nSoulOption`            -> 702
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #242
+
+		`liSN`                   -> 1268382811807756296
+		`nItemID`                -> Aquatic Letter Eye Accessory
+		`nPosition`              -> 29
+		`nCUC`                   -> 5
+		`niSTR`                  -> 25
+		`niDEX`                  -> 45
+		`niINT`                  -> 25
+		`nfiINT`                 -> 9
+		`niLUK`                  -> 25
+		`nfiLUK`                 -> 27
+		`niMaxHP`                -> 85
+		`niMaxMP`                -> 85
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 144
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 25
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> Item Drop Rate: +20% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> LUK: +17 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #243
+
+		`liSN`                   -> 1268075574006628352
+		`nItemID`                -> Will o' the Wisps
+		`nPosition`              -> 31
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`nfiDEX`                 -> 35
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nfiMAD`                 -> 3
+		`niPDD`                  -> 100
+		`nfiJump`                -> 5
+		`nfiStatR`               -> 4
+		`nGrade`                 -> 20
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> ATT: +11 
+		`nOption5`               -> LUK: +3% 
+		`nOption6`               -> STR: +3% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #244
+
+		`liSN`                   -> 1269178092468023311
+		`nItemID`                -> Lightning God Ring
+		`nPosition`              -> 58
+		`nCUC`                   -> 3
+		`niSTR`                  -> 31
+		`niDEX`                  -> 43
+		`niINT`                  -> 31
+		`niLUK`                  -> 31
+		`niMaxHP`                -> 233
+		`niMaxMP`                -> 235
+		`niSpeed`                -> 16
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> ATT: +11 
+		`nOption5`               -> INT: +11 
+		`nOption6`               -> Jump: +6 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #245
+
+		`liSN`                   -> 1270348561909006336
+		`nItemID`                -> Cracked Gollux Ring
+		`nPosition`              -> 62
+		`nCUC`                   -> 3
+		`niSTR`                  -> 35
+		`niDEX`                  -> 50
+		`niINT`                  -> 35
+		`niLUK`                  -> 35
+		`niMaxHP`                -> 230
+		`niMaxMP`                -> 230
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 81
+		`niSpeed`                -> 5
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> Item Drop Rate: +20% 
+		`nOption4`               -> ATT: +11 
+		`nOption5`               -> Max HP: +125 
+		`nOption6`               -> Movement Speed: +6 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #246
+
+		`liSN`                   -> 1267156615031857156
+		`nItemID`                -> Silver Blossom Ring
+		`nPosition`              -> 64
+		`nCUC`                   -> 4
+		`niSTR`                  -> 30
+		`niDEX`                  -> 46
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 130
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 10
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> ATT: +11 
+		`nOption5`               -> LUK: +6 
+		`nOption6`               -> Jump: +4 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #247
+
+		`liSN`                   -> 1267674269526241284
+		`nItemID`                -> Mechanator Pendant
+		`nPosition`              -> 68
+		`nCUC`                   -> 4
+		`niSTR`                  -> 41
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 61
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 41
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 41
+		`nfiLUK`                 -> 32
+		`niMaxHP`                -> 430
+		`niMaxMP`                -> 430
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 173
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> Item Drop Rate: +20% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> ATT: +11 
+		`nOption5`               -> INT: +6 
+		`nOption6`               -> DEF: +60 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #248
+
+		`liSN`                   -> 1267685892210962432
+		`nItemID`                -> Royal Ranger Beret
+		`nCUC`                   -> 13
+		`niSTR`                  -> 146
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 237
+		`nfiDEX`                 -> 72
+		`niMaxHP`                -> 2175
+		`niMaxMP`                -> 615
+		`nfiMaxMP`               -> 1350
+		`niPAD`                  -> 73
+		`niMAD`                  -> 71
+		`niPDD`                  -> 757
+		`nfiJump`                -> 6
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 10
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 21
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #249
+
+		`liSN`                   -> 1267396273514991622
+		`nItemID`                -> Condensed Power Crystal
+		`nRUC`                   -> 3
+		`nCUC`                   -> 2
+		`niSTR`                  -> 14
+		`niDEX`                  -> 9
+		`nfiDEX`                 -> 45
+		`nfiLUK`                 -> 15
+		`nfiMaxHP`               -> 1320
+		`niPAD`                  -> 11
+		`niPDD`                  -> 91
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> DEX per 10 Character Levels: +1 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #250
+
+		`liSN`                   -> 1275059770650505218
+		`nItemID`                -> Black Bean Mark
+		`nCUC`                   -> 7
+		`niSTR`                  -> 39
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 61
+		`nfiDEX`                 -> 85
+		`niINT`                  -> 32
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 31
+		`nfiLUK`                 -> 16
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 9
+		`niPDD`                  -> 201
+		`nIUC`                   -> 2
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> DEX: +17 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #251
+
+		`liSN`                   -> 1269520970566328320
+		`nItemID`                -> Eagle Eye Ranger Cowl
+		`nCUC`                   -> 9
+		`niSTR`                  -> 125
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 188
+		`nfiDEX`                 -> 68
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 63
+		`niMAD`                  -> 63
+		`niPDD`                  -> 242
+		`nfiPDD`                 -> 48
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 20
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> DEX: +13% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #252
+
+		`liSN`                   -> 1268934172131684352
+		`nItemID`                -> Trixter Ranger Pants
+		`nCUC`                   -> 9
+		`niSTR`                  -> 136
+		`niDEX`                  -> 199
+		`nfiDEX`                 -> 72
+		`nfiINT`                 -> 24
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 73
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 71
+		`niPDD`                  -> 357
+		`nfiPDD`                 -> 32
+		`nIUC`                   -> 2
+		`nIMDR`                  -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 21
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> DEX: +6% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #253
+
+		`liSN`                   -> 1281567434956034048
+		`nItemID`                -> AbsoLab Archer Shoes
+		`nCUC`                   -> 9
+		`niSTR`                  -> 86
+		`niDEX`                  -> 149
+		`nfiDEX`                 -> 75
+		`nfiINT`                 -> 66
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 26
+		`niMAD`                  -> 21
+		`niPDD`                  -> 469
+		`niSpeed`                -> 13
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #254
+
+		`liSN`                   -> 1277424337330307078
+		`nItemID`                -> AbsoLab Archer Gloves
+		`nCUC`                   -> 9
+		`niSTR`                  -> 86
+		`nfiSTR`                 -> 65
+		`niDEX`                  -> 86
+		`nfiDEX`                 -> 65
+		`nfiINT`                 -> 35
+		`nfiLUK`                 -> 35
+		`niMaxHP`                -> 255
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 57
+		`niMAD`                  -> 18
+		`niPDD`                  -> 249
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> Critical Damage: +8% 
+		`nOption2`               -> Critical Damage: +8% 
+		`nOption3`               -> LUK: +10% 
+		`nOption4`               -> Critical Damage: +3% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> DEX: +6% 
+		`nOption7`               -> null
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #255
+
+		`liSN`                   -> 1278710193655545860
+		`nItemID`                -> AbsoLab Archer Cape
+		`nCUC`                   -> 9
+		`niSTR`                  -> 81
+		`nfiSTR`                 -> 30
+		`niDEX`                  -> 144
+		`nfiDEX`                 -> 84
+		`niINT`                  -> 15
+		`niLUK`                  -> 15
+		`nfiLUK`                 -> 45
+		`niMaxHP`                -> 1335
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 23
+		`niMAD`                  -> 23
+		`niPDD`                  -> 745
+		`nfiJump`                -> 5
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> DEX per 10 Character Levels: +2 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #256
+
+		`liSN`                   -> 1270953646192033793
+		`nItemID`                -> Hilla's Rage
+		`nPosition`              -> 57
+		`nCUC`                   -> 3
+		`niSTR`                  -> 34
+		`niDEX`                  -> 46
+		`niINT`                  -> 34
+		`niLUK`                  -> 34
+		`niMaxHP`                -> 235
+		`niMaxMP`                -> 235
+		`niPAD`                  -> 25
+		`niSpeed`                -> 18
+		`niJump`                 -> 10
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 8
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> DEF: +7% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #257
+
+		`liSN`                   -> 1277123558925119503
+		`nItemID`                -> Scarlet Ring
+		`nPosition`              -> 61
+		`nCUC`                   -> 3
+		`niSTR`                  -> 38
+		`niDEX`                  -> 31
+		`niINT`                  -> 41
+		`niLUK`                  -> 45
+		`niMaxHP`                -> 328
+		`niMaxMP`                -> 331
+		`niPAD`                  -> 12
+		`niPDD`                  -> 177
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> ATT: +15 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #258
+
+		`liSN`                   -> 1277958248389120000
+		`nItemID`                -> Reinforced Gollux Ring
+		`nCUC`                   -> 6
+		`niSTR`                  -> 48
+		`niDEX`                  -> 64
+		`niINT`                  -> 35
+		`niLUK`                  -> 33
+		`niMaxHP`                -> 375
+		`niMaxMP`                -> 374
+		`niPAD`                  -> 11
+		`niMAD`                  -> 3
+		`niPDD`                  -> 249
+		`niSpeed`                -> 13
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #259
+
+		`liSN`                   -> 1276674226757234688
+		`nItemID`                -> Superior Gollux Ring
+		`nCUC`                   -> 8
+		`niSTR`                  -> 51
+		`niDEX`                  -> 70
+		`niINT`                  -> 49
+		`niLUK`                  -> 40
+		`niMaxHP`                -> 428
+		`niMaxMP`                -> 429
+		`niPAD`                  -> 18
+		`niMAD`                  -> 18
+		`niPDD`                  -> 259
+		`niSpeed`                -> 8
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> DEX: +6% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #260
+
+		`liSN`                   -> 1269272260930318337
+		`nItemID`                -> Dominator Pendant
+		`nCUC`                   -> 7
+		`niSTR`                  -> 99
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 99
+		`nfiDEX`                 -> 40
+		`niINT`                  -> 99
+		`niLUK`                  -> 99
+		`niMaxHP`                -> 535
+		`nfiMaxHP`               -> 2520
+		`niMaxMP`                -> 535
+		`niPAD`                  -> 41
+		`niMAD`                  -> 41
+		`niPDD`                  -> 602
+		`niSpeed`                -> 21
+		`niJump`                 -> 14
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 4
+		`nAttribute`             -> 32
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +13% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX: +6% 
+		`nOption6`               -> Movement Speed: +10 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #261
+
+		`liSN`                   -> 1272329123527843846
+		`nItemID`                -> Reinforced Engraved Gollux Belt
+		`nPosition`              -> 78
+		`nCUC`                   -> 5
+		`niSTR`                  -> 66
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 81
+		`nfiDEX`                 -> 20
+		`niINT`                  -> 61
+		`niLUK`                  -> 61
+		`niMaxHP`                -> 380
+		`niMaxMP`                -> 380
+		`nfiMaxMP`               -> 1680
+		`niPAD`                  -> 20
+		`niMAD`                  -> 20
+		`niPDD`                  -> 171
+		`nfiSpeed`               -> 4
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> STR per 10 Character Levels: +2 
+		`nOption5`               -> ATT: +13 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #262
+
+		`liSN`                   -> 1283049883858866176
+		`nItemID`                -> AbsoLab Archer Shoulder
+		`nCUC`                   -> 3
+		`niSTR`                  -> 53
+		`niDEX`                  -> 53
+		`niINT`                  -> 21
+		`niLUK`                  -> 22
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 19
+		`niMAD`                  -> 22
+		`niPDD`                  -> 169
+		`nIUC`                   -> 2
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> DEX per 10 Character Levels: +1 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #263
+
+		`liSN`                   -> 1271955701086007296
+		`nItemID`                -> Deluxe Android (F)
+		`nAttribute`             -> 40
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #264
+
+		`liSN`                   -> 1269325195018199040
+		`nItemID`                -> Outlaw Heart
+		`nCUC`                   -> 12
+		`niSTR`                  -> 67
+		`niDEX`                  -> 67
+		`niINT`                  -> 67
+		`niLUK`                  -> 67
+		`niMaxHP`                -> 755
+		`niMaxMP`                -> 255
+		`niPAD`                  -> 103
+		`niMAD`                  -> 19
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #265
+
+		`liSN`                   -> 1269543274230833152
+		`nItemID`                -> Ghost Ship Exorcist
+		`nCUC`                   -> 3
+		`niSTR`                  -> 31
+		`niDEX`                  -> 31
+		`niINT`                  -> 33
+		`niLUK`                  -> 35
+		`niMaxHP`                -> 180
+		`niMaxMP`                -> 180
+		`niPAD`                  -> 13
+		`niPDD`                  -> 115
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX: +6% 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #266
+
+		`liSN`                   -> 1277561981850857478
+		`nItemID`                -> Reinforced Engraved Gollux Pendant
+		`nPosition`              -> 73
+		`nCUC`                   -> 7
+		`niSTR`                  -> 54
+		`niDEX`                  -> 89
+		`nfiDEX`                 -> 24
+		`niINT`                  -> 54
+		`niLUK`                  -> 54
+		`niMaxHP`                -> 480
+		`niMaxMP`                -> 480
+		`niPAD`                  -> 3
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 3
+		`niPDD`                  -> 172
+		`nIUC`                   -> 2
+		`nfiReduceReq`           -> 25
+		`nfiStatR`               -> 3
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 12
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX per 10 Character Levels: +2 
+		`nOption5`               -> HP Recovery Items and Skills: +30% 
+		`nOption6`               -> ATT: +13 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #267
+
+		`liSN`                   -> 1285842724268003328
+		`nItemID`                -> Butterfly Dreams
+		`nPosition`              -> 82
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #268
+
+		`liSN`                   -> 1285901588413788161
+		`nItemID`                -> Stone of Eternal Life
+		`nPosition`              -> 83
+		`niSTR`                  -> 3
+		`nfiSTR`                 -> 5
+		`niDEX`                  -> 3
+		`nfiDEX`                 -> 5
+		`niINT`                  -> 3
+		`niLUK`                  -> 3
+		`nfiLUK`                 -> 10
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nfiStatR`               -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #269
+
+		`liSN`                   -> 1285901588413788160
+		`nItemID`                -> Will o' the Wisps
+		`nPosition`              -> 32
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 35
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`nfiMaxMP`               -> 1560
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 100
+		`nfiReduceReq`           -> 20
+		`nfiStatR`               -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #270
+
+		`liSN`                   -> 1284300736993406977
+		`nItemID`                -> Pink Holy Cup
+		`niSTR`                  -> 5
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 5
+		`nfiDEX`                 -> 48
+		`niINT`                  -> 5
+		`niLUK`                  -> 5
+		`niMaxHP`                -> 50
+		`niMaxMP`                -> 50
+		`niPAD`                  -> 5
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 5
+		`nfiStatR`               -> 6
+		`nAttribute`             -> 8
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #271
+
+		`liCashItemSN`           -> 1268414491415277568
+		`nItemID`                -> Black Bucket Hat
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #272
+
+		`liCashItemSN`           -> 1268416065327853568
+		`nItemID`                -> Dark Silence
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #273
+
+		`liCashItemSN`           -> 1286839728360124416
+		`ftDateExpire`           -> 1603458000000
+		`nItemID`                -> Transparent Earrings
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #274
+
+		`liCashItemSN`           -> 1275944093561909248
+		`nItemID`                -> Lotus's Black Wings Uniform
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #275
+
+		`liCashItemSN`           -> 1275938468551454720
+		`nItemID`                -> null
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #276
+
+		`liCashItemSN`           -> 1275936871872196608
+		`nItemID`                -> Star Shadow
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #277
+
+		`liCashItemSN`           -> 1286839877257916416
+		`ftDateExpire`           -> 1603458000000
+		`nItemID`                -> White Label Ring
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #278
+
+		`liSN`                   -> 1282642672418533376
+		`nItemID`                -> Superior Gollux Earrings
+		`nCUC`                   -> 9
+		`niSTR`                  -> 102
+		`niDEX`                  -> 104
+		`nfiDEX`                 -> 60
+		`niINT`                  -> 105
+		`niLUK`                  -> 102
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 407
+		`niMaxMP`                -> 409
+		`niPAD`                  -> 66
+		`niMAD`                  -> 60
+		`niPDD`                  -> 186
+		`nfiJump`                -> 5
+		`nIUC`                   -> 2
+		`nfiStatR`               -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 17
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> DEX: +8% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #279
+
+		`liSN`                   -> 1287911605379772416
+		`nItemID`                -> Cygnus Constellation
+		`nPosition`              -> 81
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #280
+
+		`liSN`                   -> 1287157613758443526
+		`nItemID`                -> Superior Engraved Gollux Belt
+		`nRUC`                   -> 3
+		`niSTR`                  -> 60
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 60
+		`nfiDEX`                 -> 64
+		`niINT`                  -> 60
+		`niLUK`                  -> 60
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 35
+		`nfiPAD`                 -> 6
+		`niMAD`                  -> 35
+		`niPDD`                  -> 100
+		`nfiJump`                -> 5
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> All Stats: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> All Stats: +6% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> DEX: +6% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #281
+
+		`liSN`                   -> 1288763211910406151
+		`nItemID`                -> Superior Engraved Gollux Pendant
+		`nRUC`                   -> 6
+		`niSTR`                  -> 28
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 28
+		`nfiDEX`                 -> 48
+		`niINT`                  -> 28
+		`nfiINT`                 -> 24
+		`niLUK`                  -> 28
+		`nfiLUK`                 -> 56
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 7
+		`nAttribute`             -> 40
+		`nGrade`                 -> 20
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> All Stats: +7% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX per 10 Character Levels: +1 
+		`nOption6`               -> DEX per 10 Character Levels: +1 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #282
+
+		`liCashItemSN`           -> 1289370554222227456
+		`nItemID`                -> Cobalt Filigree
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #283
+
+		`liSN`                   -> 1289956187625992192
+		`nItemID`                -> Maple World Savior
+		`niSTR`                  -> 7
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`niLUK`                  -> 7
+		`niMaxHP`                -> 475
+		`niMaxMP`                -> 475
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 175
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #284
+
+		`liCashItemSN`           -> 1294437717765246976
+		`nItemID`                -> Alliance Commander Tiara
+		`nPosition`              -> 19
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #285
+
+		`liCashItemSN`           -> 1294438070854340608
+		`nItemID`                -> Kemdi Mask
+		`nPosition`              -> 9
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #286
+
+		`liSN`                   -> 1299667513818460166
+		`nItemID`                -> Pierre Hat
+		`nPosition`              -> 1
+		`nRUC`                   -> 7
+		`niSTR`                  -> 18
+		`nfiSTR`                 -> 8
+		`niDEX`                  -> 18
+		`niINT`                  -> 18
+		`niLUK`                  -> 18
+		`nfiLUK`                 -> 12
+		`nfiMAD`                 -> 5
+		`niPDD`                  -> 150
+		`niSpeed`                -> 5
+		`nfiSpeed`               -> 3
+		`nGrade`                 -> 17
+		`nOption1`               -> DEX: +13 
+		`nOption2`               -> 10% chance to get furious for <time> seconds when attacked. 
+		`nOption3`               -> 10% chance to go into a rage for <time> seconds when attacked. 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #287
+
+		`liSN`                   -> 1299667513822654464
+		`nItemID`                -> Chaos Pierre Hat
+		`nPosition`              -> 4
+		`nRUC`                   -> 10
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 4
+		`niDEX`                  -> 23
+		`niINT`                  -> 23
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 23
+		`nfiLUK`                 -> 32
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 300
+		`niSpeed`                -> 5
+		`nfiSpeed`               -> 2
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #288
+
+		`liSN`                   -> 1299667995903373314
+		`nItemID`                -> Queen's Tiara
+		`nPosition`              -> 3
+		`nRUC`                   -> 7
+		`niSTR`                  -> 18
+		`nfiSTR`                 -> 2
+		`niDEX`                  -> 18
+		`nfiDEX`                 -> 8
+		`niINT`                  -> 18
+		`nfiINT`                 -> 10
+		`niLUK`                  -> 18
+		`niPDD`                  -> 150
+		`niSpeed`                -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #289
+
+		`liSN`                   -> 1299667995903373315
+		`nItemID`                -> Chaos Queen's Tiara
+		`nPosition`              -> 7
+		`nRUC`                   -> 10
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 23
+		`nfiDEX`                 -> 32
+		`niINT`                  -> 23
+		`nfiINT`                 -> 8
+		`niLUK`                  -> 23
+		`nfiMaxMP`               -> 1260
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 300
+		`niSpeed`                -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #290
+
+		`liSN`                   -> 1299668257783132164
+		`nItemID`                -> Chaos Von Bon Helmet
+		`nPosition`              -> 5
+		`nRUC`                   -> 8
+		`nCUC`                   -> 1
+		`niSTR`                  -> 21
+		`nfiSTR`                 -> 4
+		`niDEX`                  -> 24
+		`niINT`                  -> 26
+		`nfiINT`                 -> 4
+		`niLUK`                  -> 20
+		`niPDD`                  -> 301
+		`niSpeed`                -> 1
+		`nfiJump`                -> 4
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #291
+
+		`liSN`                   -> 1300395745769402371
+		`nItemID`                -> Chaos Queen's Tiara
+		`nPosition`              -> 8
+		`nRUC`                   -> 10
+		`niSTR`                  -> 23
+		`niDEX`                  -> 23
+		`nfiDEX`                 -> 4
+		`niINT`                  -> 23
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 23
+		`nfiMaxMP`               -> 1260
+		`niPAD`                  -> 1
+		`nfiPAD`                 -> 2
+		`niMAD`                  -> 1
+		`niPDD`                  -> 300
+		`niSpeed`                -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #292
+
+		`liSN`                   -> 1300395745769402370
+		`nItemID`                -> Queen's Tiara
+		`nPosition`              -> 2
+		`nRUC`                   -> 7
+		`niSTR`                  -> 18
+		`niDEX`                  -> 18
+		`niINT`                  -> 18
+		`niLUK`                  -> 18
+		`nfiMaxHP`               -> 420
+		`niPDD`                  -> 150
+		`nfiPDD`                 -> 12
+		`niSpeed`                -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #293
+
+		`liSN`                   -> 1300395930515910660
+		`nItemID`                -> Chaos Von Bon Helmet
+		`nPosition`              -> 6
+		`nRUC`                   -> 10
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 40
+		`niDEX`                  -> 23
+		`niINT`                  -> 23
+		`niLUK`                  -> 23
+		`nfiLUK`                 -> 32
+		`nfiMaxMP`               -> 2100
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 300
+		`niSpeed`                -> 5
+		`nfiReduceReq`           -> 25
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #294
+
+		`liCashItemSN`           -> 1301046984899276800
+		`nItemID`                -> With Christa
+		`nPosition`              -> 54
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #295
+
+		`liCashItemSN`           -> 1301046984937025536
+		`nItemID`                -> Lil Mercedes
+		`nPosition`              -> 87
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #296
+
+		`liCashItemSN`           -> 1301046984949608448
+		`nItemID`                -> Plum Blossom Dress
+		`nPosition`              -> 36
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #297
+
+		`liCashItemSN`           -> 1301046984962191360
+		`nItemID`                -> Sitting Mikasa
+		`nPosition`              -> 10
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #298
+
+		`liCashItemSN`           -> 1301046984970579968
+		`nItemID`                -> Black Moon
+		`nPosition`              -> 28
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #299
+
+		`liCashItemSN`           -> 1301046984978968576
+		`nItemID`                -> Puppy Pal Weapon (Brown)
+		`nPosition`              -> 86
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #300
+
+		`liCashItemSN`           -> 1301046984987357184
+		`nItemID`                -> Homeless Cat Shoes
+		`nPosition`              -> 48
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #301
+
+		`liCashItemSN`           -> 1301046984991551488
+		`nItemID`                -> Winter Bunny Gloves (Teal)
+		`nPosition`              -> 50
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #302
+
+		`liCashItemSN`           -> 1301046984995745792
+		`nItemID`                -> Cherry Snow Outfit
+		`nPosition`              -> 35
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #303
+
+		`liCashItemSN`           -> 1301046984999940096
+		`nItemID`                -> Silver Wolf Ears
+		`nPosition`              -> 13
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #304
+
+		`liCashItemSN`           -> 1301047108216008704
+		`nItemID`                -> Sitting Colossal Titan
+		`nPosition`              -> 11
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #305
+
+		`liCashItemSN`           -> 1301047108241174528
+		`nItemID`                -> Rifle Blade
+		`nPosition`              -> 84
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #306
+
+		`liCashItemSN`           -> 1301047108249563136
+		`nItemID`                -> Homeless Cat Hat
+		`nPosition`              -> 17
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #307
+
+		`liCashItemSN`           -> 1301047108262146048
+		`nItemID`                -> Perion Floral Crown
+		`nPosition`              -> 21
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #308
+
+		`liCashItemSN`           -> 1301047108278923264
+		`nItemID`                -> Lil Alicia
+		`nPosition`              -> 88
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #309
+
+		`liCashItemSN`           -> 1301047108291506176
+		`nItemID`                -> Oz Doll Hat
+		`nPosition`              -> 15
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #310
+
+		`liCashItemSN`           -> 1301047108299894784
+		`nItemID`                -> Rifle Blade
+		`nPosition`              -> 85
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #311
+
+		`liCashItemSN`           -> 1301047108316672000
+		`nItemID`                -> Lotus's Lovey Doll
+		`nPosition`              -> 90
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #312
+
+		`liCashItemSN`           -> 1301047108325060608
+		`nItemID`                -> null
+		`nPosition`              -> 44
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #313
+
+		`liCashItemSN`           -> 1301047108333449216
+		`nItemID`                -> Winter Bunny Boots (Teal)
+		`nPosition`              -> 47
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #314
+
+		`liCashItemSN`           -> 1301074896578916352
+		`nItemID`                -> null
+		`nPosition`              -> 45
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #315
+
+		`liSN`                   -> 1301142474538070016
+		`nItemID`                -> Reinforced Engraved Gollux Belt
+		`nPosition`              -> 79
+		`nRUC`                   -> 3
+		`niSTR`                  -> 30
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 12
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`nfiLUK`                 -> 12
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 20
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 20
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #316
+
+		`liSN`                   -> 1301489403470000133
+		`nItemID`                -> Reinforced Engraved Gollux Pendant
+		`nPosition`              -> 75
+		`nRUC`                   -> 5
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 24
+		`niDEX`                  -> 23
+		`niINT`                  -> 23
+		`niLUK`                  -> 23
+		`nfiLUK`                 -> 32
+		`niMaxHP`                -> 300
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 4
+		`nfiJump`                -> 4
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #317
+
+		`liSN`                   -> 1301840943246454790
+		`nItemID`                -> Reinforced Engraved Gollux Belt
+		`nPosition`              -> 80
+		`nRUC`                   -> 3
+		`niSTR`                  -> 30
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`nfiLUK`                 -> 32
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 20
+		`nfiPAD`                 -> 4
+		`niMAD`                  -> 20
+		`niPDD`                  -> 100
+		`nfiSpeed`               -> 3
+		`nfiJump`                -> 3
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #318
+
+		`liSN`                   -> 1301297896100126720
+		`nItemID`                -> Meister Ring
+		`nPosition`              -> 59
+		`nCUC`                   -> 3
+		`niSTR`                  -> 13
+		`niDEX`                  -> 3
+		`niINT`                  -> 13
+		`niMaxHP`                -> 208
+		`niMaxMP`                -> 202
+		`niPAD`                  -> 11
+		`niMAD`                  -> 2
+		`niPDD`                  -> 155
+		`nIUC`                   -> 2
+		`nGrade`                 -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> STR: +10% 
+		`sTitle`                 -> Asegawa
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #319
+
+		`liSN`                   -> 1301502253412347924
+		`nItemID`                -> Scarlet Ring
+		`nPosition`              -> 60
+		`nRUC`                   -> 1
+		`niSTR`                  -> 4
+		`niDEX`                  -> 4
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`niMaxHP`                -> 150
+		`niMaxMP`                -> 150
+		`niPAD`                  -> 1
+		`niMAD`                  -> 1
+		`niPDD`                  -> 100
+		`nGrade`                 -> 20
+		`nOption1`               -> All Stats: +10% 
+		`nOption2`               -> STR: +10% 
+		`nOption3`               -> HP Recovery Items and Skills: +30% 
+		`nOption4`               -> DEX: +8% 
+		`nOption5`               -> DEX: +8% 
+		`nOption6`               -> INT: +6% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #320
+
+		`liCashItemSN`           -> 1268417134590160896
+		`nItemID`                -> Raging Lotus Aura
+		`nPosition`              -> 53
+		`nAttribute`             -> 32
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #321
+
+		`liSN`                   -> 1303189765608398848
+		`nItemID`                -> Solid Gollux Ring
+		`nCUC`                   -> 4
+		`niSTR`                  -> 89
+		`niDEX`                  -> 95
+		`niINT`                  -> 95
+		`niLUK`                  -> 92
+		`niMaxHP`                -> 363
+		`niMaxMP`                -> 369
+		`niPAD`                  -> 71
+		`niMAD`                  -> 66
+		`niPDD`                  -> 266
+		`nIUC`                   -> 2
+		`nAttribute`             -> 8
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 20
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> All Stats: +7% 
+		`nOption4`               -> DEX per 10 Character Levels: +2 
+		`nOption5`               -> All Stats: +5% 
+		`nOption6`               -> All Stats: +5% 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #322
+
+		`liSN`                   -> 1303392985689583616
+		`nItemID`                -> Meister Ring
+		`nCUC`                   -> 3
+		`niSTR`                  -> 109
+		`niDEX`                  -> 122
+		`niINT`                  -> 106
+		`niLUK`                  -> 103
+		`niMaxHP`                -> 455
+		`niMaxMP`                -> 455
+		`niPAD`                  -> 107
+		`niMAD`                  -> 102
+		`niPDD`                  -> 422
+		`nIUC`                   -> 2
+		`nAttribute`             -> 136
+		`nGrade`                 -> 20
+		`nCHUC`                  -> 22
+		`nOption1`               -> DEX: +13% 
+		`nOption2`               -> DEX: +10% 
+		`nOption3`               -> DEX: +10% 
+		`nOption4`               -> DEX per 10 Character Levels: +2 
+		`nOption5`               -> DEX: +6% 
+		`nOption6`               -> DEX: +6% 
+		`sTitle`                 -> Pepper
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #323
+
+		`liCashItemSN`           -> 1303967541563207680
+		`nItemID`                -> ODM Gear
+		`nPosition`              -> 46
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #324
+
+		`liCashItemSN`           -> 1303967541563207681
+		`nItemID`                -> Sitting Colossal Titan
+		`nPosition`              -> 12
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #325
+
+		`liCashItemSN`           -> 1303967541563207682
+		`nItemID`                -> With Christa
+		`nPosition`              -> 55
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #326
+
+		`liCashItemSN`           -> 1303967541567401984
+		`nItemID`                -> Perion Floral Crown
+		`nPosition`              -> 22
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #327
+
+		`liCashItemSN`           -> 1306117482649726976
+		`nItemID`                -> Shadow Tactician Weapon
+		`nPosition`              -> 89
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #328
+
+		`liCashItemSN`           -> 1306117482653921280
+		`nItemID`                -> Giant Dark Devil Wings
+		`nPosition`              -> 52
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #329
+
+		`liCashItemSN`           -> 1306117482653921281
+		`nItemID`                -> Fairy in a Gilded Cage
+		`nPosition`              -> 91
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #330
+
+		`liCashItemSN`           -> 1306117482653921282
+		`nItemID`                -> null
+		`nPosition`              -> 27
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #331
+
+		`liCashItemSN`           -> 1306117482662309888
+		`nItemID`                -> Forsythia Mini Hairpin
+		`nPosition`              -> 20
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #332
+
+		`liCashItemSN`           -> 1306117482666504192
+		`nItemID`                -> Crown Fitness Track Suit
+		`nPosition`              -> 40
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #333
+
+		`liCashItemSN`           -> 1306117482670698496
+		`nItemID`                -> Retro Maid Shoes (M)
+		`nPosition`              -> 49
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #334
+
+		`liCashItemSN`           -> 1306117482670698497
+		`nItemID`                -> null
+		`nPosition`              -> 26
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #335
+
+		`liCashItemSN`           -> 1306117482674892800
+		`nItemID`                -> Peach Blossom Fox Chat Ring
+		`nPosition`              -> 66
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #336
+
+		`liCashItemSN`           -> 1306117597875646464
+		`nItemID`                -> Fairy in a Gilded Cage
+		`nPosition`              -> 92
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #337
+
+		`liCashItemSN`           -> 1306117597879840768
+		`nItemID`                -> Starry Summer Night Outfit (M) 
+		`nPosition`              -> 39
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #338
+
+		`liCashItemSN`           -> 1306117597879840769
+		`nItemID`                -> Marron Glacé
+		`nPosition`              -> 33
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #339
+
+		`liCashItemSN`           -> 1306117597884035072
+		`nItemID`                -> Light of Erda
+		`nPosition`              -> 56
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #340
+
+		`liCashItemSN`           -> 1306117597884035073
+		`nItemID`                -> Retro School Uniform
+		`nPosition`              -> 34
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #341
+
+		`liCashItemSN`           -> 1306117597884035074
+		`nItemID`                -> null
+		`nPosition`              -> 43
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #342
+
+		`liCashItemSN`           -> 1306117597884035075
+		`nItemID`                -> Giant Bright Angel Wings
+		`nPosition`              -> 51
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #343
+
+		`liCashItemSN`           -> 1306117597888229376
+		`nItemID`                -> Lucid's Silk Hat
+		`nPosition`              -> 16
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #344
+
+		`liCashItemSN`           -> 1306117597888229377
+		`nItemID`                -> Peach Blossom Fox Label Ring
+		`nPosition`              -> 67
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #345
+
+		`liCashItemSN`           -> 1306117597888229378
+		`nItemID`                -> Fairy in a Gilded Cage
+		`nPosition`              -> 93
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #346
+
+		`liCashItemSN`           -> 1306117674174230528
+		`nItemID`                -> Fluffy Pink Ribbon
+		`nPosition`              -> 18
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #347
+
+		`liCashItemSN`           -> 1306117674178424832
+		`nItemID`                -> null
+		`nPosition`              -> 23
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #348
+
+		`liCashItemSN`           -> 1306117674186813440
+		`nItemID`                -> Rabble Rouser Outfit (F)
+		`nPosition`              -> 37
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #349
+
+		`liCashItemSN`           -> 1306117674195202048
+		`nItemID`                -> White Time
+		`nPosition`              -> 14
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #350
+
+		`liCashItemSN`           -> 1306117674203590656
+		`nItemID`                -> Retro Maid Outfit (M)
+		`nPosition`              -> 41
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #351
+
+		`liCashItemSN`           -> 1306117674207784960
+		`nItemID`                -> null
+		`nPosition`              -> 25
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #352
+
+		`liCashItemSN`           -> 1306117674207784961
+		`nItemID`                -> null
+		`nPosition`              -> 24
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #353
+
+		`liCashItemSN`           -> 1306117674211979264
+		`nItemID`                -> Retro Maid Outfit (M)
+		`nPosition`              -> 42
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #354
+
+		`liCashItemSN`           -> 1306117674220367872
+		`nItemID`                -> null
+		`nPosition`              -> 94
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #355
+
+		`liCashItemSN`           -> 1306117674224562176
+		`nItemID`                -> Rabble Rouser Outfit (F)
+		`nPosition`              -> 38
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #356
+
+		`liCashItemSN`           -> 1306141712875515907
+		`nItemID`                -> EXP Boost Ring (10%) 
+		`nPosition`              -> 65
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #357
+
+		`liSN`                   -> 1306227829746413574
+		`nItemID`                -> Reinforced Engraved Gollux Belt
+		`nPosition`              -> 77
+		`nRUC`                   -> 3
+		`niSTR`                  -> 30
+		`nfiSTR`                 -> 16
+		`niDEX`                  -> 30
+		`nfiDEX`                 -> 16
+		`niINT`                  -> 30
+		`nfiINT`                 -> 32
+		`niLUK`                  -> 30
+		`niMaxHP`                -> 200
+		`niMaxMP`                -> 200
+		`niPAD`                  -> 20
+		`nfiPAD`                 -> 5
+		`niMAD`                  -> 20
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 40
+		`nGrade`                 -> 1
+		`nOption1`               -> Max HP: +4% 
+		`nOption2`               -> LUK: +6 
+		`nOption3`               -> LUK: +6 
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #358
+
+		`liSN`                   -> 1308034238997835783
+		`nItemID`                -> Reinforced Engraved Gollux Pendant
+		`nPosition`              -> 76
+		`nRUC`                   -> 5
+		`niSTR`                  -> 23
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 23
+		`niINT`                  -> 23
+		`nfiINT`                 -> 20
+		`niLUK`                  -> 23
+		`niMaxHP`                -> 300
+		`nfiMaxHP`               -> 1260
+		`niMaxMP`                -> 300
+		`niPAD`                  -> 3
+		`niMAD`                  -> 3
+		`nfiMAD`                 -> 4
+		`niPDD`                  -> 100
+		`nfiJump`                -> 4
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #359
+
+		`liCashItemSN`           -> 1306141712875515906
+		`nItemID`                -> Autumn Romance Label Ring
+		`nPosition`              -> 69
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #360
+
+		`liCashItemSN`           -> 1306117482649726977
+		`nItemID`                -> null
+		`nPosition`              -> 70
+		`nAttribute`             -> 16
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #361
+
+		`liSN`                   -> 1267294422580834304
+		`nItemID`                -> Arcane Symbol: Vanishing Journey
+		`niDEX`                  -> 1200
+		`nArcaneForce`           -> 120
+		`nArcaneExp`             -> 54
+		`nArcaneLevel`           -> 10
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #362
+
+		`liSN`                   -> 1267471459127853056
+		`nItemID`                -> Arcane Symbol: Chu Chu Island
+		`niDEX`                  -> 1200
+		`nArcaneForce`           -> 120
+		`nArcaneExp`             -> 21
+		`nArcaneLevel`           -> 10
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #363
+
+		`liSN`                   -> 1268500437997441024
+		`nItemID`                -> Arcane Symbol: Lachelein
+		`niDEX`                  -> 1000
+		`nArcaneForce`           -> 100
+		`nArcaneExp`             -> 10
+		`nArcaneLevel`           -> 8
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #364
+
+		`liSN`                   -> 1269476512210595840
+		`nItemID`                -> Arcane Symbol: Arcana
+		`niDEX`                  -> 1100
+		`nArcaneForce`           -> 110
+		`nArcaneExp`             -> 74
+		`nArcaneLevel`           -> 9
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #365
+
+		`liSN`                   -> 1270150356189560832
+		`nItemID`                -> Arcane Symbol: Morass
+		`niDEX`                  -> 700
+		`nArcaneForce`           -> 70
+		`nArcaneExp`             -> 31
+		`nArcaneLevel`           -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #366
+
+		`liSN`                   -> 1270885596306587648
+		`nItemID`                -> Arcane Symbol: Esfera
+		`niDEX`                  -> 700
+		`nArcaneForce`           -> 70
+		`nArcaneExp`             -> 2
+		`nArcaneLevel`           -> 5
+
+
+Character: `Tzui` (138766)
+Account:   `Tzui` (5400)
+
+	Equip Item #367
+
+		`liSN`                   -> 1306205412810534912
+		`ftDateExpire`           -> 1601561813194
+		`nItemID`                -> Frenzy Totem
+		`niSTR`                  -> 30
+		`niDEX`                  -> 30
+		`niINT`                  -> 30
+		`niLUK`                  -> 30
+		`niPAD`                  -> 10
+		`niMAD`                  -> 10
+		`nLevel`                 -> 1
+		`nAttribute`             -> 8
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #368
+
+		`liSN`                   -> 1284658928311070722
+		`nItemID`                -> Lapis Type 7
+		`nRUC`                   -> 8
+		`niSTR`                  -> 40
+		`niDEX`                  -> 40
+		`niPAD`                  -> 173
+		`niPDD`                  -> 150
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #369
+
+		`liSN`                   -> 1284658928311070723
+		`nItemID`                -> Lazuli Type 7
+		`nRUC`                   -> 8
+		`niSTR`                  -> 40
+		`niDEX`                  -> 40
+		`niPAD`                  -> 169
+		`nBDR`                   -> 30
+		`nIMDR`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #370
+
+		`liSN`                   -> 1284658963513847810
+		`nItemID`                -> Crusader Codex
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #371
+
+		`liSN`                   -> 1275367651325227017
+		`nItemID`                -> Crystal Ventus Badge
+		`nPosition`              -> 30
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 9
+		`niPAD`                  -> 5
+		`niMAD`                  -> 5
+		`niSpeed`                -> 10
+		`niJump`                 -> 10
+		`nAttribute`             -> 8
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #372
+
+		`liSN`                   -> 1284651353070874636
+		`nItemID`                -> Pensalir Battle Helm
+		`nCUC`                   -> 9
+		`niSTR`                  -> 68
+		`nfiSTR`                 -> 12
+		`niDEX`                  -> 35
+		`nfiDEX`                 -> 12
+		`niMaxHP`                -> 550
+		`niMaxMP`                -> 280
+		`niPDD`                  -> 404
+		`nfiStatR`               -> 5
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #373
+
+		`liSN`                   -> 1269271851247480832
+		`nItemID`                -> Will o' the Wisps
+		`nRUC`                   -> 5
+		`niSTR`                  -> 7
+		`nfiSTR`                 -> 48
+		`niDEX`                  -> 7
+		`niINT`                  -> 7
+		`nfiINT`                 -> 28
+		`niLUK`                  -> 7
+		`nfiLUK`                 -> 20
+		`niMaxHP`                -> 100
+		`niMaxMP`                -> 100
+		`niPAD`                  -> 2
+		`niMAD`                  -> 2
+		`niPDD`                  -> 100
+		`nfiStatR`               -> 5
+		`nGrade`                 -> 17
+		`nOption1`               -> Max MP: +125 
+		`nOption2`               -> DEF: +60 
+		`nOption3`               -> DEX: +6 
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #374
+
+		`liSN`                   -> 1284650374141292560
+		`nItemID`                -> Pensalir Battle Mail
+		`nCUC`                   -> 10
+		`niSTR`                  -> 75
+		`nfiSTR`                 -> 44
+		`niDEX`                  -> 45
+		`nfiDEX`                 -> 20
+		`niMaxHP`                -> 430
+		`niMaxMP`                -> 130
+		`nfiMaxMP`               -> 2100
+		`niPAD`                  -> 1
+		`niPDD`                  -> 913
+		`nfiJump`                -> 1
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #375
+
+		`liSN`                   -> 1278160401221267470
+		`nItemID`                -> Pensalir Battle Boots
+		`nCUC`                   -> 6
+		`niSTR`                  -> 58
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 34
+		`nfiDEX`                 -> 8
+		`nfiINT`                 -> 8
+		`niMaxHP`                -> 310
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 1
+		`niPDD`                  -> 218
+		`niSpeed`                -> 8
+		`niJump`                 -> 3
+		`nfiStatR`               -> 4
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #376
+
+		`liSN`                   -> 1284651536479399962
+		`nItemID`                -> Pensalir Battle Gloves
+		`nCUC`                   -> 5
+		`niSTR`                  -> 36
+		`nfiSTR`                 -> 20
+		`niDEX`                  -> 35
+		`nfiDEX`                 -> 8
+		`nfiINT`                 -> 20
+		`nfiLUK`                 -> 8
+		`niMaxHP`                -> 330
+		`niMaxMP`                -> 130
+		`niPAD`                  -> 15
+		`nfiPAD`                 -> 3
+		`niPDD`                  -> 100
+		`nfiPDD`                 -> 32
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #377
+
+		`liSN`                   -> 1284649708119371805
+		`nItemID`                -> Pensalir Battle Cape
+		`nCUC`                   -> 7
+		`niSTR`                  -> 50
+		`nfiSTR`                 -> 32
+		`niDEX`                  -> 29
+		`niINT`                  -> 4
+		`niLUK`                  -> 4
+		`niMaxHP`                -> 340
+		`niMaxMP`                -> 130
+		`nfiMaxMP`               -> 840
+		`niPDD`                  -> 271
+		`niJump`                 -> 4
+		`nfiJump`                -> 2
+		`nCHUC`                  -> 10
+
+
+Character: `Bonker8` (152620)
+Account:   `Tzui` (5400)
+
+	Equip Item #378
+
+		`liSN`                   -> 1276430535442542598
+		`nItemID`                -> Royal Black Metal Shoulder
+		`nRUC`                   -> 1
+		`niSTR`                  -> 10
+		`niDEX`                  -> 10
+		`niINT`                  -> 10
+		`niLUK`                  -> 10
+		`niPAD`                  -> 6
+		`niMAD`                  -> 6
+		`niPDD`                  -> 100
+		`nAttribute`             -> 8

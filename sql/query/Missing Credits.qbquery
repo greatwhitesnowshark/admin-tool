@@ -1,0 +1,1 @@
+﻿select * From logdonate where bcredited = 0
