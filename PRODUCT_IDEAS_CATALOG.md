@@ -240,6 +240,35 @@
    - Simple, calming design
    - Reflection questions
 
+6. **Passive Income Tracker** (1.5 hours)
+   - Multiple income streams section
+   - Daily/weekly/monthly revenue tracking
+   - Goal progress visualization
+   - Expense vs. profit calculator
+   - Year-over-year comparison charts
+   - **Success Metrics:**
+     - First Week: First sale
+     - 1st Month: $2,000+
+     - 2nd Month: $2,500+
+     - 3rd Month: $3,000+
+     - 6th Month: $5,000+
+     - 12th Month: $10,000+
+
+7. **Side Hustle Success Planner** (2 hours)
+   - 90-day action plan template
+   - Weekly milestone tracker
+   - Revenue goal breakdown
+   - Marketing activity log
+   - Customer acquisition tracker
+   - Time investment vs. earnings analysis
+   - **Success Metrics:**
+     - First Week: First sale
+     - 1st Month: $2,000+
+     - 2nd Month: $2,500+
+     - 3rd Month: $3,000+
+     - 6th Month: $5,000+
+     - 12th Month: $10,000+
+
 ---
 
 ## 💎 Premium Product Ideas (Higher Price)
